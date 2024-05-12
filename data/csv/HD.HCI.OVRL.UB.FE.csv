@@ -1,0 +1,2388 @@
+"Country Name","Country Code","Año","HD.HCI.OVRL.UB.FE"
+"Aruba","ABW","2010",""
+"Afghanistan","AFG","2010",""
+"Angola","AGO","2010",""
+"Albania","ALB","2010",0.577517807483673
+"Andorra","AND","2010",""
+"United Arab Emirates","ARE","2010",0.662206172943115
+"Argentina","ARG","2010",0.624944806098938
+"Armenia","ARM","2010",""
+"American Samoa","ASM","2010",""
+"Antigua and Barbuda","ATG","2010",""
+"Australia","AUS","2010",0.77934855222702
+"Austria","AUT","2010",0.765013694763184
+"Azerbaijan","AZE","2010",0.520670831203461
+"Burundi","BDI","2010",0.360569089651108
+"Belgium","BEL","2010",0.775185227394104
+"Benin","BEN","2010",0.378692984580994
+"Burkina Faso","BFA","2010",0.3291095495224
+"Bangladesh","BGD","2010",""
+"Bulgaria","BGR","2010",0.680372893810272
+"Bahrain","BHR","2010",0.642374217510223
+"Bahamas, The","BHS","2010",""
+"Bosnia and Herzegovina","BIH","2010",""
+"Belarus","BLR","2010",""
+"Belize","BLZ","2010",""
+"Bermuda","BMU","2010",""
+"Bolivia","BOL","2010",""
+"Brazil","BRA","2010",""
+"Barbados","BRB","2010",""
+"Brunei Darussalam","BRN","2010",""
+"Bhutan","BTN","2010",""
+"Botswana","BWA","2010",0.417320489883423
+"Central African Republic","CAF","2010",""
+"Canada","CAN","2010",0.791290044784546
+"Switzerland","CHE","2010",0.785737872123718
+"Channel Islands","CHI","2010",""
+"Chile","CHL","2010",0.65124922990799
+"China","CHN","2010",""
+"Cote d'Ivoire","CIV","2010",0.313912063837051
+"Cameroon","CMR","2010",0.393188506364822
+"Congo, Dem. Rep.","COD","2010",""
+"Congo, Rep.","COG","2010",0.428759932518005
+"Colombia","COL","2010",0.59607857465744
+"Comoros","COM","2010",""
+"Cabo Verde","CPV","2010",""
+"Costa Rica","CRI","2010",0.618132293224335
+"Cuba","CUB","2010",""
+"Curacao","CUW","2010",""
+"Cayman Islands","CYM","2010",""
+"Cyprus","CYP","2010",0.718113899230957
+"Czech Republic","CZE","2010",0.764823198318481
+"Germany","DEU","2010",0.787033081054688
+"Djibouti","DJI","2010",""
+"Dominica","DMA","2010",""
+"Denmark","DNK","2010",0.768982827663422
+"Dominican Republic","DOM","2010",""
+"Algeria","DZA","2010",0.54828679561615
+"Ecuador","ECU","2010",0.551737725734711
+"Egypt, Arab Rep.","EGY","2010",0.500747919082642
+"Eritrea","ERI","2010",""
+"Spain","ESP","2010",0.732989370822906
+"Estonia","EST","2010",0.781609892845154
+"Ethiopia","ETH","2010",""
+"Finland","FIN","2010",0.861603796482086
+"Fiji","FJI","2010",""
+"France","FRA","2010",0.787470102310181
+"Faroe Islands","FRO","2010",""
+"Micronesia, Fed. Sts.","FSM","2010",""
+"Gabon","GAB","2010",""
+"United Kingdom","GBR","2010",0.783146798610687
+"Georgia","GEO","2010",0.602123498916626
+"Ghana","GHA","2010",""
+"Gibraltar","GIB","2010",""
+"Guinea","GIN","2010",""
+"Gambia, The","GMB","2010",0.393703132867813
+"Guinea-Bissau","GNB","2010",""
+"Equatorial Guinea","GNQ","2010",""
+"Greece","GRC","2010",0.746996283531189
+"Grenada","GRD","2010",""
+"Greenland","GRL","2010",""
+"Guatemala","GTM","2010",0.455457627773285
+"Guam","GUM","2010",""
+"Guyana","GUY","2010",""
+"Hong Kong SAR, China","HKG","2010",0.811656177043915
+"Honduras","HND","2010",""
+"Croatia","HRV","2010",0.746151506900787
+"Haiti","HTI","2010",""
+"Hungary","HUN","2010",0.73488837480545
+"Indonesia","IDN","2010",0.521365165710449
+"Isle of Man","IMN","2010",""
+"India","IND","2010",""
+"Ireland","IRL","2010",0.800743460655212
+"Iran, Islamic Rep.","IRN","2010",0.587181925773621
+"Iraq","IRQ","2010",""
+"Iceland","ISL","2010",0.778452157974243
+"Israel","ISR","2010",0.751004874706268
+"Italy","ITA","2010",0.773454010486603
+"Jamaica","JAM","2010",""
+"Jordan","JOR","2010",0.597089052200317
+"Japan","JPN","2010",""
+"Kazakhstan","KAZ","2010",0.639107644557953
+"Kenya","KEN","2010",""
+"Kyrgyz Republic","KGZ","2010",""
+"Cambodia","KHM","2010",""
+"Kiribati","KIR","2010",""
+"St. Kitts and Nevis","KNA","2010",""
+"Korea, Rep.","KOR","2010",0.863793969154358
+"Kuwait","KWT","2010",0.61573851108551
+"Lao PDR","LAO","2010",""
+"Lebanon","LBN","2010",""
+"Liberia","LBR","2010",""
+"Libya","LBY","2010",""
+"St. Lucia","LCA","2010",""
+"Liechtenstein","LIE","2010",""
+"Sri Lanka","LKA","2010",""
+"Lesotho","LSO","2010",0.378485053777695
+"Lithuania","LTU","2010",0.761781632900238
+"Luxembourg","LUX","2010",0.722943842411041
+"Latvia","LVA","2010",0.738306820392609
+"Macao SAR, China","MAC","2010",0.674953937530518
+"St. Martin (French part)","MAF","2010",""
+"Morocco","MAR","2010",0.481603473424912
+"Monaco","MCO","2010",""
+"Moldova","MDA","2010",0.591031968593597
+"Madagascar","MDG","2010",0.411649793386459
+"Maldives","MDV","2010",""
+"Mexico","MEX","2010",0.609990060329437
+"Marshall Islands","MHL","2010",""
+"North Macedonia","MKD","2010",0.559297561645508
+"Mali","MLI","2010",""
+"Malta","MLT","2010",0.719556093215942
+"Myanmar","MMR","2010",""
+"Montenegro","MNE","2010",0.61395251750946
+"Mongolia","MNG","2010",""
+"Northern Mariana Islands","MNP","2010",""
+"Mozambique","MOZ","2010",""
+"Mauritania","MRT","2010",""
+"Mauritius","MUS","2010",0.633895039558411
+"Malawi","MWI","2010",0.388968795537949
+"Malaysia","MYS","2010",0.615848898887634
+"Namibia","NAM","2010",0.422334134578705
+"New Caledonia","NCL","2010",""
+"Niger","NER","2010",""
+"Nigeria","NGA","2010",""
+"Nicaragua","NIC","2010",""
+"Netherlands","NLD","2010",0.822048842906952
+"Norway","NOR","2010",0.797775506973267
+"Nepal","NPL","2010",""
+"Nauru","NRU","2010",""
+"New Zealand","NZL","2010",0.810449361801147
+"Oman","OMN","2010",0.592491030693054
+"Pakistan","PAK","2010",""
+"Panama","PAN","2010",0.548897862434387
+"Peru","PER","2010",0.572225868701935
+"Philippines","PHL","2010",""
+"Palau","PLW","2010",""
+"Papua New Guinea","PNG","2010",""
+"Poland","POL","2010",""
+"Puerto Rico","PRI","2010",""
+"Korea, Dem. People's Rep.","PRK","2010",""
+"Portugal","PRT","2010",0.773781001567841
+"Paraguay","PRY","2010",0.535591542720795
+"West Bank and Gaza","PSE","2010",""
+"French Polynesia","PYF","2010",""
+"Qatar","QAT","2010",0.615436196327209
+"Romania","ROU","2010",0.641990959644318
+"Russian Federation","RUS","2010",""
+"Rwanda","RWA","2010",""
+"Saudi Arabia","SAU","2010",0.572123885154724
+"Sudan","SDN","2010",""
+"Senegal","SEN","2010",0.409829944372177
+"Singapore","SGP","2010",0.868697106838226
+"Solomon Islands","SLB","2010",""
+"Sierra Leone","SLE","2010",""
+"El Salvador","SLV","2010",""
+"San Marino","SMR","2010",""
+"Somalia","SOM","2010",""
+"Serbia","SRB","2010",0.676746368408203
+"South Sudan","SSD","2010",""
+"Sao Tome and Principe","STP","2010",""
+"Suriname","SUR","2010",""
+"Slovak Republic","SVK","2010",0.721142411231995
+"Slovenia","SVN","2010",0.793719410896301
+"Sweden","SWE","2010",0.78945118188858
+"Eswatini","SWZ","2010",0.340183973312378
+"Sint Maarten (Dutch part)","SXM","2010",""
+"Seychelles","SYC","2010",0.597284078598022
+"Syrian Arab Republic","SYR","2010",""
+"Turks and Caicos Islands","TCA","2010",""
+"Chad","TCD","2010",0.290692180395126
+"Togo","TGO","2010",0.380495697259903
+"Thailand","THA","2010",0.623888194561005
+"Tajikistan","TJK","2010",""
+"Turkmenistan","TKM","2010",""
+"Timor-Leste","TLS","2010",0.432557016611099
+"Tonga","TON","2010",""
+"Trinidad and Tobago","TTO","2010",0.60015070438385
+"Tunisia","TUN","2010",0.555155277252197
+"Turkey","TUR","2010",0.646954238414764
+"Tuvalu","TUV","2010",""
+"Tanzania","TZA","2010",""
+"Uganda","UGA","2010",""
+"Ukraine","UKR","2010",0.686305284500122
+"Uruguay","URY","2010",0.625824213027954
+"United States","USA","2010",0.713329434394836
+"Uzbekistan","UZB","2010",""
+"St. Vincent and the Grenadines","VCT","2010",""
+"Venezuela, RB","VEN","2010",""
+"British Virgin Islands","VGB","2010",""
+"Virgin Islands (U.S.)","VIR","2010",""
+"Vietnam","VNM","2010",0.696426212787628
+"Vanuatu","VUT","2010",""
+"Samoa","WSM","2010",""
+"Kosovo","XKX","2010",""
+"Yemen, Rep.","YEM","2010",""
+"South Africa","ZAF","2010",0.451409667730331
+"Zambia","ZMB","2010",""
+"Zimbabwe","ZWE","2010",0.433337271213531
+"Aruba","ABW","2011",""
+"Afghanistan","AFG","2011",""
+"Angola","AGO","2011",""
+"Albania","ALB","2011",""
+"Andorra","AND","2011",""
+"United Arab Emirates","ARE","2011",""
+"Argentina","ARG","2011",""
+"Armenia","ARM","2011",""
+"American Samoa","ASM","2011",""
+"Antigua and Barbuda","ATG","2011",""
+"Australia","AUS","2011",""
+"Austria","AUT","2011",""
+"Azerbaijan","AZE","2011",""
+"Burundi","BDI","2011",""
+"Belgium","BEL","2011",""
+"Benin","BEN","2011",""
+"Burkina Faso","BFA","2011",""
+"Bangladesh","BGD","2011",""
+"Bulgaria","BGR","2011",""
+"Bahrain","BHR","2011",""
+"Bahamas, The","BHS","2011",""
+"Bosnia and Herzegovina","BIH","2011",""
+"Belarus","BLR","2011",""
+"Belize","BLZ","2011",""
+"Bermuda","BMU","2011",""
+"Bolivia","BOL","2011",""
+"Brazil","BRA","2011",""
+"Barbados","BRB","2011",""
+"Brunei Darussalam","BRN","2011",""
+"Bhutan","BTN","2011",""
+"Botswana","BWA","2011",""
+"Central African Republic","CAF","2011",""
+"Canada","CAN","2011",""
+"Switzerland","CHE","2011",""
+"Channel Islands","CHI","2011",""
+"Chile","CHL","2011",""
+"China","CHN","2011",""
+"Cote d'Ivoire","CIV","2011",""
+"Cameroon","CMR","2011",""
+"Congo, Dem. Rep.","COD","2011",""
+"Congo, Rep.","COG","2011",""
+"Colombia","COL","2011",""
+"Comoros","COM","2011",""
+"Cabo Verde","CPV","2011",""
+"Costa Rica","CRI","2011",""
+"Cuba","CUB","2011",""
+"Curacao","CUW","2011",""
+"Cayman Islands","CYM","2011",""
+"Cyprus","CYP","2011",""
+"Czech Republic","CZE","2011",""
+"Germany","DEU","2011",""
+"Djibouti","DJI","2011",""
+"Dominica","DMA","2011",""
+"Denmark","DNK","2011",""
+"Dominican Republic","DOM","2011",""
+"Algeria","DZA","2011",""
+"Ecuador","ECU","2011",""
+"Egypt, Arab Rep.","EGY","2011",""
+"Eritrea","ERI","2011",""
+"Spain","ESP","2011",""
+"Estonia","EST","2011",""
+"Ethiopia","ETH","2011",""
+"Finland","FIN","2011",""
+"Fiji","FJI","2011",""
+"France","FRA","2011",""
+"Faroe Islands","FRO","2011",""
+"Micronesia, Fed. Sts.","FSM","2011",""
+"Gabon","GAB","2011",""
+"United Kingdom","GBR","2011",""
+"Georgia","GEO","2011",""
+"Ghana","GHA","2011",""
+"Gibraltar","GIB","2011",""
+"Guinea","GIN","2011",""
+"Gambia, The","GMB","2011",""
+"Guinea-Bissau","GNB","2011",""
+"Equatorial Guinea","GNQ","2011",""
+"Greece","GRC","2011",""
+"Grenada","GRD","2011",""
+"Greenland","GRL","2011",""
+"Guatemala","GTM","2011",""
+"Guam","GUM","2011",""
+"Guyana","GUY","2011",""
+"Hong Kong SAR, China","HKG","2011",""
+"Honduras","HND","2011",""
+"Croatia","HRV","2011",""
+"Haiti","HTI","2011",""
+"Hungary","HUN","2011",""
+"Indonesia","IDN","2011",""
+"Isle of Man","IMN","2011",""
+"India","IND","2011",""
+"Ireland","IRL","2011",""
+"Iran, Islamic Rep.","IRN","2011",""
+"Iraq","IRQ","2011",""
+"Iceland","ISL","2011",""
+"Israel","ISR","2011",""
+"Italy","ITA","2011",""
+"Jamaica","JAM","2011",""
+"Jordan","JOR","2011",""
+"Japan","JPN","2011",""
+"Kazakhstan","KAZ","2011",""
+"Kenya","KEN","2011",""
+"Kyrgyz Republic","KGZ","2011",""
+"Cambodia","KHM","2011",""
+"Kiribati","KIR","2011",""
+"St. Kitts and Nevis","KNA","2011",""
+"Korea, Rep.","KOR","2011",""
+"Kuwait","KWT","2011",""
+"Lao PDR","LAO","2011",""
+"Lebanon","LBN","2011",""
+"Liberia","LBR","2011",""
+"Libya","LBY","2011",""
+"St. Lucia","LCA","2011",""
+"Liechtenstein","LIE","2011",""
+"Sri Lanka","LKA","2011",""
+"Lesotho","LSO","2011",""
+"Lithuania","LTU","2011",""
+"Luxembourg","LUX","2011",""
+"Latvia","LVA","2011",""
+"Macao SAR, China","MAC","2011",""
+"St. Martin (French part)","MAF","2011",""
+"Morocco","MAR","2011",""
+"Monaco","MCO","2011",""
+"Moldova","MDA","2011",""
+"Madagascar","MDG","2011",""
+"Maldives","MDV","2011",""
+"Mexico","MEX","2011",""
+"Marshall Islands","MHL","2011",""
+"North Macedonia","MKD","2011",""
+"Mali","MLI","2011",""
+"Malta","MLT","2011",""
+"Myanmar","MMR","2011",""
+"Montenegro","MNE","2011",""
+"Mongolia","MNG","2011",""
+"Northern Mariana Islands","MNP","2011",""
+"Mozambique","MOZ","2011",""
+"Mauritania","MRT","2011",""
+"Mauritius","MUS","2011",""
+"Malawi","MWI","2011",""
+"Malaysia","MYS","2011",""
+"Namibia","NAM","2011",""
+"New Caledonia","NCL","2011",""
+"Niger","NER","2011",""
+"Nigeria","NGA","2011",""
+"Nicaragua","NIC","2011",""
+"Netherlands","NLD","2011",""
+"Norway","NOR","2011",""
+"Nepal","NPL","2011",""
+"Nauru","NRU","2011",""
+"New Zealand","NZL","2011",""
+"Oman","OMN","2011",""
+"Pakistan","PAK","2011",""
+"Panama","PAN","2011",""
+"Peru","PER","2011",""
+"Philippines","PHL","2011",""
+"Palau","PLW","2011",""
+"Papua New Guinea","PNG","2011",""
+"Poland","POL","2011",""
+"Puerto Rico","PRI","2011",""
+"Korea, Dem. People's Rep.","PRK","2011",""
+"Portugal","PRT","2011",""
+"Paraguay","PRY","2011",""
+"West Bank and Gaza","PSE","2011",""
+"French Polynesia","PYF","2011",""
+"Qatar","QAT","2011",""
+"Romania","ROU","2011",""
+"Russian Federation","RUS","2011",""
+"Rwanda","RWA","2011",""
+"Saudi Arabia","SAU","2011",""
+"Sudan","SDN","2011",""
+"Senegal","SEN","2011",""
+"Singapore","SGP","2011",""
+"Solomon Islands","SLB","2011",""
+"Sierra Leone","SLE","2011",""
+"El Salvador","SLV","2011",""
+"San Marino","SMR","2011",""
+"Somalia","SOM","2011",""
+"Serbia","SRB","2011",""
+"South Sudan","SSD","2011",""
+"Sao Tome and Principe","STP","2011",""
+"Suriname","SUR","2011",""
+"Slovak Republic","SVK","2011",""
+"Slovenia","SVN","2011",""
+"Sweden","SWE","2011",""
+"Eswatini","SWZ","2011",""
+"Sint Maarten (Dutch part)","SXM","2011",""
+"Seychelles","SYC","2011",""
+"Syrian Arab Republic","SYR","2011",""
+"Turks and Caicos Islands","TCA","2011",""
+"Chad","TCD","2011",""
+"Togo","TGO","2011",""
+"Thailand","THA","2011",""
+"Tajikistan","TJK","2011",""
+"Turkmenistan","TKM","2011",""
+"Timor-Leste","TLS","2011",""
+"Tonga","TON","2011",""
+"Trinidad and Tobago","TTO","2011",""
+"Tunisia","TUN","2011",""
+"Turkey","TUR","2011",""
+"Tuvalu","TUV","2011",""
+"Tanzania","TZA","2011",""
+"Uganda","UGA","2011",""
+"Ukraine","UKR","2011",""
+"Uruguay","URY","2011",""
+"United States","USA","2011",""
+"Uzbekistan","UZB","2011",""
+"St. Vincent and the Grenadines","VCT","2011",""
+"Venezuela, RB","VEN","2011",""
+"British Virgin Islands","VGB","2011",""
+"Virgin Islands (U.S.)","VIR","2011",""
+"Vietnam","VNM","2011",""
+"Vanuatu","VUT","2011",""
+"Samoa","WSM","2011",""
+"Kosovo","XKX","2011",""
+"Yemen, Rep.","YEM","2011",""
+"South Africa","ZAF","2011",""
+"Zambia","ZMB","2011",""
+"Zimbabwe","ZWE","2011",""
+"Aruba","ABW","2012",""
+"Afghanistan","AFG","2012",""
+"Angola","AGO","2012",""
+"Albania","ALB","2012",""
+"Andorra","AND","2012",""
+"United Arab Emirates","ARE","2012",""
+"Argentina","ARG","2012",""
+"Armenia","ARM","2012",""
+"American Samoa","ASM","2012",""
+"Antigua and Barbuda","ATG","2012",""
+"Australia","AUS","2012",""
+"Austria","AUT","2012",""
+"Azerbaijan","AZE","2012",""
+"Burundi","BDI","2012",""
+"Belgium","BEL","2012",""
+"Benin","BEN","2012",""
+"Burkina Faso","BFA","2012",""
+"Bangladesh","BGD","2012",""
+"Bulgaria","BGR","2012",""
+"Bahrain","BHR","2012",""
+"Bahamas, The","BHS","2012",""
+"Bosnia and Herzegovina","BIH","2012",""
+"Belarus","BLR","2012",""
+"Belize","BLZ","2012",""
+"Bermuda","BMU","2012",""
+"Bolivia","BOL","2012",""
+"Brazil","BRA","2012",""
+"Barbados","BRB","2012",""
+"Brunei Darussalam","BRN","2012",""
+"Bhutan","BTN","2012",""
+"Botswana","BWA","2012",""
+"Central African Republic","CAF","2012",""
+"Canada","CAN","2012",""
+"Switzerland","CHE","2012",""
+"Channel Islands","CHI","2012",""
+"Chile","CHL","2012",""
+"China","CHN","2012",""
+"Cote d'Ivoire","CIV","2012",""
+"Cameroon","CMR","2012",""
+"Congo, Dem. Rep.","COD","2012",""
+"Congo, Rep.","COG","2012",""
+"Colombia","COL","2012",""
+"Comoros","COM","2012",""
+"Cabo Verde","CPV","2012",""
+"Costa Rica","CRI","2012",""
+"Cuba","CUB","2012",""
+"Curacao","CUW","2012",""
+"Cayman Islands","CYM","2012",""
+"Cyprus","CYP","2012",""
+"Czech Republic","CZE","2012",""
+"Germany","DEU","2012",""
+"Djibouti","DJI","2012",""
+"Dominica","DMA","2012",""
+"Denmark","DNK","2012",""
+"Dominican Republic","DOM","2012",""
+"Algeria","DZA","2012",""
+"Ecuador","ECU","2012",""
+"Egypt, Arab Rep.","EGY","2012",""
+"Eritrea","ERI","2012",""
+"Spain","ESP","2012",""
+"Estonia","EST","2012",""
+"Ethiopia","ETH","2012",""
+"Finland","FIN","2012",""
+"Fiji","FJI","2012",""
+"France","FRA","2012",""
+"Faroe Islands","FRO","2012",""
+"Micronesia, Fed. Sts.","FSM","2012",""
+"Gabon","GAB","2012",""
+"United Kingdom","GBR","2012",""
+"Georgia","GEO","2012",""
+"Ghana","GHA","2012",""
+"Gibraltar","GIB","2012",""
+"Guinea","GIN","2012",""
+"Gambia, The","GMB","2012",""
+"Guinea-Bissau","GNB","2012",""
+"Equatorial Guinea","GNQ","2012",""
+"Greece","GRC","2012",""
+"Grenada","GRD","2012",""
+"Greenland","GRL","2012",""
+"Guatemala","GTM","2012",""
+"Guam","GUM","2012",""
+"Guyana","GUY","2012",""
+"Hong Kong SAR, China","HKG","2012",""
+"Honduras","HND","2012",""
+"Croatia","HRV","2012",""
+"Haiti","HTI","2012",""
+"Hungary","HUN","2012",""
+"Indonesia","IDN","2012",""
+"Isle of Man","IMN","2012",""
+"India","IND","2012",""
+"Ireland","IRL","2012",""
+"Iran, Islamic Rep.","IRN","2012",""
+"Iraq","IRQ","2012",""
+"Iceland","ISL","2012",""
+"Israel","ISR","2012",""
+"Italy","ITA","2012",""
+"Jamaica","JAM","2012",""
+"Jordan","JOR","2012",""
+"Japan","JPN","2012",""
+"Kazakhstan","KAZ","2012",""
+"Kenya","KEN","2012",""
+"Kyrgyz Republic","KGZ","2012",""
+"Cambodia","KHM","2012",""
+"Kiribati","KIR","2012",""
+"St. Kitts and Nevis","KNA","2012",""
+"Korea, Rep.","KOR","2012",""
+"Kuwait","KWT","2012",""
+"Lao PDR","LAO","2012",""
+"Lebanon","LBN","2012",""
+"Liberia","LBR","2012",""
+"Libya","LBY","2012",""
+"St. Lucia","LCA","2012",""
+"Liechtenstein","LIE","2012",""
+"Sri Lanka","LKA","2012",""
+"Lesotho","LSO","2012",""
+"Lithuania","LTU","2012",""
+"Luxembourg","LUX","2012",""
+"Latvia","LVA","2012",""
+"Macao SAR, China","MAC","2012",""
+"St. Martin (French part)","MAF","2012",""
+"Morocco","MAR","2012",""
+"Monaco","MCO","2012",""
+"Moldova","MDA","2012",""
+"Madagascar","MDG","2012",""
+"Maldives","MDV","2012",""
+"Mexico","MEX","2012",""
+"Marshall Islands","MHL","2012",""
+"North Macedonia","MKD","2012",""
+"Mali","MLI","2012",""
+"Malta","MLT","2012",""
+"Myanmar","MMR","2012",""
+"Montenegro","MNE","2012",""
+"Mongolia","MNG","2012",""
+"Northern Mariana Islands","MNP","2012",""
+"Mozambique","MOZ","2012",""
+"Mauritania","MRT","2012",""
+"Mauritius","MUS","2012",""
+"Malawi","MWI","2012",""
+"Malaysia","MYS","2012",""
+"Namibia","NAM","2012",""
+"New Caledonia","NCL","2012",""
+"Niger","NER","2012",""
+"Nigeria","NGA","2012",""
+"Nicaragua","NIC","2012",""
+"Netherlands","NLD","2012",""
+"Norway","NOR","2012",""
+"Nepal","NPL","2012",""
+"Nauru","NRU","2012",""
+"New Zealand","NZL","2012",""
+"Oman","OMN","2012",""
+"Pakistan","PAK","2012",""
+"Panama","PAN","2012",""
+"Peru","PER","2012",""
+"Philippines","PHL","2012",""
+"Palau","PLW","2012",""
+"Papua New Guinea","PNG","2012",""
+"Poland","POL","2012",""
+"Puerto Rico","PRI","2012",""
+"Korea, Dem. People's Rep.","PRK","2012",""
+"Portugal","PRT","2012",""
+"Paraguay","PRY","2012",""
+"West Bank and Gaza","PSE","2012",""
+"French Polynesia","PYF","2012",""
+"Qatar","QAT","2012",""
+"Romania","ROU","2012",""
+"Russian Federation","RUS","2012",""
+"Rwanda","RWA","2012",""
+"Saudi Arabia","SAU","2012",""
+"Sudan","SDN","2012",""
+"Senegal","SEN","2012",""
+"Singapore","SGP","2012",""
+"Solomon Islands","SLB","2012",""
+"Sierra Leone","SLE","2012",""
+"El Salvador","SLV","2012",""
+"San Marino","SMR","2012",""
+"Somalia","SOM","2012",""
+"Serbia","SRB","2012",""
+"South Sudan","SSD","2012",""
+"Sao Tome and Principe","STP","2012",""
+"Suriname","SUR","2012",""
+"Slovak Republic","SVK","2012",""
+"Slovenia","SVN","2012",""
+"Sweden","SWE","2012",""
+"Eswatini","SWZ","2012",""
+"Sint Maarten (Dutch part)","SXM","2012",""
+"Seychelles","SYC","2012",""
+"Syrian Arab Republic","SYR","2012",""
+"Turks and Caicos Islands","TCA","2012",""
+"Chad","TCD","2012",""
+"Togo","TGO","2012",""
+"Thailand","THA","2012",""
+"Tajikistan","TJK","2012",""
+"Turkmenistan","TKM","2012",""
+"Timor-Leste","TLS","2012",""
+"Tonga","TON","2012",""
+"Trinidad and Tobago","TTO","2012",""
+"Tunisia","TUN","2012",""
+"Turkey","TUR","2012",""
+"Tuvalu","TUV","2012",""
+"Tanzania","TZA","2012",""
+"Uganda","UGA","2012",""
+"Ukraine","UKR","2012",""
+"Uruguay","URY","2012",""
+"United States","USA","2012",""
+"Uzbekistan","UZB","2012",""
+"St. Vincent and the Grenadines","VCT","2012",""
+"Venezuela, RB","VEN","2012",""
+"British Virgin Islands","VGB","2012",""
+"Virgin Islands (U.S.)","VIR","2012",""
+"Vietnam","VNM","2012",""
+"Vanuatu","VUT","2012",""
+"Samoa","WSM","2012",""
+"Kosovo","XKX","2012",""
+"Yemen, Rep.","YEM","2012",""
+"South Africa","ZAF","2012",""
+"Zambia","ZMB","2012",""
+"Zimbabwe","ZWE","2012",""
+"Aruba","ABW","2013",""
+"Afghanistan","AFG","2013",""
+"Angola","AGO","2013",""
+"Albania","ALB","2013",""
+"Andorra","AND","2013",""
+"United Arab Emirates","ARE","2013",""
+"Argentina","ARG","2013",""
+"Armenia","ARM","2013",""
+"American Samoa","ASM","2013",""
+"Antigua and Barbuda","ATG","2013",""
+"Australia","AUS","2013",""
+"Austria","AUT","2013",""
+"Azerbaijan","AZE","2013",""
+"Burundi","BDI","2013",""
+"Belgium","BEL","2013",""
+"Benin","BEN","2013",""
+"Burkina Faso","BFA","2013",""
+"Bangladesh","BGD","2013",""
+"Bulgaria","BGR","2013",""
+"Bahrain","BHR","2013",""
+"Bahamas, The","BHS","2013",""
+"Bosnia and Herzegovina","BIH","2013",""
+"Belarus","BLR","2013",""
+"Belize","BLZ","2013",""
+"Bermuda","BMU","2013",""
+"Bolivia","BOL","2013",""
+"Brazil","BRA","2013",""
+"Barbados","BRB","2013",""
+"Brunei Darussalam","BRN","2013",""
+"Bhutan","BTN","2013",""
+"Botswana","BWA","2013",""
+"Central African Republic","CAF","2013",""
+"Canada","CAN","2013",""
+"Switzerland","CHE","2013",""
+"Channel Islands","CHI","2013",""
+"Chile","CHL","2013",""
+"China","CHN","2013",""
+"Cote d'Ivoire","CIV","2013",""
+"Cameroon","CMR","2013",""
+"Congo, Dem. Rep.","COD","2013",""
+"Congo, Rep.","COG","2013",""
+"Colombia","COL","2013",""
+"Comoros","COM","2013",""
+"Cabo Verde","CPV","2013",""
+"Costa Rica","CRI","2013",""
+"Cuba","CUB","2013",""
+"Curacao","CUW","2013",""
+"Cayman Islands","CYM","2013",""
+"Cyprus","CYP","2013",""
+"Czech Republic","CZE","2013",""
+"Germany","DEU","2013",""
+"Djibouti","DJI","2013",""
+"Dominica","DMA","2013",""
+"Denmark","DNK","2013",""
+"Dominican Republic","DOM","2013",""
+"Algeria","DZA","2013",""
+"Ecuador","ECU","2013",""
+"Egypt, Arab Rep.","EGY","2013",""
+"Eritrea","ERI","2013",""
+"Spain","ESP","2013",""
+"Estonia","EST","2013",""
+"Ethiopia","ETH","2013",""
+"Finland","FIN","2013",""
+"Fiji","FJI","2013",""
+"France","FRA","2013",""
+"Faroe Islands","FRO","2013",""
+"Micronesia, Fed. Sts.","FSM","2013",""
+"Gabon","GAB","2013",""
+"United Kingdom","GBR","2013",""
+"Georgia","GEO","2013",""
+"Ghana","GHA","2013",""
+"Gibraltar","GIB","2013",""
+"Guinea","GIN","2013",""
+"Gambia, The","GMB","2013",""
+"Guinea-Bissau","GNB","2013",""
+"Equatorial Guinea","GNQ","2013",""
+"Greece","GRC","2013",""
+"Grenada","GRD","2013",""
+"Greenland","GRL","2013",""
+"Guatemala","GTM","2013",""
+"Guam","GUM","2013",""
+"Guyana","GUY","2013",""
+"Hong Kong SAR, China","HKG","2013",""
+"Honduras","HND","2013",""
+"Croatia","HRV","2013",""
+"Haiti","HTI","2013",""
+"Hungary","HUN","2013",""
+"Indonesia","IDN","2013",""
+"Isle of Man","IMN","2013",""
+"India","IND","2013",""
+"Ireland","IRL","2013",""
+"Iran, Islamic Rep.","IRN","2013",""
+"Iraq","IRQ","2013",""
+"Iceland","ISL","2013",""
+"Israel","ISR","2013",""
+"Italy","ITA","2013",""
+"Jamaica","JAM","2013",""
+"Jordan","JOR","2013",""
+"Japan","JPN","2013",""
+"Kazakhstan","KAZ","2013",""
+"Kenya","KEN","2013",""
+"Kyrgyz Republic","KGZ","2013",""
+"Cambodia","KHM","2013",""
+"Kiribati","KIR","2013",""
+"St. Kitts and Nevis","KNA","2013",""
+"Korea, Rep.","KOR","2013",""
+"Kuwait","KWT","2013",""
+"Lao PDR","LAO","2013",""
+"Lebanon","LBN","2013",""
+"Liberia","LBR","2013",""
+"Libya","LBY","2013",""
+"St. Lucia","LCA","2013",""
+"Liechtenstein","LIE","2013",""
+"Sri Lanka","LKA","2013",""
+"Lesotho","LSO","2013",""
+"Lithuania","LTU","2013",""
+"Luxembourg","LUX","2013",""
+"Latvia","LVA","2013",""
+"Macao SAR, China","MAC","2013",""
+"St. Martin (French part)","MAF","2013",""
+"Morocco","MAR","2013",""
+"Monaco","MCO","2013",""
+"Moldova","MDA","2013",""
+"Madagascar","MDG","2013",""
+"Maldives","MDV","2013",""
+"Mexico","MEX","2013",""
+"Marshall Islands","MHL","2013",""
+"North Macedonia","MKD","2013",""
+"Mali","MLI","2013",""
+"Malta","MLT","2013",""
+"Myanmar","MMR","2013",""
+"Montenegro","MNE","2013",""
+"Mongolia","MNG","2013",""
+"Northern Mariana Islands","MNP","2013",""
+"Mozambique","MOZ","2013",""
+"Mauritania","MRT","2013",""
+"Mauritius","MUS","2013",""
+"Malawi","MWI","2013",""
+"Malaysia","MYS","2013",""
+"Namibia","NAM","2013",""
+"New Caledonia","NCL","2013",""
+"Niger","NER","2013",""
+"Nigeria","NGA","2013",""
+"Nicaragua","NIC","2013",""
+"Netherlands","NLD","2013",""
+"Norway","NOR","2013",""
+"Nepal","NPL","2013",""
+"Nauru","NRU","2013",""
+"New Zealand","NZL","2013",""
+"Oman","OMN","2013",""
+"Pakistan","PAK","2013",""
+"Panama","PAN","2013",""
+"Peru","PER","2013",""
+"Philippines","PHL","2013",""
+"Palau","PLW","2013",""
+"Papua New Guinea","PNG","2013",""
+"Poland","POL","2013",""
+"Puerto Rico","PRI","2013",""
+"Korea, Dem. People's Rep.","PRK","2013",""
+"Portugal","PRT","2013",""
+"Paraguay","PRY","2013",""
+"West Bank and Gaza","PSE","2013",""
+"French Polynesia","PYF","2013",""
+"Qatar","QAT","2013",""
+"Romania","ROU","2013",""
+"Russian Federation","RUS","2013",""
+"Rwanda","RWA","2013",""
+"Saudi Arabia","SAU","2013",""
+"Sudan","SDN","2013",""
+"Senegal","SEN","2013",""
+"Singapore","SGP","2013",""
+"Solomon Islands","SLB","2013",""
+"Sierra Leone","SLE","2013",""
+"El Salvador","SLV","2013",""
+"San Marino","SMR","2013",""
+"Somalia","SOM","2013",""
+"Serbia","SRB","2013",""
+"South Sudan","SSD","2013",""
+"Sao Tome and Principe","STP","2013",""
+"Suriname","SUR","2013",""
+"Slovak Republic","SVK","2013",""
+"Slovenia","SVN","2013",""
+"Sweden","SWE","2013",""
+"Eswatini","SWZ","2013",""
+"Sint Maarten (Dutch part)","SXM","2013",""
+"Seychelles","SYC","2013",""
+"Syrian Arab Republic","SYR","2013",""
+"Turks and Caicos Islands","TCA","2013",""
+"Chad","TCD","2013",""
+"Togo","TGO","2013",""
+"Thailand","THA","2013",""
+"Tajikistan","TJK","2013",""
+"Turkmenistan","TKM","2013",""
+"Timor-Leste","TLS","2013",""
+"Tonga","TON","2013",""
+"Trinidad and Tobago","TTO","2013",""
+"Tunisia","TUN","2013",""
+"Turkey","TUR","2013",""
+"Tuvalu","TUV","2013",""
+"Tanzania","TZA","2013",""
+"Uganda","UGA","2013",""
+"Ukraine","UKR","2013",""
+"Uruguay","URY","2013",""
+"United States","USA","2013",""
+"Uzbekistan","UZB","2013",""
+"St. Vincent and the Grenadines","VCT","2013",""
+"Venezuela, RB","VEN","2013",""
+"British Virgin Islands","VGB","2013",""
+"Virgin Islands (U.S.)","VIR","2013",""
+"Vietnam","VNM","2013",""
+"Vanuatu","VUT","2013",""
+"Samoa","WSM","2013",""
+"Kosovo","XKX","2013",""
+"Yemen, Rep.","YEM","2013",""
+"South Africa","ZAF","2013",""
+"Zambia","ZMB","2013",""
+"Zimbabwe","ZWE","2013",""
+"Aruba","ABW","2014",""
+"Afghanistan","AFG","2014",""
+"Angola","AGO","2014",""
+"Albania","ALB","2014",""
+"Andorra","AND","2014",""
+"United Arab Emirates","ARE","2014",""
+"Argentina","ARG","2014",""
+"Armenia","ARM","2014",""
+"American Samoa","ASM","2014",""
+"Antigua and Barbuda","ATG","2014",""
+"Australia","AUS","2014",""
+"Austria","AUT","2014",""
+"Azerbaijan","AZE","2014",""
+"Burundi","BDI","2014",""
+"Belgium","BEL","2014",""
+"Benin","BEN","2014",""
+"Burkina Faso","BFA","2014",""
+"Bangladesh","BGD","2014",""
+"Bulgaria","BGR","2014",""
+"Bahrain","BHR","2014",""
+"Bahamas, The","BHS","2014",""
+"Bosnia and Herzegovina","BIH","2014",""
+"Belarus","BLR","2014",""
+"Belize","BLZ","2014",""
+"Bermuda","BMU","2014",""
+"Bolivia","BOL","2014",""
+"Brazil","BRA","2014",""
+"Barbados","BRB","2014",""
+"Brunei Darussalam","BRN","2014",""
+"Bhutan","BTN","2014",""
+"Botswana","BWA","2014",""
+"Central African Republic","CAF","2014",""
+"Canada","CAN","2014",""
+"Switzerland","CHE","2014",""
+"Channel Islands","CHI","2014",""
+"Chile","CHL","2014",""
+"China","CHN","2014",""
+"Cote d'Ivoire","CIV","2014",""
+"Cameroon","CMR","2014",""
+"Congo, Dem. Rep.","COD","2014",""
+"Congo, Rep.","COG","2014",""
+"Colombia","COL","2014",""
+"Comoros","COM","2014",""
+"Cabo Verde","CPV","2014",""
+"Costa Rica","CRI","2014",""
+"Cuba","CUB","2014",""
+"Curacao","CUW","2014",""
+"Cayman Islands","CYM","2014",""
+"Cyprus","CYP","2014",""
+"Czech Republic","CZE","2014",""
+"Germany","DEU","2014",""
+"Djibouti","DJI","2014",""
+"Dominica","DMA","2014",""
+"Denmark","DNK","2014",""
+"Dominican Republic","DOM","2014",""
+"Algeria","DZA","2014",""
+"Ecuador","ECU","2014",""
+"Egypt, Arab Rep.","EGY","2014",""
+"Eritrea","ERI","2014",""
+"Spain","ESP","2014",""
+"Estonia","EST","2014",""
+"Ethiopia","ETH","2014",""
+"Finland","FIN","2014",""
+"Fiji","FJI","2014",""
+"France","FRA","2014",""
+"Faroe Islands","FRO","2014",""
+"Micronesia, Fed. Sts.","FSM","2014",""
+"Gabon","GAB","2014",""
+"United Kingdom","GBR","2014",""
+"Georgia","GEO","2014",""
+"Ghana","GHA","2014",""
+"Gibraltar","GIB","2014",""
+"Guinea","GIN","2014",""
+"Gambia, The","GMB","2014",""
+"Guinea-Bissau","GNB","2014",""
+"Equatorial Guinea","GNQ","2014",""
+"Greece","GRC","2014",""
+"Grenada","GRD","2014",""
+"Greenland","GRL","2014",""
+"Guatemala","GTM","2014",""
+"Guam","GUM","2014",""
+"Guyana","GUY","2014",""
+"Hong Kong SAR, China","HKG","2014",""
+"Honduras","HND","2014",""
+"Croatia","HRV","2014",""
+"Haiti","HTI","2014",""
+"Hungary","HUN","2014",""
+"Indonesia","IDN","2014",""
+"Isle of Man","IMN","2014",""
+"India","IND","2014",""
+"Ireland","IRL","2014",""
+"Iran, Islamic Rep.","IRN","2014",""
+"Iraq","IRQ","2014",""
+"Iceland","ISL","2014",""
+"Israel","ISR","2014",""
+"Italy","ITA","2014",""
+"Jamaica","JAM","2014",""
+"Jordan","JOR","2014",""
+"Japan","JPN","2014",""
+"Kazakhstan","KAZ","2014",""
+"Kenya","KEN","2014",""
+"Kyrgyz Republic","KGZ","2014",""
+"Cambodia","KHM","2014",""
+"Kiribati","KIR","2014",""
+"St. Kitts and Nevis","KNA","2014",""
+"Korea, Rep.","KOR","2014",""
+"Kuwait","KWT","2014",""
+"Lao PDR","LAO","2014",""
+"Lebanon","LBN","2014",""
+"Liberia","LBR","2014",""
+"Libya","LBY","2014",""
+"St. Lucia","LCA","2014",""
+"Liechtenstein","LIE","2014",""
+"Sri Lanka","LKA","2014",""
+"Lesotho","LSO","2014",""
+"Lithuania","LTU","2014",""
+"Luxembourg","LUX","2014",""
+"Latvia","LVA","2014",""
+"Macao SAR, China","MAC","2014",""
+"St. Martin (French part)","MAF","2014",""
+"Morocco","MAR","2014",""
+"Monaco","MCO","2014",""
+"Moldova","MDA","2014",""
+"Madagascar","MDG","2014",""
+"Maldives","MDV","2014",""
+"Mexico","MEX","2014",""
+"Marshall Islands","MHL","2014",""
+"North Macedonia","MKD","2014",""
+"Mali","MLI","2014",""
+"Malta","MLT","2014",""
+"Myanmar","MMR","2014",""
+"Montenegro","MNE","2014",""
+"Mongolia","MNG","2014",""
+"Northern Mariana Islands","MNP","2014",""
+"Mozambique","MOZ","2014",""
+"Mauritania","MRT","2014",""
+"Mauritius","MUS","2014",""
+"Malawi","MWI","2014",""
+"Malaysia","MYS","2014",""
+"Namibia","NAM","2014",""
+"New Caledonia","NCL","2014",""
+"Niger","NER","2014",""
+"Nigeria","NGA","2014",""
+"Nicaragua","NIC","2014",""
+"Netherlands","NLD","2014",""
+"Norway","NOR","2014",""
+"Nepal","NPL","2014",""
+"Nauru","NRU","2014",""
+"New Zealand","NZL","2014",""
+"Oman","OMN","2014",""
+"Pakistan","PAK","2014",""
+"Panama","PAN","2014",""
+"Peru","PER","2014",""
+"Philippines","PHL","2014",""
+"Palau","PLW","2014",""
+"Papua New Guinea","PNG","2014",""
+"Poland","POL","2014",""
+"Puerto Rico","PRI","2014",""
+"Korea, Dem. People's Rep.","PRK","2014",""
+"Portugal","PRT","2014",""
+"Paraguay","PRY","2014",""
+"West Bank and Gaza","PSE","2014",""
+"French Polynesia","PYF","2014",""
+"Qatar","QAT","2014",""
+"Romania","ROU","2014",""
+"Russian Federation","RUS","2014",""
+"Rwanda","RWA","2014",""
+"Saudi Arabia","SAU","2014",""
+"Sudan","SDN","2014",""
+"Senegal","SEN","2014",""
+"Singapore","SGP","2014",""
+"Solomon Islands","SLB","2014",""
+"Sierra Leone","SLE","2014",""
+"El Salvador","SLV","2014",""
+"San Marino","SMR","2014",""
+"Somalia","SOM","2014",""
+"Serbia","SRB","2014",""
+"South Sudan","SSD","2014",""
+"Sao Tome and Principe","STP","2014",""
+"Suriname","SUR","2014",""
+"Slovak Republic","SVK","2014",""
+"Slovenia","SVN","2014",""
+"Sweden","SWE","2014",""
+"Eswatini","SWZ","2014",""
+"Sint Maarten (Dutch part)","SXM","2014",""
+"Seychelles","SYC","2014",""
+"Syrian Arab Republic","SYR","2014",""
+"Turks and Caicos Islands","TCA","2014",""
+"Chad","TCD","2014",""
+"Togo","TGO","2014",""
+"Thailand","THA","2014",""
+"Tajikistan","TJK","2014",""
+"Turkmenistan","TKM","2014",""
+"Timor-Leste","TLS","2014",""
+"Tonga","TON","2014",""
+"Trinidad and Tobago","TTO","2014",""
+"Tunisia","TUN","2014",""
+"Turkey","TUR","2014",""
+"Tuvalu","TUV","2014",""
+"Tanzania","TZA","2014",""
+"Uganda","UGA","2014",""
+"Ukraine","UKR","2014",""
+"Uruguay","URY","2014",""
+"United States","USA","2014",""
+"Uzbekistan","UZB","2014",""
+"St. Vincent and the Grenadines","VCT","2014",""
+"Venezuela, RB","VEN","2014",""
+"British Virgin Islands","VGB","2014",""
+"Virgin Islands (U.S.)","VIR","2014",""
+"Vietnam","VNM","2014",""
+"Vanuatu","VUT","2014",""
+"Samoa","WSM","2014",""
+"Kosovo","XKX","2014",""
+"Yemen, Rep.","YEM","2014",""
+"South Africa","ZAF","2014",""
+"Zambia","ZMB","2014",""
+"Zimbabwe","ZWE","2014",""
+"Aruba","ABW","2015",""
+"Afghanistan","AFG","2015",""
+"Angola","AGO","2015",""
+"Albania","ALB","2015",""
+"Andorra","AND","2015",""
+"United Arab Emirates","ARE","2015",""
+"Argentina","ARG","2015",""
+"Armenia","ARM","2015",""
+"American Samoa","ASM","2015",""
+"Antigua and Barbuda","ATG","2015",""
+"Australia","AUS","2015",""
+"Austria","AUT","2015",""
+"Azerbaijan","AZE","2015",""
+"Burundi","BDI","2015",""
+"Belgium","BEL","2015",""
+"Benin","BEN","2015",""
+"Burkina Faso","BFA","2015",""
+"Bangladesh","BGD","2015",""
+"Bulgaria","BGR","2015",""
+"Bahrain","BHR","2015",""
+"Bahamas, The","BHS","2015",""
+"Bosnia and Herzegovina","BIH","2015",""
+"Belarus","BLR","2015",""
+"Belize","BLZ","2015",""
+"Bermuda","BMU","2015",""
+"Bolivia","BOL","2015",""
+"Brazil","BRA","2015",""
+"Barbados","BRB","2015",""
+"Brunei Darussalam","BRN","2015",""
+"Bhutan","BTN","2015",""
+"Botswana","BWA","2015",""
+"Central African Republic","CAF","2015",""
+"Canada","CAN","2015",""
+"Switzerland","CHE","2015",""
+"Channel Islands","CHI","2015",""
+"Chile","CHL","2015",""
+"China","CHN","2015",""
+"Cote d'Ivoire","CIV","2015",""
+"Cameroon","CMR","2015",""
+"Congo, Dem. Rep.","COD","2015",""
+"Congo, Rep.","COG","2015",""
+"Colombia","COL","2015",""
+"Comoros","COM","2015",""
+"Cabo Verde","CPV","2015",""
+"Costa Rica","CRI","2015",""
+"Cuba","CUB","2015",""
+"Curacao","CUW","2015",""
+"Cayman Islands","CYM","2015",""
+"Cyprus","CYP","2015",""
+"Czech Republic","CZE","2015",""
+"Germany","DEU","2015",""
+"Djibouti","DJI","2015",""
+"Dominica","DMA","2015",""
+"Denmark","DNK","2015",""
+"Dominican Republic","DOM","2015",""
+"Algeria","DZA","2015",""
+"Ecuador","ECU","2015",""
+"Egypt, Arab Rep.","EGY","2015",""
+"Eritrea","ERI","2015",""
+"Spain","ESP","2015",""
+"Estonia","EST","2015",""
+"Ethiopia","ETH","2015",""
+"Finland","FIN","2015",""
+"Fiji","FJI","2015",""
+"France","FRA","2015",""
+"Faroe Islands","FRO","2015",""
+"Micronesia, Fed. Sts.","FSM","2015",""
+"Gabon","GAB","2015",""
+"United Kingdom","GBR","2015",""
+"Georgia","GEO","2015",""
+"Ghana","GHA","2015",""
+"Gibraltar","GIB","2015",""
+"Guinea","GIN","2015",""
+"Gambia, The","GMB","2015",""
+"Guinea-Bissau","GNB","2015",""
+"Equatorial Guinea","GNQ","2015",""
+"Greece","GRC","2015",""
+"Grenada","GRD","2015",""
+"Greenland","GRL","2015",""
+"Guatemala","GTM","2015",""
+"Guam","GUM","2015",""
+"Guyana","GUY","2015",""
+"Hong Kong SAR, China","HKG","2015",""
+"Honduras","HND","2015",""
+"Croatia","HRV","2015",""
+"Haiti","HTI","2015",""
+"Hungary","HUN","2015",""
+"Indonesia","IDN","2015",""
+"Isle of Man","IMN","2015",""
+"India","IND","2015",""
+"Ireland","IRL","2015",""
+"Iran, Islamic Rep.","IRN","2015",""
+"Iraq","IRQ","2015",""
+"Iceland","ISL","2015",""
+"Israel","ISR","2015",""
+"Italy","ITA","2015",""
+"Jamaica","JAM","2015",""
+"Jordan","JOR","2015",""
+"Japan","JPN","2015",""
+"Kazakhstan","KAZ","2015",""
+"Kenya","KEN","2015",""
+"Kyrgyz Republic","KGZ","2015",""
+"Cambodia","KHM","2015",""
+"Kiribati","KIR","2015",""
+"St. Kitts and Nevis","KNA","2015",""
+"Korea, Rep.","KOR","2015",""
+"Kuwait","KWT","2015",""
+"Lao PDR","LAO","2015",""
+"Lebanon","LBN","2015",""
+"Liberia","LBR","2015",""
+"Libya","LBY","2015",""
+"St. Lucia","LCA","2015",""
+"Liechtenstein","LIE","2015",""
+"Sri Lanka","LKA","2015",""
+"Lesotho","LSO","2015",""
+"Lithuania","LTU","2015",""
+"Luxembourg","LUX","2015",""
+"Latvia","LVA","2015",""
+"Macao SAR, China","MAC","2015",""
+"St. Martin (French part)","MAF","2015",""
+"Morocco","MAR","2015",""
+"Monaco","MCO","2015",""
+"Moldova","MDA","2015",""
+"Madagascar","MDG","2015",""
+"Maldives","MDV","2015",""
+"Mexico","MEX","2015",""
+"Marshall Islands","MHL","2015",""
+"North Macedonia","MKD","2015",""
+"Mali","MLI","2015",""
+"Malta","MLT","2015",""
+"Myanmar","MMR","2015",""
+"Montenegro","MNE","2015",""
+"Mongolia","MNG","2015",""
+"Northern Mariana Islands","MNP","2015",""
+"Mozambique","MOZ","2015",""
+"Mauritania","MRT","2015",""
+"Mauritius","MUS","2015",""
+"Malawi","MWI","2015",""
+"Malaysia","MYS","2015",""
+"Namibia","NAM","2015",""
+"New Caledonia","NCL","2015",""
+"Niger","NER","2015",""
+"Nigeria","NGA","2015",""
+"Nicaragua","NIC","2015",""
+"Netherlands","NLD","2015",""
+"Norway","NOR","2015",""
+"Nepal","NPL","2015",""
+"Nauru","NRU","2015",""
+"New Zealand","NZL","2015",""
+"Oman","OMN","2015",""
+"Pakistan","PAK","2015",""
+"Panama","PAN","2015",""
+"Peru","PER","2015",""
+"Philippines","PHL","2015",""
+"Palau","PLW","2015",""
+"Papua New Guinea","PNG","2015",""
+"Poland","POL","2015",""
+"Puerto Rico","PRI","2015",""
+"Korea, Dem. People's Rep.","PRK","2015",""
+"Portugal","PRT","2015",""
+"Paraguay","PRY","2015",""
+"West Bank and Gaza","PSE","2015",""
+"French Polynesia","PYF","2015",""
+"Qatar","QAT","2015",""
+"Romania","ROU","2015",""
+"Russian Federation","RUS","2015",""
+"Rwanda","RWA","2015",""
+"Saudi Arabia","SAU","2015",""
+"Sudan","SDN","2015",""
+"Senegal","SEN","2015",""
+"Singapore","SGP","2015",""
+"Solomon Islands","SLB","2015",""
+"Sierra Leone","SLE","2015",""
+"El Salvador","SLV","2015",""
+"San Marino","SMR","2015",""
+"Somalia","SOM","2015",""
+"Serbia","SRB","2015",""
+"South Sudan","SSD","2015",""
+"Sao Tome and Principe","STP","2015",""
+"Suriname","SUR","2015",""
+"Slovak Republic","SVK","2015",""
+"Slovenia","SVN","2015",""
+"Sweden","SWE","2015",""
+"Eswatini","SWZ","2015",""
+"Sint Maarten (Dutch part)","SXM","2015",""
+"Seychelles","SYC","2015",""
+"Syrian Arab Republic","SYR","2015",""
+"Turks and Caicos Islands","TCA","2015",""
+"Chad","TCD","2015",""
+"Togo","TGO","2015",""
+"Thailand","THA","2015",""
+"Tajikistan","TJK","2015",""
+"Turkmenistan","TKM","2015",""
+"Timor-Leste","TLS","2015",""
+"Tonga","TON","2015",""
+"Trinidad and Tobago","TTO","2015",""
+"Tunisia","TUN","2015",""
+"Turkey","TUR","2015",""
+"Tuvalu","TUV","2015",""
+"Tanzania","TZA","2015",""
+"Uganda","UGA","2015",""
+"Ukraine","UKR","2015",""
+"Uruguay","URY","2015",""
+"United States","USA","2015",""
+"Uzbekistan","UZB","2015",""
+"St. Vincent and the Grenadines","VCT","2015",""
+"Venezuela, RB","VEN","2015",""
+"British Virgin Islands","VGB","2015",""
+"Virgin Islands (U.S.)","VIR","2015",""
+"Vietnam","VNM","2015",""
+"Vanuatu","VUT","2015",""
+"Samoa","WSM","2015",""
+"Kosovo","XKX","2015",""
+"Yemen, Rep.","YEM","2015",""
+"South Africa","ZAF","2015",""
+"Zambia","ZMB","2015",""
+"Zimbabwe","ZWE","2015",""
+"Aruba","ABW","2016",""
+"Afghanistan","AFG","2016",""
+"Angola","AGO","2016",""
+"Albania","ALB","2016",""
+"Andorra","AND","2016",""
+"United Arab Emirates","ARE","2016",""
+"Argentina","ARG","2016",""
+"Armenia","ARM","2016",""
+"American Samoa","ASM","2016",""
+"Antigua and Barbuda","ATG","2016",""
+"Australia","AUS","2016",""
+"Austria","AUT","2016",""
+"Azerbaijan","AZE","2016",""
+"Burundi","BDI","2016",""
+"Belgium","BEL","2016",""
+"Benin","BEN","2016",""
+"Burkina Faso","BFA","2016",""
+"Bangladesh","BGD","2016",""
+"Bulgaria","BGR","2016",""
+"Bahrain","BHR","2016",""
+"Bahamas, The","BHS","2016",""
+"Bosnia and Herzegovina","BIH","2016",""
+"Belarus","BLR","2016",""
+"Belize","BLZ","2016",""
+"Bermuda","BMU","2016",""
+"Bolivia","BOL","2016",""
+"Brazil","BRA","2016",""
+"Barbados","BRB","2016",""
+"Brunei Darussalam","BRN","2016",""
+"Bhutan","BTN","2016",""
+"Botswana","BWA","2016",""
+"Central African Republic","CAF","2016",""
+"Canada","CAN","2016",""
+"Switzerland","CHE","2016",""
+"Channel Islands","CHI","2016",""
+"Chile","CHL","2016",""
+"China","CHN","2016",""
+"Cote d'Ivoire","CIV","2016",""
+"Cameroon","CMR","2016",""
+"Congo, Dem. Rep.","COD","2016",""
+"Congo, Rep.","COG","2016",""
+"Colombia","COL","2016",""
+"Comoros","COM","2016",""
+"Cabo Verde","CPV","2016",""
+"Costa Rica","CRI","2016",""
+"Cuba","CUB","2016",""
+"Curacao","CUW","2016",""
+"Cayman Islands","CYM","2016",""
+"Cyprus","CYP","2016",""
+"Czech Republic","CZE","2016",""
+"Germany","DEU","2016",""
+"Djibouti","DJI","2016",""
+"Dominica","DMA","2016",""
+"Denmark","DNK","2016",""
+"Dominican Republic","DOM","2016",""
+"Algeria","DZA","2016",""
+"Ecuador","ECU","2016",""
+"Egypt, Arab Rep.","EGY","2016",""
+"Eritrea","ERI","2016",""
+"Spain","ESP","2016",""
+"Estonia","EST","2016",""
+"Ethiopia","ETH","2016",""
+"Finland","FIN","2016",""
+"Fiji","FJI","2016",""
+"France","FRA","2016",""
+"Faroe Islands","FRO","2016",""
+"Micronesia, Fed. Sts.","FSM","2016",""
+"Gabon","GAB","2016",""
+"United Kingdom","GBR","2016",""
+"Georgia","GEO","2016",""
+"Ghana","GHA","2016",""
+"Gibraltar","GIB","2016",""
+"Guinea","GIN","2016",""
+"Gambia, The","GMB","2016",""
+"Guinea-Bissau","GNB","2016",""
+"Equatorial Guinea","GNQ","2016",""
+"Greece","GRC","2016",""
+"Grenada","GRD","2016",""
+"Greenland","GRL","2016",""
+"Guatemala","GTM","2016",""
+"Guam","GUM","2016",""
+"Guyana","GUY","2016",""
+"Hong Kong SAR, China","HKG","2016",""
+"Honduras","HND","2016",""
+"Croatia","HRV","2016",""
+"Haiti","HTI","2016",""
+"Hungary","HUN","2016",""
+"Indonesia","IDN","2016",""
+"Isle of Man","IMN","2016",""
+"India","IND","2016",""
+"Ireland","IRL","2016",""
+"Iran, Islamic Rep.","IRN","2016",""
+"Iraq","IRQ","2016",""
+"Iceland","ISL","2016",""
+"Israel","ISR","2016",""
+"Italy","ITA","2016",""
+"Jamaica","JAM","2016",""
+"Jordan","JOR","2016",""
+"Japan","JPN","2016",""
+"Kazakhstan","KAZ","2016",""
+"Kenya","KEN","2016",""
+"Kyrgyz Republic","KGZ","2016",""
+"Cambodia","KHM","2016",""
+"Kiribati","KIR","2016",""
+"St. Kitts and Nevis","KNA","2016",""
+"Korea, Rep.","KOR","2016",""
+"Kuwait","KWT","2016",""
+"Lao PDR","LAO","2016",""
+"Lebanon","LBN","2016",""
+"Liberia","LBR","2016",""
+"Libya","LBY","2016",""
+"St. Lucia","LCA","2016",""
+"Liechtenstein","LIE","2016",""
+"Sri Lanka","LKA","2016",""
+"Lesotho","LSO","2016",""
+"Lithuania","LTU","2016",""
+"Luxembourg","LUX","2016",""
+"Latvia","LVA","2016",""
+"Macao SAR, China","MAC","2016",""
+"St. Martin (French part)","MAF","2016",""
+"Morocco","MAR","2016",""
+"Monaco","MCO","2016",""
+"Moldova","MDA","2016",""
+"Madagascar","MDG","2016",""
+"Maldives","MDV","2016",""
+"Mexico","MEX","2016",""
+"Marshall Islands","MHL","2016",""
+"North Macedonia","MKD","2016",""
+"Mali","MLI","2016",""
+"Malta","MLT","2016",""
+"Myanmar","MMR","2016",""
+"Montenegro","MNE","2016",""
+"Mongolia","MNG","2016",""
+"Northern Mariana Islands","MNP","2016",""
+"Mozambique","MOZ","2016",""
+"Mauritania","MRT","2016",""
+"Mauritius","MUS","2016",""
+"Malawi","MWI","2016",""
+"Malaysia","MYS","2016",""
+"Namibia","NAM","2016",""
+"New Caledonia","NCL","2016",""
+"Niger","NER","2016",""
+"Nigeria","NGA","2016",""
+"Nicaragua","NIC","2016",""
+"Netherlands","NLD","2016",""
+"Norway","NOR","2016",""
+"Nepal","NPL","2016",""
+"Nauru","NRU","2016",""
+"New Zealand","NZL","2016",""
+"Oman","OMN","2016",""
+"Pakistan","PAK","2016",""
+"Panama","PAN","2016",""
+"Peru","PER","2016",""
+"Philippines","PHL","2016",""
+"Palau","PLW","2016",""
+"Papua New Guinea","PNG","2016",""
+"Poland","POL","2016",""
+"Puerto Rico","PRI","2016",""
+"Korea, Dem. People's Rep.","PRK","2016",""
+"Portugal","PRT","2016",""
+"Paraguay","PRY","2016",""
+"West Bank and Gaza","PSE","2016",""
+"French Polynesia","PYF","2016",""
+"Qatar","QAT","2016",""
+"Romania","ROU","2016",""
+"Russian Federation","RUS","2016",""
+"Rwanda","RWA","2016",""
+"Saudi Arabia","SAU","2016",""
+"Sudan","SDN","2016",""
+"Senegal","SEN","2016",""
+"Singapore","SGP","2016",""
+"Solomon Islands","SLB","2016",""
+"Sierra Leone","SLE","2016",""
+"El Salvador","SLV","2016",""
+"San Marino","SMR","2016",""
+"Somalia","SOM","2016",""
+"Serbia","SRB","2016",""
+"South Sudan","SSD","2016",""
+"Sao Tome and Principe","STP","2016",""
+"Suriname","SUR","2016",""
+"Slovak Republic","SVK","2016",""
+"Slovenia","SVN","2016",""
+"Sweden","SWE","2016",""
+"Eswatini","SWZ","2016",""
+"Sint Maarten (Dutch part)","SXM","2016",""
+"Seychelles","SYC","2016",""
+"Syrian Arab Republic","SYR","2016",""
+"Turks and Caicos Islands","TCA","2016",""
+"Chad","TCD","2016",""
+"Togo","TGO","2016",""
+"Thailand","THA","2016",""
+"Tajikistan","TJK","2016",""
+"Turkmenistan","TKM","2016",""
+"Timor-Leste","TLS","2016",""
+"Tonga","TON","2016",""
+"Trinidad and Tobago","TTO","2016",""
+"Tunisia","TUN","2016",""
+"Turkey","TUR","2016",""
+"Tuvalu","TUV","2016",""
+"Tanzania","TZA","2016",""
+"Uganda","UGA","2016",""
+"Ukraine","UKR","2016",""
+"Uruguay","URY","2016",""
+"United States","USA","2016",""
+"Uzbekistan","UZB","2016",""
+"St. Vincent and the Grenadines","VCT","2016",""
+"Venezuela, RB","VEN","2016",""
+"British Virgin Islands","VGB","2016",""
+"Virgin Islands (U.S.)","VIR","2016",""
+"Vietnam","VNM","2016",""
+"Vanuatu","VUT","2016",""
+"Samoa","WSM","2016",""
+"Kosovo","XKX","2016",""
+"Yemen, Rep.","YEM","2016",""
+"South Africa","ZAF","2016",""
+"Zambia","ZMB","2016",""
+"Zimbabwe","ZWE","2016",""
+"Aruba","ABW","2017",""
+"Afghanistan","AFG","2017",0.375
+"Angola","AGO","2017",0.381
+"Albania","ALB","2017",0.65
+"Andorra","AND","2017",""
+"United Arab Emirates","ARE","2017",""
+"Argentina","ARG","2017",0.642
+"Armenia","ARM","2017",0.605
+"American Samoa","ASM","2017",""
+"Antigua and Barbuda","ATG","2017",""
+"Australia","AUS","2017",0.815
+"Austria","AUT","2017",0.809
+"Azerbaijan","AZE","2017",""
+"Burundi","BDI","2017",0.407
+"Belgium","BEL","2017",0.777
+"Benin","BEN","2017",0.425
+"Burkina Faso","BFA","2017",0.375
+"Bangladesh","BGD","2017",0.502
+"Bulgaria","BGR","2017",0.726
+"Bahrain","BHR","2017",0.713
+"Bahamas, The","BHS","2017",""
+"Bosnia and Herzegovina","BIH","2017",0.639
+"Belarus","BLR","2017",""
+"Belize","BLZ","2017",""
+"Bermuda","BMU","2017",""
+"Bolivia","BOL","2017",""
+"Brazil","BRA","2017",""
+"Barbados","BRB","2017",""
+"Brunei Darussalam","BRN","2017",""
+"Bhutan","BTN","2017",""
+"Botswana","BWA","2017",0.474
+"Central African Republic","CAF","2017",""
+"Canada","CAN","2017",0.817
+"Switzerland","CHE","2017",0.789
+"Channel Islands","CHI","2017",""
+"Chile","CHL","2017",0.686
+"China","CHN","2017",0.683
+"Cote d'Ivoire","CIV","2017",0.342
+"Cameroon","CMR","2017",0.418
+"Congo, Dem. Rep.","COD","2017",0.386
+"Congo, Rep.","COG","2017",0.438
+"Colombia","COL","2017",0.613
+"Comoros","COM","2017",0.439
+"Cabo Verde","CPV","2017",""
+"Costa Rica","CRI","2017",0.63
+"Cuba","CUB","2017",""
+"Curacao","CUW","2017",""
+"Cayman Islands","CYM","2017",""
+"Cyprus","CYP","2017",0.768
+"Czech Republic","CZE","2017",0.81
+"Germany","DEU","2017",0.813
+"Djibouti","DJI","2017",""
+"Dominica","DMA","2017",""
+"Denmark","DNK","2017",0.802
+"Dominican Republic","DOM","2017",0.522
+"Algeria","DZA","2017",0.554
+"Ecuador","ECU","2017",0.629
+"Egypt, Arab Rep.","EGY","2017",0.52
+"Eritrea","ERI","2017",""
+"Spain","ESP","2017",0.765
+"Estonia","EST","2017",0.796
+"Ethiopia","ETH","2017",0.398
+"Finland","FIN","2017",0.857
+"Fiji","FJI","2017",""
+"France","FRA","2017",""
+"Faroe Islands","FRO","2017",""
+"Micronesia, Fed. Sts.","FSM","2017",""
+"Gabon","GAB","2017",0.492
+"United Kingdom","GBR","2017",0.799
+"Georgia","GEO","2017",0.659
+"Ghana","GHA","2017",0.459
+"Gibraltar","GIB","2017",""
+"Guinea","GIN","2017",0.37
+"Gambia, The","GMB","2017",0.429
+"Guinea-Bissau","GNB","2017",""
+"Equatorial Guinea","GNQ","2017",""
+"Greece","GRC","2017",0.705
+"Grenada","GRD","2017",""
+"Greenland","GRL","2017",""
+"Guatemala","GTM","2017",0.482
+"Guam","GUM","2017",""
+"Guyana","GUY","2017",0.537
+"Hong Kong SAR, China","HKG","2017",0.847
+"Honduras","HND","2017",0.516
+"Croatia","HRV","2017",0.76
+"Haiti","HTI","2017",0.482
+"Hungary","HUN","2017",0.743
+"Indonesia","IDN","2017",0.569
+"Isle of Man","IMN","2017",""
+"India","IND","2017",0.461
+"Ireland","IRL","2017",""
+"Iran, Islamic Rep.","IRN","2017",0.619
+"Iraq","IRQ","2017",0.423
+"Iceland","ISL","2017",0.767
+"Israel","ISR","2017",""
+"Italy","ITA","2017",0.784
+"Jamaica","JAM","2017",0.575
+"Jordan","JOR","2017",0.605
+"Japan","JPN","2017",""
+"Kazakhstan","KAZ","2017",0.799
+"Kenya","KEN","2017",""
+"Kyrgyz Republic","KGZ","2017",0.615
+"Cambodia","KHM","2017",""
+"Kiribati","KIR","2017",""
+"St. Kitts and Nevis","KNA","2017",""
+"Korea, Rep.","KOR","2017",0.869
+"Kuwait","KWT","2017",0.618
+"Lao PDR","LAO","2017",0.477
+"Lebanon","LBN","2017",0.548
+"Liberia","LBR","2017",0.331
+"Libya","LBY","2017",""
+"St. Lucia","LCA","2017",""
+"Liechtenstein","LIE","2017",""
+"Sri Lanka","LKA","2017",""
+"Lesotho","LSO","2017",""
+"Lithuania","LTU","2017",0.773
+"Luxembourg","LUX","2017",0.715
+"Latvia","LVA","2017",0.786
+"Macao SAR, China","MAC","2017",0.793
+"St. Martin (French part)","MAF","2017",""
+"Morocco","MAR","2017",0.521
+"Monaco","MCO","2017",""
+"Moldova","MDA","2017",0.616
+"Madagascar","MDG","2017",0.416
+"Maldives","MDV","2017",""
+"Mexico","MEX","2017",0.628
+"Marshall Islands","MHL","2017",""
+"North Macedonia","MKD","2017",0.554
+"Mali","MLI","2017",0.337
+"Malta","MLT","2017",0.743
+"Myanmar","MMR","2017",0.504
+"Montenegro","MNE","2017",""
+"Mongolia","MNG","2017",""
+"Northern Mariana Islands","MNP","2017",""
+"Mozambique","MOZ","2017",""
+"Mauritania","MRT","2017",0.386
+"Mauritius","MUS","2017",""
+"Malawi","MWI","2017",""
+"Malaysia","MYS","2017",0.657
+"Namibia","NAM","2017",""
+"New Caledonia","NCL","2017",""
+"Niger","NER","2017",0.329
+"Nigeria","NGA","2017",0.358
+"Nicaragua","NIC","2017",0.564
+"Netherlands","NLD","2017",0.822
+"Norway","NOR","2017",0.798
+"Nepal","NPL","2017",""
+"Nauru","NRU","2017",""
+"New Zealand","NZL","2017",0.797
+"Oman","OMN","2017",0.669
+"Pakistan","PAK","2017",0.398
+"Panama","PAN","2017",0.557
+"Peru","PER","2017",0.606
+"Philippines","PHL","2017",0.604
+"Palau","PLW","2017",""
+"Papua New Guinea","PNG","2017",0.412
+"Poland","POL","2017",0.792
+"Puerto Rico","PRI","2017",""
+"Korea, Dem. People's Rep.","PRK","2017",""
+"Portugal","PRT","2017",0.795
+"Paraguay","PRY","2017",0.549
+"West Bank and Gaza","PSE","2017",0.587
+"French Polynesia","PYF","2017",""
+"Qatar","QAT","2017",0.667
+"Romania","ROU","2017",0.641
+"Russian Federation","RUS","2017",0.815
+"Rwanda","RWA","2017",0.402
+"Saudi Arabia","SAU","2017",0.625
+"Sudan","SDN","2017",""
+"Senegal","SEN","2017",0.443
+"Singapore","SGP","2017",0.914
+"Solomon Islands","SLB","2017",0.463
+"Sierra Leone","SLE","2017",0.345
+"El Salvador","SLV","2017",0.524
+"San Marino","SMR","2017",""
+"Somalia","SOM","2017",""
+"Serbia","SRB","2017",0.785
+"South Sudan","SSD","2017",""
+"Sao Tome and Principe","STP","2017",""
+"Suriname","SUR","2017",""
+"Slovak Republic","SVK","2017",0.731
+"Slovenia","SVN","2017",0.822
+"Sweden","SWE","2017",0.828
+"Eswatini","SWZ","2017",""
+"Sint Maarten (Dutch part)","SXM","2017",""
+"Seychelles","SYC","2017",""
+"Syrian Arab Republic","SYR","2017",""
+"Turks and Caicos Islands","TCA","2017",""
+"Chad","TCD","2017",0.303
+"Togo","TGO","2017",0.427
+"Thailand","THA","2017",0.618
+"Tajikistan","TJK","2017",0.544
+"Turkmenistan","TKM","2017",""
+"Timor-Leste","TLS","2017",0.494
+"Tonga","TON","2017",0.54
+"Trinidad and Tobago","TTO","2017",""
+"Tunisia","TUN","2017",0.54
+"Turkey","TUR","2017",0.645
+"Tuvalu","TUV","2017",""
+"Tanzania","TZA","2017",0.421
+"Uganda","UGA","2017",""
+"Ukraine","UKR","2017",0.71
+"Uruguay","URY","2017",""
+"United States","USA","2017",0.766
+"Uzbekistan","UZB","2017",""
+"St. Vincent and the Grenadines","VCT","2017",""
+"Venezuela, RB","VEN","2017",""
+"British Virgin Islands","VGB","2017",""
+"Virgin Islands (U.S.)","VIR","2017",""
+"Vietnam","VNM","2017",""
+"Vanuatu","VUT","2017",0.504
+"Samoa","WSM","2017",""
+"Kosovo","XKX","2017",0.583
+"Yemen, Rep.","YEM","2017",0.375
+"South Africa","ZAF","2017",0.42
+"Zambia","ZMB","2017",""
+"Zimbabwe","ZWE","2017",""
+"Aruba","ABW","2018",""
+"Afghanistan","AFG","2018",0.375342547893524
+"Angola","AGO","2018",0.375477969646454
+"Albania","ALB","2018",0.675915539264679
+"Andorra","AND","2018",""
+"United Arab Emirates","ARE","2018",0.700840771198273
+"Argentina","ARG","2018",0.639261424541473
+"Armenia","ARM","2018",0.617133259773254
+"American Samoa","ASM","2018",""
+"Antigua and Barbuda","ATG","2018",0.610243797302246
+"Australia","AUS","2018",0.805662453174591
+"Austria","AUT","2018",0.790127217769623
+"Azerbaijan","AZE","2018",0.664292633533478
+"Burundi","BDI","2018",0.428784370422363
+"Belgium","BEL","2018",0.781572043895721
+"Benin","BEN","2018",0.421303123235703
+"Burkina Faso","BFA","2018",0.399535268545151
+"Bangladesh","BGD","2018",0.480733007192612
+"Bulgaria","BGR","2018",0.70312887430191
+"Bahrain","BHR","2018",0.703414976596832
+"Bahamas, The","BHS","2018",""
+"Bosnia and Herzegovina","BIH","2018",0.637436866760254
+"Belarus","BLR","2018",""
+"Belize","BLZ","2018",""
+"Bermuda","BMU","2018",""
+"Bolivia","BOL","2018",""
+"Brazil","BRA","2018",""
+"Barbados","BRB","2018",""
+"Brunei Darussalam","BRN","2018",""
+"Bhutan","BTN","2018",""
+"Botswana","BWA","2018",0.455691426992416
+"Central African Republic","CAF","2018",""
+"Canada","CAN","2018",0.819031834602356
+"Switzerland","CHE","2018",0.782451689243317
+"Channel Islands","CHI","2018",""
+"Chile","CHL","2018",0.688876092433929
+"China","CHN","2018",0.667152404785156
+"Cote d'Ivoire","CIV","2018",0.384640395641327
+"Cameroon","CMR","2018",0.414456635713577
+"Congo, Dem. Rep.","COD","2018",0.384846895933151
+"Congo, Rep.","COG","2018",0.449283629655838
+"Colombia","COL","2018",0.623294174671173
+"Comoros","COM","2018",0.436932861804962
+"Cabo Verde","CPV","2018",""
+"Costa Rica","CRI","2018",0.624613285064697
+"Cuba","CUB","2018",""
+"Curacao","CUW","2018",""
+"Cayman Islands","CYM","2018",""
+"Cyprus","CYP","2018",0.771122694015503
+"Czech Republic","CZE","2018",0.791007280349731
+"Germany","DEU","2018",0.788272142410278
+"Djibouti","DJI","2018",""
+"Dominica","DMA","2018",0.596702039241791
+"Denmark","DNK","2018",0.796279430389404
+"Dominican Republic","DOM","2018",0.538783013820648
+"Algeria","DZA","2018",0.560430347919464
+"Ecuador","ECU","2018",0.624481976032257
+"Egypt, Arab Rep.","EGY","2018",0.526164591312408
+"Eritrea","ERI","2018",""
+"Spain","ESP","2018",0.75840699672699
+"Estonia","EST","2018",0.818049788475037
+"Ethiopia","ETH","2018",0.394727528095245
+"Finland","FIN","2018",0.854031383991241
+"Fiji","FJI","2018",""
+"France","FRA","2018",0.78321784734726
+"Faroe Islands","FRO","2018",""
+"Micronesia, Fed. Sts.","FSM","2018",0.504810750484467
+"Gabon","GAB","2018",0.493767350912094
+"United Kingdom","GBR","2018",0.796709775924683
+"Georgia","GEO","2018",0.665108919143677
+"Ghana","GHA","2018",0.463093549013138
+"Gibraltar","GIB","2018",""
+"Guinea","GIN","2018",0.369569182395935
+"Gambia, The","GMB","2018",0.437862485647201
+"Guinea-Bissau","GNB","2018",""
+"Equatorial Guinea","GNQ","2018",""
+"Greece","GRC","2018",0.728338897228241
+"Grenada","GRD","2018",0.590360701084137
+"Greenland","GRL","2018",""
+"Guatemala","GTM","2018",0.4754958152771
+"Guam","GUM","2018",""
+"Guyana","GUY","2018",0.530359148979187
+"Hong Kong SAR, China","HKG","2018",0.862000346183777
+"Honduras","HND","2018",0.504037976264954
+"Croatia","HRV","2018",0.762213230133057
+"Haiti","HTI","2018",0.474497318267822
+"Hungary","HUN","2018",0.739902019500732
+"Indonesia","IDN","2018",0.565099120140076
+"Isle of Man","IMN","2018",""
+"India","IND","2018",0.496322333812714
+"Ireland","IRL","2018",0.832504034042358
+"Iran, Islamic Rep.","IRN","2018",0.622536838054657
+"Iraq","IRQ","2018",0.418814539909363
+"Iceland","ISL","2018",0.771432340145111
+"Israel","ISR","2018",0.793478548526764
+"Italy","ITA","2018",0.769389748573303
+"Jamaica","JAM","2018",0.582458853721619
+"Jordan","JOR","2018",0.588378667831421
+"Japan","JPN","2018",""
+"Kazakhstan","KAZ","2018",0.823179543018341
+"Kenya","KEN","2018",""
+"Kyrgyz Republic","KGZ","2018",0.624473750591278
+"Cambodia","KHM","2018",""
+"Kiribati","KIR","2018",0.534376859664917
+"St. Kitts and Nevis","KNA","2018",0.599854528903961
+"Korea, Rep.","KOR","2018",0.863795161247253
+"Kuwait","KWT","2018",0.603709280490875
+"Lao PDR","LAO","2018",0.479533612728119
+"Lebanon","LBN","2018",""
+"Liberia","LBR","2018",0.335255205631256
+"Libya","LBY","2018",""
+"St. Lucia","LCA","2018",0.628296315670013
+"Liechtenstein","LIE","2018",""
+"Sri Lanka","LKA","2018",""
+"Lesotho","LSO","2018",""
+"Lithuania","LTU","2018",0.789195477962494
+"Luxembourg","LUX","2018",0.709163069725037
+"Latvia","LVA","2018",0.804282128810883
+"Macao SAR, China","MAC","2018",0.793999433517456
+"St. Martin (French part)","MAF","2018",""
+"Morocco","MAR","2018",0.51568216085434
+"Monaco","MCO","2018",""
+"Moldova","MDA","2018",0.615644037723541
+"Madagascar","MDG","2018",0.414729923009872
+"Maldives","MDV","2018",""
+"Mexico","MEX","2018",0.635855913162231
+"Marshall Islands","MHL","2018",0.441505223512649
+"North Macedonia","MKD","2018",0.55531769990921
+"Mali","MLI","2018",0.332061499357224
+"Malta","MLT","2018",0.737578511238098
+"Myanmar","MMR","2018",0.50453108549118
+"Montenegro","MNE","2018",0.647646129131317
+"Mongolia","MNG","2018",0.654818177223206
+"Northern Mariana Islands","MNP","2018",""
+"Mozambique","MOZ","2018",""
+"Mauritania","MRT","2018",0.405875355005264
+"Mauritius","MUS","2018",""
+"Malawi","MWI","2018",""
+"Malaysia","MYS","2018",0.668683052062988
+"Namibia","NAM","2018",""
+"New Caledonia","NCL","2018",""
+"Niger","NER","2018",0.3331418633461
+"Nigeria","NGA","2018",0.380619794130325
+"Nicaragua","NIC","2018",0.535690486431122
+"Netherlands","NLD","2018",0.823820829391479
+"Norway","NOR","2018",0.790974915027618
+"Nepal","NPL","2018",""
+"Nauru","NRU","2018",""
+"New Zealand","NZL","2018",0.79856812953949
+"Oman","OMN","2018",0.664411842823029
+"Pakistan","PAK","2018",0.408970415592194
+"Panama","PAN","2018",0.538067638874054
+"Peru","PER","2018",0.609842956066132
+"Philippines","PHL","2018",0.593336760997772
+"Palau","PLW","2018",0.612731337547302
+"Papua New Guinea","PNG","2018",0.438904613256455
+"Poland","POL","2018",0.801134645938873
+"Puerto Rico","PRI","2018",""
+"Korea, Dem. People's Rep.","PRK","2018",""
+"Portugal","PRT","2018",0.802065253257751
+"Paraguay","PRY","2018",0.545458018779755
+"West Bank and Gaza","PSE","2018",0.611432611942291
+"French Polynesia","PYF","2018",""
+"Qatar","QAT","2018",0.66619473695755
+"Romania","ROU","2018",0.631229758262634
+"Russian Federation","RUS","2018",0.786240577697754
+"Rwanda","RWA","2018",0.403103798627853
+"Saudi Arabia","SAU","2018",0.62705260515213
+"Sudan","SDN","2018",0.398174226284027
+"Senegal","SEN","2018",0.453963696956635
+"Singapore","SGP","2018",0.911273241043091
+"Solomon Islands","SLB","2018",0.456698387861252
+"Sierra Leone","SLE","2018",0.376879364252091
+"El Salvador","SLV","2018",0.576513469219208
+"San Marino","SMR","2018",""
+"Somalia","SOM","2018",""
+"Serbia","SRB","2018",0.787408888339996
+"South Sudan","SSD","2018",""
+"Sao Tome and Principe","STP","2018",""
+"Suriname","SUR","2018",""
+"Slovak Republic","SVK","2018",0.713991343975067
+"Slovenia","SVN","2018",0.822504341602325
+"Sweden","SWE","2018",0.827208817005157
+"Eswatini","SWZ","2018",""
+"Sint Maarten (Dutch part)","SXM","2018",""
+"Seychelles","SYC","2018",""
+"Syrian Arab Republic","SYR","2018",""
+"Turks and Caicos Islands","TCA","2018",""
+"Chad","TCD","2018",0.307309538125992
+"Togo","TGO","2018",0.44480100274086
+"Thailand","THA","2018",0.648277938365936
+"Tajikistan","TJK","2018",0.554274260997772
+"Turkmenistan","TKM","2018",""
+"Timor-Leste","TLS","2018",0.489227831363678
+"Tonga","TON","2018",0.562060534954071
+"Trinidad and Tobago","TTO","2018",""
+"Tunisia","TUN","2018",0.540920734405518
+"Turkey","TUR","2018",0.646660149097443
+"Tuvalu","TUV","2018",0.476711809635162
+"Tanzania","TZA","2018",0.408611595630646
+"Uganda","UGA","2018",""
+"Ukraine","UKR","2018",0.693619728088379
+"Uruguay","URY","2018",0.636488556861877
+"United States","USA","2018",0.740411460399628
+"Uzbekistan","UZB","2018",""
+"St. Vincent and the Grenadines","VCT","2018",0.578689515590668
+"Venezuela, RB","VEN","2018",""
+"British Virgin Islands","VGB","2018",""
+"Virgin Islands (U.S.)","VIR","2018",""
+"Vietnam","VNM","2018",0.744960725307465
+"Vanuatu","VUT","2018",0.473419517278671
+"Samoa","WSM","2018",0.557763040065765
+"Kosovo","XKX","2018",0.596390187740326
+"Yemen, Rep.","YEM","2018",0.380934298038483
+"South Africa","ZAF","2018",0.456172853708267
+"Zambia","ZMB","2018",""
+"Zimbabwe","ZWE","2018",""
+"Aruba","ABW","2019",""
+"Afghanistan","AFG","2019",""
+"Angola","AGO","2019",""
+"Albania","ALB","2019",""
+"Andorra","AND","2019",""
+"United Arab Emirates","ARE","2019",""
+"Argentina","ARG","2019",""
+"Armenia","ARM","2019",""
+"American Samoa","ASM","2019",""
+"Antigua and Barbuda","ATG","2019",""
+"Australia","AUS","2019",""
+"Austria","AUT","2019",""
+"Azerbaijan","AZE","2019",""
+"Burundi","BDI","2019",""
+"Belgium","BEL","2019",""
+"Benin","BEN","2019",""
+"Burkina Faso","BFA","2019",""
+"Bangladesh","BGD","2019",""
+"Bulgaria","BGR","2019",""
+"Bahrain","BHR","2019",""
+"Bahamas, The","BHS","2019",""
+"Bosnia and Herzegovina","BIH","2019",""
+"Belarus","BLR","2019",""
+"Belize","BLZ","2019",""
+"Bermuda","BMU","2019",""
+"Bolivia","BOL","2019",""
+"Brazil","BRA","2019",""
+"Barbados","BRB","2019",""
+"Brunei Darussalam","BRN","2019",""
+"Bhutan","BTN","2019",""
+"Botswana","BWA","2019",""
+"Central African Republic","CAF","2019",""
+"Canada","CAN","2019",""
+"Switzerland","CHE","2019",""
+"Channel Islands","CHI","2019",""
+"Chile","CHL","2019",""
+"China","CHN","2019",""
+"Cote d'Ivoire","CIV","2019",""
+"Cameroon","CMR","2019",""
+"Congo, Dem. Rep.","COD","2019",""
+"Congo, Rep.","COG","2019",""
+"Colombia","COL","2019",""
+"Comoros","COM","2019",""
+"Cabo Verde","CPV","2019",""
+"Costa Rica","CRI","2019",""
+"Cuba","CUB","2019",""
+"Curacao","CUW","2019",""
+"Cayman Islands","CYM","2019",""
+"Cyprus","CYP","2019",""
+"Czech Republic","CZE","2019",""
+"Germany","DEU","2019",""
+"Djibouti","DJI","2019",""
+"Dominica","DMA","2019",""
+"Denmark","DNK","2019",""
+"Dominican Republic","DOM","2019",""
+"Algeria","DZA","2019",""
+"Ecuador","ECU","2019",""
+"Egypt, Arab Rep.","EGY","2019",""
+"Eritrea","ERI","2019",""
+"Spain","ESP","2019",""
+"Estonia","EST","2019",""
+"Ethiopia","ETH","2019",""
+"Finland","FIN","2019",""
+"Fiji","FJI","2019",""
+"France","FRA","2019",""
+"Faroe Islands","FRO","2019",""
+"Micronesia, Fed. Sts.","FSM","2019",""
+"Gabon","GAB","2019",""
+"United Kingdom","GBR","2019",""
+"Georgia","GEO","2019",""
+"Ghana","GHA","2019",""
+"Gibraltar","GIB","2019",""
+"Guinea","GIN","2019",""
+"Gambia, The","GMB","2019",""
+"Guinea-Bissau","GNB","2019",""
+"Equatorial Guinea","GNQ","2019",""
+"Greece","GRC","2019",""
+"Grenada","GRD","2019",""
+"Greenland","GRL","2019",""
+"Guatemala","GTM","2019",""
+"Guam","GUM","2019",""
+"Guyana","GUY","2019",""
+"Hong Kong SAR, China","HKG","2019",""
+"Honduras","HND","2019",""
+"Croatia","HRV","2019",""
+"Haiti","HTI","2019",""
+"Hungary","HUN","2019",""
+"Indonesia","IDN","2019",""
+"Isle of Man","IMN","2019",""
+"India","IND","2019",""
+"Ireland","IRL","2019",""
+"Iran, Islamic Rep.","IRN","2019",""
+"Iraq","IRQ","2019",""
+"Iceland","ISL","2019",""
+"Israel","ISR","2019",""
+"Italy","ITA","2019",""
+"Jamaica","JAM","2019",""
+"Jordan","JOR","2019",""
+"Japan","JPN","2019",""
+"Kazakhstan","KAZ","2019",""
+"Kenya","KEN","2019",""
+"Kyrgyz Republic","KGZ","2019",""
+"Cambodia","KHM","2019",""
+"Kiribati","KIR","2019",""
+"St. Kitts and Nevis","KNA","2019",""
+"Korea, Rep.","KOR","2019",""
+"Kuwait","KWT","2019",""
+"Lao PDR","LAO","2019",""
+"Lebanon","LBN","2019",""
+"Liberia","LBR","2019",""
+"Libya","LBY","2019",""
+"St. Lucia","LCA","2019",""
+"Liechtenstein","LIE","2019",""
+"Sri Lanka","LKA","2019",""
+"Lesotho","LSO","2019",""
+"Lithuania","LTU","2019",""
+"Luxembourg","LUX","2019",""
+"Latvia","LVA","2019",""
+"Macao SAR, China","MAC","2019",""
+"St. Martin (French part)","MAF","2019",""
+"Morocco","MAR","2019",""
+"Monaco","MCO","2019",""
+"Moldova","MDA","2019",""
+"Madagascar","MDG","2019",""
+"Maldives","MDV","2019",""
+"Mexico","MEX","2019",""
+"Marshall Islands","MHL","2019",""
+"North Macedonia","MKD","2019",""
+"Mali","MLI","2019",""
+"Malta","MLT","2019",""
+"Myanmar","MMR","2019",""
+"Montenegro","MNE","2019",""
+"Mongolia","MNG","2019",""
+"Northern Mariana Islands","MNP","2019",""
+"Mozambique","MOZ","2019",""
+"Mauritania","MRT","2019",""
+"Mauritius","MUS","2019",""
+"Malawi","MWI","2019",""
+"Malaysia","MYS","2019",""
+"Namibia","NAM","2019",""
+"New Caledonia","NCL","2019",""
+"Niger","NER","2019",""
+"Nigeria","NGA","2019",""
+"Nicaragua","NIC","2019",""
+"Netherlands","NLD","2019",""
+"Norway","NOR","2019",""
+"Nepal","NPL","2019",""
+"Nauru","NRU","2019",""
+"New Zealand","NZL","2019",""
+"Oman","OMN","2019",""
+"Pakistan","PAK","2019",""
+"Panama","PAN","2019",""
+"Peru","PER","2019",""
+"Philippines","PHL","2019",""
+"Palau","PLW","2019",""
+"Papua New Guinea","PNG","2019",""
+"Poland","POL","2019",""
+"Puerto Rico","PRI","2019",""
+"Korea, Dem. People's Rep.","PRK","2019",""
+"Portugal","PRT","2019",""
+"Paraguay","PRY","2019",""
+"West Bank and Gaza","PSE","2019",""
+"French Polynesia","PYF","2019",""
+"Qatar","QAT","2019",""
+"Romania","ROU","2019",""
+"Russian Federation","RUS","2019",""
+"Rwanda","RWA","2019",""
+"Saudi Arabia","SAU","2019",""
+"Sudan","SDN","2019",""
+"Senegal","SEN","2019",""
+"Singapore","SGP","2019",""
+"Solomon Islands","SLB","2019",""
+"Sierra Leone","SLE","2019",""
+"El Salvador","SLV","2019",""
+"San Marino","SMR","2019",""
+"Somalia","SOM","2019",""
+"Serbia","SRB","2019",""
+"South Sudan","SSD","2019",""
+"Sao Tome and Principe","STP","2019",""
+"Suriname","SUR","2019",""
+"Slovak Republic","SVK","2019",""
+"Slovenia","SVN","2019",""
+"Sweden","SWE","2019",""
+"Eswatini","SWZ","2019",""
+"Sint Maarten (Dutch part)","SXM","2019",""
+"Seychelles","SYC","2019",""
+"Syrian Arab Republic","SYR","2019",""
+"Turks and Caicos Islands","TCA","2019",""
+"Chad","TCD","2019",""
+"Togo","TGO","2019",""
+"Thailand","THA","2019",""
+"Tajikistan","TJK","2019",""
+"Turkmenistan","TKM","2019",""
+"Timor-Leste","TLS","2019",""
+"Tonga","TON","2019",""
+"Trinidad and Tobago","TTO","2019",""
+"Tunisia","TUN","2019",""
+"Turkey","TUR","2019",""
+"Tuvalu","TUV","2019",""
+"Tanzania","TZA","2019",""
+"Uganda","UGA","2019",""
+"Ukraine","UKR","2019",""
+"Uruguay","URY","2019",""
+"United States","USA","2019",""
+"Uzbekistan","UZB","2019",""
+"St. Vincent and the Grenadines","VCT","2019",""
+"Venezuela, RB","VEN","2019",""
+"British Virgin Islands","VGB","2019",""
+"Virgin Islands (U.S.)","VIR","2019",""
+"Vietnam","VNM","2019",""
+"Vanuatu","VUT","2019",""
+"Samoa","WSM","2019",""
+"Kosovo","XKX","2019",""
+"Yemen, Rep.","YEM","2019",""
+"South Africa","ZAF","2019",""
+"Zambia","ZMB","2019",""
+"Zimbabwe","ZWE","2019",""
+"Aruba","ABW","2020",""
+"Afghanistan","AFG","2020",0.380444347858429
+"Angola","AGO","2020",0.377216368913651
+"Albania","ALB","2020",0.675461173057556
+"Andorra","AND","2020",""
+"United Arab Emirates","ARE","2020",0.69959968328476
+"Argentina","ARG","2020",0.624488055706024
+"Armenia","ARM","2020",0.613887012004852
+"American Samoa","ASM","2020",""
+"Antigua and Barbuda","ATG","2020",0.640509724617004
+"Australia","AUS","2020",0.792926669120789
+"Austria","AUT","2020",0.773455381393433
+"Azerbaijan","AZE","2020",0.602782309055328
+"Burundi","BDI","2020",0.425673007965088
+"Belgium","BEL","2020",0.782112240791321
+"Benin","BEN","2020",0.424931794404984
+"Burkina Faso","BFA","2020",0.406835317611694
+"Bangladesh","BGD","2020",0.487003445625305
+"Bulgaria","BGR","2020",0.643712401390076
+"Bahrain","BHR","2020",0.694999396800995
+"Bahamas, The","BHS","2020",""
+"Bosnia and Herzegovina","BIH","2020",0.601753413677216
+"Belarus","BLR","2020",0.744484663009644
+"Belize","BLZ","2020",""
+"Bermuda","BMU","2020",""
+"Bolivia","BOL","2020",""
+"Brazil","BRA","2020",""
+"Barbados","BRB","2020",""
+"Brunei Darussalam","BRN","2020",0.653907418251038
+"Bhutan","BTN","2020",0.498604714870453
+"Botswana","BWA","2020",0.457401841878891
+"Central African Republic","CAF","2020",""
+"Canada","CAN","2020",0.819453477859497
+"Switzerland","CHE","2020",0.775818526744843
+"Channel Islands","CHI","2020",""
+"Chile","CHL","2020",0.676599979400635
+"China","CHN","2020",0.671957969665527
+"Cote d'Ivoire","CIV","2020",0.396515399217606
+"Cameroon","CMR","2020",0.419209152460098
+"Congo, Dem. Rep.","COD","2020",0.386964410543442
+"Congo, Rep.","COG","2020",0.451040476560593
+"Colombia","COL","2020",0.626364469528198
+"Comoros","COM","2020",0.443537592887878
+"Cabo Verde","CPV","2020",""
+"Costa Rica","CRI","2020",0.654977440834045
+"Cuba","CUB","2020",""
+"Curacao","CUW","2020",""
+"Cayman Islands","CYM","2020",""
+"Cyprus","CYP","2020",0.77165561914444
+"Czech Republic","CZE","2020",0.784927487373352
+"Germany","DEU","2020",0.780017673969269
+"Djibouti","DJI","2020",""
+"Dominica","DMA","2020",0.594813525676727
+"Denmark","DNK","2020",0.782333433628082
+"Dominican Republic","DOM","2020",0.535955429077148
+"Algeria","DZA","2020",0.565142750740051
+"Ecuador","ECU","2020",0.623012959957123
+"Egypt, Arab Rep.","EGY","2020",0.52875554561615
+"Eritrea","ERI","2020",""
+"Spain","ESP","2020",0.746077954769135
+"Estonia","EST","2020",0.822005748748779
+"Ethiopia","ETH","2020",0.39385712146759
+"Finland","FIN","2020",0.839830040931702
+"Fiji","FJI","2020",0.547117054462433
+"France","FRA","2020",0.791073143482208
+"Faroe Islands","FRO","2020",""
+"Micronesia, Fed. Sts.","FSM","2020",0.553770780563354
+"Gabon","GAB","2020",0.495206564664841
+"United Kingdom","GBR","2020",0.800990402698517
+"Georgia","GEO","2020",0.619482398033142
+"Ghana","GHA","2020",0.471003383398056
+"Gibraltar","GIB","2020",""
+"Guinea","GIN","2020",0.373174011707306
+"Gambia, The","GMB","2020",0.457949936389923
+"Guinea-Bissau","GNB","2020",""
+"Equatorial Guinea","GNQ","2020",""
+"Greece","GRC","2020",0.723289728164673
+"Grenada","GRD","2020",0.61127507686615
+"Greenland","GRL","2020",""
+"Guatemala","GTM","2020",0.480854719877243
+"Guam","GUM","2020",""
+"Guyana","GUY","2020",0.531338930130005
+"Hong Kong SAR, China","HKG","2020",0.859379291534424
+"Honduras","HND","2020",0.504768967628479
+"Croatia","HRV","2020",0.7496138215065
+"Haiti","HTI","2020",0.47663351893425
+"Hungary","HUN","2020",0.716774940490723
+"Indonesia","IDN","2020",0.567514896392822
+"Isle of Man","IMN","2020",""
+"India","IND","2020",0.505454301834106
+"Ireland","IRL","2020",0.814544677734375
+"Iran, Islamic Rep.","IRN","2020",0.62369304895401
+"Iraq","IRQ","2020",0.430220991373062
+"Iceland","ISL","2020",0.777008831501007
+"Israel","ISR","2020",0.775306761264801
+"Italy","ITA","2020",0.74668151140213
+"Jamaica","JAM","2020",0.575666725635529
+"Jordan","JOR","2020",0.592172026634216
+"Japan","JPN","2020",""
+"Kazakhstan","KAZ","2020",0.660668849945068
+"Kenya","KEN","2020",""
+"Kyrgyz Republic","KGZ","2020",0.626316547393799
+"Cambodia","KHM","2020",""
+"Kiribati","KIR","2020",0.565199136734009
+"St. Kitts and Nevis","KNA","2020",0.613312304019928
+"Korea, Rep.","KOR","2020",0.826996326446533
+"Kuwait","KWT","2020",0.607929825782776
+"Lao PDR","LAO","2020",0.479691445827484
+"Lebanon","LBN","2020",""
+"Liberia","LBR","2020",0.337039291858673
+"Libya","LBY","2020",""
+"St. Lucia","LCA","2020",0.641980469226837
+"Liechtenstein","LIE","2020",""
+"Sri Lanka","LKA","2020",""
+"Lesotho","LSO","2020",""
+"Lithuania","LTU","2020",0.766042470932007
+"Luxembourg","LUX","2020",0.706648707389832
+"Latvia","LVA","2020",0.764679372310638
+"Macao SAR, China","MAC","2020",0.825219452381134
+"St. Martin (French part)","MAF","2020",""
+"Morocco","MAR","2020",0.526468753814697
+"Monaco","MCO","2020",""
+"Moldova","MDA","2020",0.616951942443848
+"Madagascar","MDG","2020",0.421801418066025
+"Maldives","MDV","2020",""
+"Mexico","MEX","2020",0.636344254016876
+"Marshall Islands","MHL","2020",0.466561168432236
+"North Macedonia","MKD","2020",0.580247759819031
+"Mali","MLI","2020",0.328821927309036
+"Malta","MLT","2020",0.747014939785004
+"Myanmar","MMR","2020",0.512324392795563
+"Montenegro","MNE","2020",0.6489098072052
+"Mongolia","MNG","2020",0.65164703130722
+"Northern Mariana Islands","MNP","2020",""
+"Mozambique","MOZ","2020",""
+"Mauritania","MRT","2020",0.418475240468979
+"Mauritius","MUS","2020",""
+"Malawi","MWI","2020",""
+"Malaysia","MYS","2020",0.645502924919128
+"Namibia","NAM","2020",""
+"New Caledonia","NCL","2020",""
+"Niger","NER","2020",0.330772399902344
+"Nigeria","NGA","2020",0.387768536806107
+"Nicaragua","NIC","2020",0.536312937736511
+"Netherlands","NLD","2020",0.817323803901672
+"Norway","NOR","2020",0.80184131860733
+"Nepal","NPL","2020",""
+"Nauru","NRU","2020",0.552026331424713
+"New Zealand","NZL","2020",0.800745487213135
+"Oman","OMN","2020",0.660332679748535
+"Pakistan","PAK","2020",0.414878576993942
+"Panama","PAN","2020",0.528490006923676
+"Peru","PER","2020",0.61618310213089
+"Philippines","PHL","2020",0.554558217525482
+"Palau","PLW","2020",0.633081436157227
+"Papua New Guinea","PNG","2020",0.444591581821442
+"Poland","POL","2020",0.796804189682007
+"Puerto Rico","PRI","2020",""
+"Korea, Dem. People's Rep.","PRK","2020",""
+"Portugal","PRT","2020",0.792204856872559
+"Paraguay","PRY","2020",0.54605770111084
+"West Bank and Gaza","PSE","2020",0.619633913040161
+"French Polynesia","PYF","2020",""
+"Qatar","QAT","2020",0.676206231117249
+"Romania","ROU","2020",0.624446988105774
+"Russian Federation","RUS","2020",0.735503196716309
+"Rwanda","RWA","2020",0.406176000833511
+"Saudi Arabia","SAU","2020",0.608652591705322
+"Sudan","SDN","2020",0.399785697460175
+"Senegal","SEN","2020",0.456248164176941
+"Singapore","SGP","2020",0.898482799530029
+"Solomon Islands","SLB","2020",0.445018976926804
+"Sierra Leone","SLE","2020",0.38876947760582
+"El Salvador","SLV","2020",0.581580340862274
+"San Marino","SMR","2020",""
+"Somalia","SOM","2020",""
+"Serbia","SRB","2020",0.706665515899658
+"South Sudan","SSD","2020",""
+"Sao Tome and Principe","STP","2020",""
+"Suriname","SUR","2020",""
+"Slovak Republic","SVK","2020",0.700611114501953
+"Slovenia","SVN","2020",0.810743451118469
+"Sweden","SWE","2020",0.821329057216644
+"Eswatini","SWZ","2020",""
+"Sint Maarten (Dutch part)","SXM","2020",""
+"Seychelles","SYC","2020",""
+"Syrian Arab Republic","SYR","2020",""
+"Turks and Caicos Islands","TCA","2020",""
+"Chad","TCD","2020",0.308628678321838
+"Togo","TGO","2020",0.453314453363419
+"Thailand","THA","2020",0.644135415554047
+"Tajikistan","TJK","2020",""
+"Turkmenistan","TKM","2020",""
+"Timor-Leste","TLS","2020",0.491342961788177
+"Tonga","TON","2020",0.573482990264893
+"Trinidad and Tobago","TTO","2020",""
+"Tunisia","TUN","2020",0.548990905284882
+"Turkey","TUR","2020",0.668561398983002
+"Tuvalu","TUV","2020",0.492248892784119
+"Tanzania","TZA","2020",0.413167804479599
+"Uganda","UGA","2020",""
+"Ukraine","UKR","2020",0.688522815704346
+"Uruguay","URY","2020",0.634428918361664
+"United States","USA","2020",0.730083882808685
+"Uzbekistan","UZB","2020",0.648854196071625
+"St. Vincent and the Grenadines","VCT","2020",0.583998143672943
+"Venezuela, RB","VEN","2020",""
+"British Virgin Islands","VGB","2020",""
+"Virgin Islands (U.S.)","VIR","2020",""
+"Vietnam","VNM","2020",0.74768590927124
+"Vanuatu","VUT","2020",0.483928471803665
+"Samoa","WSM","2020",0.594886958599091
+"Kosovo","XKX","2020",0.590421617031097
+"Yemen, Rep.","YEM","2020",0.381770312786102
+"South Africa","ZAF","2020",0.458954215049744
+"Zambia","ZMB","2020",""
+"Zimbabwe","ZWE","2020",""
