@@ -1,4 +1,4 @@
-titulo_seccion,nombre_dataset,codigo_indicador,estado,direccion
+titulo_seccion,codigo_indicador, descripcion_indicador,,estado,direccion
 Agriculture & Rural Development,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",descargado,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?view=chart
 Agriculture & Rural Development,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),descargado,https://data.worldbank.org/indicator/AG.LND.IRIG.AG.ZS?view=chart
 Agriculture & Rural Development,AG.LND.AGRI.ZS,Agricultural land (% of land area),descargado,https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?view=chart
