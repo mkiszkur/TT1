@@ -2075,3 +2075,22 @@ Trade,TX.VAL.TRVL.ZS.WT,Travel services (% of commercial service exports),descar
 Trade,TM.VAL.TRVL.ZS.WT,Travel services (% of commercial service imports),descargado,https://data.worldbank.org/indicator/TM.VAL.TRVL.ZS.WT?view=chart
 Trade,BX.GSR.TRVL.ZS,"Travel services (% of service exports, BoP)",descargado,https://data.worldbank.org/indicator/BX.GSR.TRVL.ZS?view=chart
 Trade,BM.GSR.TRVL.ZS,"Travel services (% of service imports, BoP)",descargado,https://data.worldbank.org/indicator/BM.GSR.TRVL.ZS?view=chart
+Urban Development, SH.STA.TRAF.P5, "Mortality caused by road traffic injury (per 100,000 population)",descargado,xxx
+Urban Development, SP.URB.TOTL.IN.ZS,"Urban population (% of total population),descargado,xxx
+Urban Development, EN.URB.MCTY,Population in urban agglomerations of more than 1 million,descargado,xxx
+Urban Development, EN.URB.LCTY,Population in largest city,descargado,xxx
+Urban Development, AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area),descargado,xxx
+Urban Development, EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),descargado,xxx
+Urban Development, EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),descargado,xxx
+Urban Development, EN.POP.DNST,Population density (people per sq. km of land area),descargado,xxx
+Urban Development, SP.URB.TOTL, "Urban population",descargado,xxx
+Urban Development, EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),descargado,xxx
+Urban Development, EN.ATM.PM25.MC.ZS,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",descargado,xxx
+Urban Development, AG.LND.TOTL.UR.K2,Urban land area (sq. km),descargado,xxx
+Urban Development, EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population),descargado,xxx
+Urban Development, EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",descargado,xxx
+Urban Development, SP.URB.GROW,Urban population growth (annual %),descargado,xxx
+Urban Development, AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km),descargado,xxx
+Urban Development, EN.URB.LCTY.UR.ZS,Population in the largest city (% of urban population),descargado,xxx
+Urban Development, EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),descargado,xxx
+Urban Development, EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",descargado,xxx

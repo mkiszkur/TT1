@@ -46,7 +46,7 @@ def procesar_archivos_en_directorio(directorio):
         generar_csv_from_archivo(ruta_completa)
 
 # Definir la ruta del directorio
-directorio = '/Users/miguelkiszkurno/Documents/TT1/data/'
+directorio = '/Users/miguelkiszkurno/Documents/TT1/data/urban development/'
 
 # Llamar a la función para procesar todos los archivos
 procesar_archivos_en_directorio(directorio)

@@ -39,6 +39,7 @@ def add_data_to_csv_xls(excel_file, csv_file):
             'SOURCE_NOTE': sheet.cell(1, 2).value,
             'SOURCE_ORGANIZATION': sheet.cell(1, 3).value
         }
+        print (data)
         df = pd.DataFrame([data])
         df.to_csv(csv_file, mode='a', header=False, index=False)
     except Exception as e:
@@ -50,6 +51,7 @@ def process_folder(directory, csv_file):
     setup_logging(log_path)
     
     for file in os.listdir(directory):
+        print (file)
         if file.endswith('.xlsx'):
             excel_file = os.path.join(directory, file)
             add_data_to_csv_xlsx(excel_file, csv_file)
@@ -59,7 +61,7 @@ def process_folder(directory, csv_file):
         #print (excel_file)
 # Reemplaza con el directorio de tus archivos y el nombre de tu archivo CSV
 
-directory_path = '/Users/miguelkiszkurno/Documents/TT1/data'
+directory_path = '/Users/miguelkiszkurno/Documents/TT1/data/'
 csv_file_path = '/Users/miguelkiszkurno/Documents/TT1/indicadores.csv'
 
 # Inicia el procesamiento
