@@ -62,7 +62,7 @@ def obtener_dataset(p):
 
 
 
-#Descarga los datasets a la carpeta downloads. 
+#Descarga los datasets a la carpeta downloads (deprecada). 
 def download_from_excel_deprecated(file_path):
     # Leer el archivo Excel
     df = pd.read_csv(file_path, delimiter='|')
