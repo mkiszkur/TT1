@@ -1,4 +1,4 @@
-Country Name,Country Code,Año,SI.SPR.PC40.ZG,SI.SPR.PCAP.ZG,SI.POV.GINI,SI.DST.04TH.20,SI.DST.10TH.10,SI.DST.05TH.20,SI.DST.FRST.10,SI.DST.FRST.20,SI.DST.02ND.20,SI.DST.03RD.20,EN.POP.SLUM.UR.ZS,SI.POV.GAPS,SI.POV.LMIC.GP,SI.POV.UMIC.GP,SI.POV.DDAY,SI.POV.LMIC,SI.POV.UMIC,SI.POV.NAHC,SI.DST.50MD,SI.SPR.PC40,SI.SPR.PCAP
+country_code,country_name,anho,SI.SPR.PC40.ZG,SI.SPR.PCAP.ZG,SI.POV.GINI,SI.DST.04TH.20,SI.DST.10TH.10,SI.DST.05TH.20,SI.DST.FRST.10,SI.DST.FRST.20,SI.DST.02ND.20,SI.DST.03RD.20,EN.POP.SLUM.UR.ZS,SI.POV.GAPS,SI.POV.LMIC.GP,SI.POV.UMIC.GP,SI.POV.DDAY,SI.POV.LMIC,SI.POV.UMIC,SI.POV.NAHC,SI.DST.50MD,SI.SPR.PC40,SI.SPR.PCAP
 Afghanistan,AFG,1960,,,,,,,,,,,,,,,,,,,,,
 Afghanistan,AFG,1961,,,,,,,,,,,,,,,,,,,,,
 Afghanistan,AFG,1962,,,,,,,,,,,,,,,,,,,,,
@@ -10361,7 +10361,7 @@ Middle East & North Africa (excluding high income),MNA,2014,,,,,,,,,,,20.4962357
 Middle East & North Africa (excluding high income),MNA,2015,,,,,,,,,,,,,,,,,,,,,
 Middle East & North Africa (excluding high income),MNA,2016,,,,,,,,,,,18.82855741243497,,,,,,,,,,
 Middle East & North Africa (excluding high income),MNA,2017,,,,,,,,,,,,,,,,,,,,,
-Middle East & North Africa (excluding high income),MNA,2018,,,,,,,,,,,18.876703592801277,,,,,,,,,,
+Middle East & North Africa (excluding high income),MNA,2018,,,,,,,,,,,18.87670359280128,,,,,,,,,,
 Middle East & North Africa (excluding high income),MNA,2019,,,,,,,,,,,,,,,,,,,,,
 Middle East & North Africa (excluding high income),MNA,2020,,,,,,,,,,,,,,,,,,,,,
 Middle East & North Africa (excluding high income),MNA,2021,,,,,,,,,,,,,,,,,,,,,

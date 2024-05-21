@@ -42,6 +42,7 @@ def add_data_to_csv_xls(excel_file, csv_file):
         print (data)
         df = pd.DataFrame([data])
         df.to_csv(csv_file, mode='a', header=False, index=False)
+        print (f'procesado {csv_file}')
     except Exception as e:
         logging.error(f'Error processing file {excel_file}: {e}')
 
@@ -62,7 +63,7 @@ def process_folder(directory, csv_file):
 # Reemplaza con el directorio de tus archivos y el nombre de tu archivo CSV
 
 directory_path = '/Users/miguelkiszkurno/Documents/TT1/data/'
-csv_file_path = '/Users/miguelkiszkurno/Documents/TT1/indicadores.csv'
+csv_file_path = '/Users/miguelkiszkurno/Documents/TT1/indicadores_.csv'
 
 # Inicia el procesamiento
 process_folder(directory_path, csv_file_path)
