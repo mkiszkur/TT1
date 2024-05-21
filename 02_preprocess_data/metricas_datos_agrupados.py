@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Ruta a la carpeta con los archivos CSV
-folder_path = '/Users/miguelkiszkurno/Documents/TT1/data/datasets_preprocesados'
+folder_path = '/Users/miguelkiszkurno/Documents/TT1/data/datasets_preprocesados/sin regiones'
 
 # Obtener una lista de todos los archivos CSV en la carpeta
 csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
