@@ -9,7 +9,7 @@ def country_code_sin_filtrar():
     pivot_table = df.pivot_table(index='file_name', columns='country_code', values='is_not_null', aggfunc='mean')
 
     # Guardar la tabla pivot resultante en un nuevo archivo CSV
-    output_path = 'country_ratios.csv'
+    output_path = '/Users/miguelkiszkurno/Documents/TT1/data/datasets_preprocesados/metricas/country_ratios.csv'
     pivot_table.to_csv(output_path)
 
     print(f"Archivo guardado en {output_path}")
@@ -32,5 +32,5 @@ def country_code_filtrado_por_anho():
     pivot_table.to_csv(output_path_filtered)
 
 #elijo a quien llamar en funcion de si quiero filtrar o no
-#country_code_sin_filtrar()
-country_code_filtrado_por_anho()
+country_code_sin_filtrar()
+#country_code_filtrado_por_anho()
