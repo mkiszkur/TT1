@@ -8,9 +8,13 @@ folder_path = '/Users/miguelkiszkurno/Documents/TT1/data/datasets_preprocesados/
 
 # Obtener una lista de todos los archivos CSV en la carpeta
 csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
-#csv_files = ['Agriculture & Rural Development.csv', 'Aid Effectiveness.csv', 'Climate Change.csv', 'Economy & Growth.csv']
-country_codes_to_include = ['ARG', 'BOL', 'BRA', 'CHL', 'COL', 'ECU', 'MEX', 'URY']
 
+
+
+filtrar_areas = False
+filtrar_paises = False #Setear si queremos trabajar con un sobconjunto de paises
+country_codes_to_include = ['ARG', 'BOL', 'BRA', 'CHL', 'COL', 'ECU', 'MEX', 'URY']
+areas_to_include = ['Agriculture & Rural Development.csv', 'Aid Effectiveness.csv', 'Climate Change.csv', 'Economy & Growth.csv']
 # Lista para almacenar las filas del resultado
 result_data = []
 
@@ -20,7 +24,13 @@ for file_name in csv_files:
     
     # Leer el archivo CSV
     df = pd.read_csv(file_path)
-    df = df[df['country_code'].isin(country_codes_to_include)]
+
+
+    if filtrar_paises:
+        df = df[df['country_code'].isin(country_codes_to_include)]
+
+    if filtrar_areas:
+        df = df[df['file_name'].isin(areas_to_include)]
 
     # Obtener el nombre del archivo sin la extensión
     file_base_name = os.path.splitext(file_name)[0]
@@ -41,7 +51,7 @@ for file_name in csv_files:
 result_df = pd.DataFrame(result_data)
 
 # Guardar el DataFrame resultante en un nuevo archivo CSV
-output_path = os.path.join(folder_path, 'combined_indicators.csv')
+output_path = os.path.join(folder_path, 'combined_indicators_ALL.csv')
 result_df.to_csv(output_path, index=False)
 
 print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}: Procesamiento completado y archivo combinado guardado.')
