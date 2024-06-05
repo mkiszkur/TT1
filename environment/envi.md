@@ -4,11 +4,11 @@ Para crear un archivo de requirements en función de un ambiente virtual en Pyth
 Primero, si aún no tienes un ambiente virtual creado, puedes hacerlo usando venv (esto es para usuarios de sistemas basados en Unix como Linux y macOS):
 
 bash
-python3 -m venv /path/to/new/virtual/environment
+python3 -m venv : /Users/miguelkiszkurno/Documents/GitHub/TT1/environment
 Para activar el ambiente virtual en Linux o macOS, usa:
 
 bash
-source /path/to/new/virtual/environment/bin/activate
+source /Users/miguelkiszkurno/Documents/GitHub/TT1/environment/bin/activate
 
 bash
 pip install -r requirements.txt
