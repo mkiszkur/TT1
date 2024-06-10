@@ -36,7 +36,7 @@ CHE,Switzerland,1960,Europe & Central Asia,High income,8001.232292264745
 CHI,Channel Islands,1960,Europe & Central Asia,High income,
 CHL,Chile,1960,Latin America & Caribbean,High income,0.5455782613715361
 CHN,China,1960,East Asia & Pacific,Upper middle income,220.38166909020043
-CIV,Côte d'Ivoire,1960,Sub-Saharan Africa,Lower middle income,36790.030013527794
+CIV,Cote d'Ivoire,1960,Sub-Saharan Africa,Lower middle income,36790.030013527794
 CMR,Cameroon,1960,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1960,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1960,Sub-Saharan Africa,Lower middle income,30090.55738742229
@@ -45,7 +45,7 @@ COM,Comoros,1960,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1960,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1960,Latin America & Caribbean,Upper middle income,2104.799666048182
 CUB,Cuba,1960,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1960,Latin America & Caribbean,High income,
+CUW,Curacao,1960,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1960,Latin America & Caribbean,High income,
 CYP,Cyprus,1960,Europe & Central Asia,High income,
 CZE,Czechia,1960,Europe & Central Asia,High income,
@@ -177,7 +177,7 @@ SMR,San Marino,1960,Europe & Central Asia,High income,
 SOM,Somalia,1960,Sub-Saharan Africa,Low income,448.317421479957
 SRB,Serbia,1960,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1960,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1960,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1960,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1960,Latin America & Caribbean,Upper middle income,0.5860743081118943
 SVK,Slovak Republic,1960,Europe & Central Asia,High income,
 SVN,Slovenia,1960,Europe & Central Asia,High income,
@@ -196,7 +196,7 @@ TLS,Timor-Leste,1960,East Asia & Pacific,Lower middle income,
 TON,Tonga,1960,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1960,Latin America & Caribbean,High income,978.9118400874552
 TUN,Tunisia,1960,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,1960,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1960,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1960,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1960,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1960,Sub-Saharan Africa,Low income,5.28217926930092
@@ -253,7 +253,7 @@ CHE,Switzerland,1961,Europe & Central Asia,High income,8801.319018809067
 CHI,Channel Islands,1961,Europe & Central Asia,High income,
 CHL,Chile,1961,Latin America & Caribbean,High income,0.600165874083648
 CHN,China,1961,East Asia & Pacific,Upper middle income,186.6188118062181
-CIV,Côte d'Ivoire,1961,Sub-Saharan Africa,Lower middle income,38926.18999484453
+CIV,Cote d'Ivoire,1961,Sub-Saharan Africa,Lower middle income,38926.18999484453
 CMR,Cameroon,1961,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1961,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1961,Sub-Saharan Africa,Lower middle income,33694.938302485345
@@ -262,7 +262,7 @@ COM,Comoros,1961,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1961,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1961,Latin America & Caribbean,Upper middle income,2075.448487183932
 CUB,Cuba,1961,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1961,Latin America & Caribbean,High income,
+CUW,Curacao,1961,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1961,Latin America & Caribbean,High income,
 CYP,Cyprus,1961,Europe & Central Asia,High income,
 CZE,Czechia,1961,Europe & Central Asia,High income,
@@ -394,7 +394,7 @@ SMR,San Marino,1961,Europe & Central Asia,High income,
 SOM,Somalia,1961,Sub-Saharan Africa,Low income,464.037945969361
 SRB,Serbia,1961,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1961,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1961,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1961,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1961,Latin America & Caribbean,Upper middle income,0.5932316193532372
 SVK,Slovak Republic,1961,Europe & Central Asia,High income,
 SVN,Slovenia,1961,Europe & Central Asia,High income,
@@ -413,7 +413,7 @@ TLS,Timor-Leste,1961,East Asia & Pacific,Lower middle income,
 TON,Tonga,1961,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1961,Latin America & Caribbean,High income,1027.1343817772372
 TUN,Tunisia,1961,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,1961,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1961,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1961,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1961,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1961,Sub-Saharan Africa,Low income,5.360339557360904
@@ -470,7 +470,7 @@ CHE,Switzerland,1962,Europe & Central Asia,High income,9501.190893490366
 CHI,Channel Islands,1962,Europe & Central Asia,High income,
 CHL,Chile,1962,Latin America & Caribbean,High income,0.6908339735945285
 CHN,China,1962,East Asia & Pacific,Upper middle income,174.56478964206858
-CIV,Côte d'Ivoire,1962,Sub-Saharan Africa,Lower middle income,38522.735311397104
+CIV,Cote d'Ivoire,1962,Sub-Saharan Africa,Lower middle income,38522.735311397104
 CMR,Cameroon,1962,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1962,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1962,Sub-Saharan Africa,Lower middle income,35992.09743713299
@@ -479,7 +479,7 @@ COM,Comoros,1962,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1962,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1962,Latin America & Caribbean,Upper middle income,2158.284480631801
 CUB,Cuba,1962,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1962,Latin America & Caribbean,High income,
+CUW,Curacao,1962,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1962,Latin America & Caribbean,High income,
 CYP,Cyprus,1962,Europe & Central Asia,High income,
 CZE,Czechia,1962,Europe & Central Asia,High income,
@@ -611,7 +611,7 @@ SMR,San Marino,1962,Europe & Central Asia,High income,
 SOM,Somalia,1962,Sub-Saharan Africa,Low income,480.4771268749419
 SRB,Serbia,1962,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1962,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1962,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1962,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1962,Latin America & Caribbean,Upper middle income,0.5820507750848969
 SVK,Slovak Republic,1962,Europe & Central Asia,High income,
 SVN,Slovenia,1962,Europe & Central Asia,High income,
@@ -630,7 +630,7 @@ TLS,Timor-Leste,1962,East Asia & Pacific,Lower middle income,
 TON,Tonga,1962,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1962,Latin America & Caribbean,High income,1075.529852447877
 TUN,Tunisia,1962,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,1962,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1962,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1962,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1962,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1962,Sub-Saharan Africa,Low income,5.256835317347203
@@ -687,7 +687,7 @@ CHE,Switzerland,1963,Europe & Central Asia,High income,10202.52653458833
 CHI,Channel Islands,1963,Europe & Central Asia,High income,
 CHL,Chile,1963,Latin America & Caribbean,High income,1.0308680469953464
 CHN,China,1963,East Asia & Pacific,Upper middle income,182.94532744179912
-CIV,Côte d'Ivoire,1963,Sub-Saharan Africa,Lower middle income,43130.55076046812
+CIV,Cote d'Ivoire,1963,Sub-Saharan Africa,Lower middle income,43130.55076046812
 CMR,Cameroon,1963,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1963,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1963,Sub-Saharan Africa,Lower middle income,36274.79047785752
@@ -696,7 +696,7 @@ COM,Comoros,1963,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1963,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1963,Latin America & Caribbean,Upper middle income,2232.498313478758
 CUB,Cuba,1963,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1963,Latin America & Caribbean,High income,
+CUW,Curacao,1963,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1963,Latin America & Caribbean,High income,
 CYP,Cyprus,1963,Europe & Central Asia,High income,
 CZE,Czechia,1963,Europe & Central Asia,High income,
@@ -828,7 +828,7 @@ SMR,San Marino,1963,Europe & Central Asia,High income,
 SOM,Somalia,1963,Sub-Saharan Africa,Low income,497.68393092577134
 SRB,Serbia,1963,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1963,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1963,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1963,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1963,Latin America & Caribbean,Upper middle income,0.4957705824970267
 SVK,Slovak Republic,1963,Europe & Central Asia,High income,
 SVN,Slovenia,1963,Europe & Central Asia,High income,
@@ -847,7 +847,7 @@ TLS,Timor-Leste,1963,East Asia & Pacific,Lower middle income,
 TON,Tonga,1963,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1963,Latin America & Caribbean,High income,1295.2594417918629
 TUN,Tunisia,1963,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,1963,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1963,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1963,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1963,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1963,Sub-Saharan Africa,Low income,5.88088359385312
@@ -904,7 +904,7 @@ CHE,Switzerland,1964,Europe & Central Asia,High income,11106.231322034648
 CHI,Channel Islands,1964,Europe & Central Asia,High income,
 CHL,Chile,1964,Latin America & Caribbean,High income,1.532093997017126
 CHN,China,1964,East Asia & Pacific,Upper middle income,210.48034309198044
-CIV,Côte d'Ivoire,1964,Sub-Saharan Africa,Lower middle income,50849.85735998416
+CIV,Cote d'Ivoire,1964,Sub-Saharan Africa,Lower middle income,50849.85735998416
 CMR,Cameroon,1964,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1964,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1964,Sub-Saharan Africa,Lower middle income,38044.63696137768
@@ -913,7 +913,7 @@ COM,Comoros,1964,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1964,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1964,Latin America & Caribbean,Upper middle income,2277.920383629949
 CUB,Cuba,1964,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1964,Latin America & Caribbean,High income,
+CUW,Curacao,1964,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1964,Latin America & Caribbean,High income,
 CYP,Cyprus,1964,Europe & Central Asia,High income,
 CZE,Czechia,1964,Europe & Central Asia,High income,
@@ -1045,7 +1045,7 @@ SMR,San Marino,1964,Europe & Central Asia,High income,
 SOM,Somalia,1964,Sub-Saharan Africa,Low income,514.3246008437017
 SRB,Serbia,1964,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1964,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1964,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1964,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1964,Latin America & Caribbean,Upper middle income,0.5230624452121899
 SVK,Slovak Republic,1964,Europe & Central Asia,High income,
 SVN,Slovenia,1964,Europe & Central Asia,High income,
@@ -1064,7 +1064,7 @@ TLS,Timor-Leste,1964,East Asia & Pacific,Lower middle income,
 TON,Tonga,1964,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1964,Latin America & Caribbean,High income,1336.1083162998864
 TUN,Tunisia,1964,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,1964,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1964,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1964,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1964,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1964,Sub-Saharan Africa,Low income,6.528955002215475
@@ -1121,7 +1121,7 @@ CHE,Switzerland,1965,Europe & Central Asia,High income,11497.041937876593
 CHI,Channel Islands,1965,Europe & Central Asia,High income,
 CHL,Chile,1965,Latin America & Caribbean,High income,2.0997036554790385
 CHN,China,1965,East Asia & Pacific,Upper middle income,242.45474947041677
-CIV,Côte d'Ivoire,1965,Sub-Saharan Africa,Lower middle income,48711.82739840059
+CIV,Cote d'Ivoire,1965,Sub-Saharan Africa,Lower middle income,48711.82739840059
 CMR,Cameroon,1965,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1965,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1965,Sub-Saharan Africa,Lower middle income,39505.99298333957
@@ -1130,7 +1130,7 @@ COM,Comoros,1965,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1965,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1965,Latin America & Caribbean,Upper middle income,2392.8380594183946
 CUB,Cuba,1965,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1965,Latin America & Caribbean,High income,
+CUW,Curacao,1965,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1965,Latin America & Caribbean,High income,
 CYP,Cyprus,1965,Europe & Central Asia,High income,
 CZE,Czechia,1965,Europe & Central Asia,High income,
@@ -1262,7 +1262,7 @@ SMR,San Marino,1965,Europe & Central Asia,High income,
 SOM,Somalia,1965,Sub-Saharan Africa,Low income,532.3490508150801
 SRB,Serbia,1965,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1965,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1965,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1965,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1965,Latin America & Caribbean,Upper middle income,0.7540435233547929
 SVK,Slovak Republic,1965,Europe & Central Asia,High income,
 SVN,Slovenia,1965,Europe & Central Asia,High income,
@@ -1281,7 +1281,7 @@ TLS,Timor-Leste,1965,East Asia & Pacific,Lower middle income,
 TON,Tonga,1965,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1965,Latin America & Caribbean,High income,1359.991038943974
 TUN,Tunisia,1965,Middle East & North Africa,Lower middle income,113.85862505446144
-TUR,Türkiye,1965,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1965,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1965,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1965,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1965,Sub-Saharan Africa,Low income,7.004146309639445
@@ -1338,7 +1338,7 @@ CHE,Switzerland,1966,Europe & Central Asia,High income,12251.100021933078
 CHI,Channel Islands,1966,Europe & Central Asia,High income,
 CHL,Chile,1966,Latin America & Caribbean,High income,2.9330527724867
 CHN,China,1966,East Asia & Pacific,Upper middle income,256.8262170247484
-CIV,Côte d'Ivoire,1966,Sub-Saharan Africa,Lower middle income,52068.54180385495
+CIV,Cote d'Ivoire,1966,Sub-Saharan Africa,Lower middle income,52068.54180385495
 CMR,Cameroon,1966,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",1966,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1966,Sub-Saharan Africa,Lower middle income,42879.11016362401
@@ -1347,7 +1347,7 @@ COM,Comoros,1966,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1966,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1966,Latin America & Caribbean,Upper middle income,2529.7136682221103
 CUB,Cuba,1966,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1966,Latin America & Caribbean,High income,
+CUW,Curacao,1966,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1966,Latin America & Caribbean,High income,
 CYP,Cyprus,1966,Europe & Central Asia,High income,
 CZE,Czechia,1966,Europe & Central Asia,High income,
@@ -1479,7 +1479,7 @@ SMR,San Marino,1966,Europe & Central Asia,High income,
 SOM,Somalia,1966,Sub-Saharan Africa,Low income,546.4764691762595
 SRB,Serbia,1966,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1966,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1966,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1966,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1966,Latin America & Caribbean,Upper middle income,0.9200883959270432
 SVK,Slovak Republic,1966,Europe & Central Asia,High income,
 SVN,Slovenia,1966,Europe & Central Asia,High income,
@@ -1498,7 +1498,7 @@ TLS,Timor-Leste,1966,East Asia & Pacific,Lower middle income,
 TON,Tonga,1966,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1966,Latin America & Caribbean,High income,1191.8111519320516
 TUN,Tunisia,1966,Middle East & North Africa,Lower middle income,117.05941474249566
-TUR,Türkiye,1966,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,1966,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,1966,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1966,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1966,Sub-Saharan Africa,Low income,7.123759561362688
@@ -1555,7 +1555,7 @@ CHE,Switzerland,1967,Europe & Central Asia,High income,13027.750334833445
 CHI,Channel Islands,1967,Europe & Central Asia,High income,
 CHL,Chile,1967,Latin America & Caribbean,High income,3.71952639576731
 CHN,China,1967,East Asia & Pacific,Upper middle income,237.7841097342787
-CIV,Côte d'Ivoire,1967,Sub-Saharan Africa,Lower middle income,53017.336667017385
+CIV,Cote d'Ivoire,1967,Sub-Saharan Africa,Lower middle income,53017.336667017385
 CMR,Cameroon,1967,Sub-Saharan Africa,Lower middle income,32033.00526000709
 COD,"Congo, Dem. Rep.",1967,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1967,Sub-Saharan Africa,Lower middle income,45206.36253121304
@@ -1564,7 +1564,7 @@ COM,Comoros,1967,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1967,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1967,Latin America & Caribbean,Upper middle income,2647.7936323533377
 CUB,Cuba,1967,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1967,Latin America & Caribbean,High income,
+CUW,Curacao,1967,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1967,Latin America & Caribbean,High income,
 CYP,Cyprus,1967,Europe & Central Asia,High income,
 CZE,Czechia,1967,Europe & Central Asia,High income,
@@ -1696,7 +1696,7 @@ SMR,San Marino,1967,Europe & Central Asia,High income,
 SOM,Somalia,1967,Sub-Saharan Africa,Low income,563.193543841462
 SRB,Serbia,1967,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1967,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1967,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1967,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1967,Latin America & Caribbean,Upper middle income,1.0246784238402886
 SVK,Slovak Republic,1967,Europe & Central Asia,High income,
 SVN,Slovenia,1967,Europe & Central Asia,High income,
@@ -1715,7 +1715,7 @@ TLS,Timor-Leste,1967,East Asia & Pacific,Lower middle income,
 TON,Tonga,1967,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1967,Latin America & Caribbean,High income,1260.985621771281
 TUN,Tunisia,1967,Middle East & North Africa,Lower middle income,118.12228896367536
-TUR,Türkiye,1967,Europe & Central Asia,Upper middle income,0.0042450772092341
+TUR,Turkiye,1967,Europe & Central Asia,Upper middle income,0.0042450772092341
 TUV,Tuvalu,1967,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1967,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1967,Sub-Saharan Africa,Low income,7.211421767890585
@@ -1772,7 +1772,7 @@ CHE,Switzerland,1968,Europe & Central Asia,High income,13803.10134854741
 CHI,Channel Islands,1968,Europe & Central Asia,High income,
 CHL,Chile,1968,Latin America & Caribbean,High income,5.0543212233427335
 CHN,China,1968,East Asia & Pacific,Upper middle income,225.1875379272056
-CIV,Côte d'Ivoire,1968,Sub-Saharan Africa,Lower middle income,60967.78247822917
+CIV,Cote d'Ivoire,1968,Sub-Saharan Africa,Lower middle income,60967.78247822917
 CMR,Cameroon,1968,Sub-Saharan Africa,Lower middle income,35758.62689489298
 COD,"Congo, Dem. Rep.",1968,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1968,Sub-Saharan Africa,Lower middle income,46575.94614513764
@@ -1781,7 +1781,7 @@ COM,Comoros,1968,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1968,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1968,Latin America & Caribbean,Upper middle income,2846.5558068999444
 CUB,Cuba,1968,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1968,Latin America & Caribbean,High income,
+CUW,Curacao,1968,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1968,Latin America & Caribbean,High income,
 CYP,Cyprus,1968,Europe & Central Asia,High income,
 CZE,Czechia,1968,Europe & Central Asia,High income,
@@ -1913,7 +1913,7 @@ SMR,San Marino,1968,Europe & Central Asia,High income,
 SOM,Somalia,1968,Sub-Saharan Africa,Low income,578.1591815242808
 SRB,Serbia,1968,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1968,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1968,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1968,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1968,Latin America & Caribbean,Upper middle income,1.019501052134088
 SVK,Slovak Republic,1968,Europe & Central Asia,High income,
 SVN,Slovenia,1968,Europe & Central Asia,High income,
@@ -1932,7 +1932,7 @@ TLS,Timor-Leste,1968,East Asia & Pacific,Lower middle income,
 TON,Tonga,1968,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1968,Latin America & Caribbean,High income,1427.1999867727466
 TUN,Tunisia,1968,Middle East & North Africa,Lower middle income,127.79511319010668
-TUR,Türkiye,1968,Europe & Central Asia,Upper middle income,0.0046245913456395
+TUR,Turkiye,1968,Europe & Central Asia,Upper middle income,0.0046245913456395
 TUV,Tuvalu,1968,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1968,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1968,Sub-Saharan Africa,Low income,7.518277458471572
@@ -1989,7 +1989,7 @@ CHE,Switzerland,1969,Europe & Central Asia,High income,14806.21697686277
 CHI,Channel Islands,1969,Europe & Central Asia,High income,
 CHL,Chile,1969,Latin America & Caribbean,High income,7.25707644305546
 CHN,China,1969,East Asia & Pacific,Upper middle income,246.4997958606828
-CIV,Côte d'Ivoire,1969,Sub-Saharan Africa,Lower middle income,65267.83379500752
+CIV,Cote d'Ivoire,1969,Sub-Saharan Africa,Lower middle income,65267.83379500752
 CMR,Cameroon,1969,Sub-Saharan Africa,Lower middle income,39610.37349560118
 COD,"Congo, Dem. Rep.",1969,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1969,Sub-Saharan Africa,Lower middle income,49863.54640668762
@@ -1998,7 +1998,7 @@ COM,Comoros,1969,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1969,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1969,Latin America & Caribbean,Upper middle income,3073.123444047735
 CUB,Cuba,1969,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,1969,Latin America & Caribbean,High income,
+CUW,Curacao,1969,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1969,Latin America & Caribbean,High income,
 CYP,Cyprus,1969,Europe & Central Asia,High income,
 CZE,Czechia,1969,Europe & Central Asia,High income,
@@ -2130,7 +2130,7 @@ SMR,San Marino,1969,Europe & Central Asia,High income,
 SOM,Somalia,1969,Sub-Saharan Africa,Low income,589.969199569467
 SRB,Serbia,1969,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1969,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1969,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1969,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1969,Latin America & Caribbean,Upper middle income,1.029601379693051
 SVK,Slovak Republic,1969,Europe & Central Asia,High income,
 SVN,Slovenia,1969,Europe & Central Asia,High income,
@@ -2149,7 +2149,7 @@ TLS,Timor-Leste,1969,East Asia & Pacific,Lower middle income,
 TON,Tonga,1969,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1969,Latin America & Caribbean,High income,1445.9833115684796
 TUN,Tunisia,1969,Middle East & North Africa,Lower middle income,131.816611537931
-TUR,Türkiye,1969,Europe & Central Asia,Upper middle income,0.0050198735729144
+TUR,Turkiye,1969,Europe & Central Asia,Upper middle income,0.0050198735729144
 TUV,Tuvalu,1969,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1969,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1969,Sub-Saharan Africa,Low income,8.215918291722822
@@ -2206,7 +2206,7 @@ CHE,Switzerland,1970,Europe & Central Asia,High income,
 CHI,Channel Islands,1970,Europe & Central Asia,High income,1016.5033263638092
 CHL,Chile,1970,Latin America & Caribbean,High income,10.2722667046553
 CHN,China,1970,East Asia & Pacific,Upper middle income,278.58465260932525
-CIV,Côte d'Ivoire,1970,Sub-Saharan Africa,Lower middle income,71641.33577599475
+CIV,Cote d'Ivoire,1970,Sub-Saharan Africa,Lower middle income,71641.33577599475
 CMR,Cameroon,1970,Sub-Saharan Africa,Lower middle income,43562.57056059653
 COD,"Congo, Dem. Rep.",1970,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1970,Sub-Saharan Africa,Lower middle income,53057.34519026277
@@ -2215,7 +2215,7 @@ COM,Comoros,1970,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1970,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1970,Latin America & Caribbean,Upper middle income,3459.522109482313
 CUB,Cuba,1970,Latin America & Caribbean,Upper middle income,629.5644488680257
-CUW,Curaçao,1970,Latin America & Caribbean,High income,
+CUW,Curacao,1970,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1970,Latin America & Caribbean,High income,
 CYP,Cyprus,1970,Europe & Central Asia,High income,
 CZE,Czechia,1970,Europe & Central Asia,High income,
@@ -2347,7 +2347,7 @@ SMR,San Marino,1970,Europe & Central Asia,High income,
 SOM,Somalia,1970,Sub-Saharan Africa,Low income,607.4479987379659
 SRB,Serbia,1970,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1970,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1970,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1970,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1970,Latin America & Caribbean,Upper middle income,1.0894456172121352
 SVK,Slovak Republic,1970,Europe & Central Asia,High income,
 SVN,Slovenia,1970,Europe & Central Asia,High income,
@@ -2366,7 +2366,7 @@ TLS,Timor-Leste,1970,East Asia & Pacific,Lower middle income,
 TON,Tonga,1970,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1970,Latin America & Caribbean,High income,1530.5038983102263
 TUN,Tunisia,1970,Middle East & North Africa,Lower middle income,143.55894634152526
-TUR,Türkiye,1970,Europe & Central Asia,Upper middle income,0.0055035045450337
+TUR,Turkiye,1970,Europe & Central Asia,Upper middle income,0.0055035045450337
 TUV,Tuvalu,1970,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1970,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1970,Sub-Saharan Africa,Low income,8.615835363274497
@@ -2423,7 +2423,7 @@ CHE,Switzerland,1971,Europe & Central Asia,High income,
 CHI,Channel Islands,1971,Europe & Central Asia,High income,1163.209377711563
 CHL,Chile,1971,Latin America & Caribbean,High income,13.154499959837256
 CHN,China,1971,East Asia & Pacific,Upper middle income,292.1038395919653
-CIV,Côte d'Ivoire,1971,Sub-Saharan Africa,Lower middle income,73054.00431588985
+CIV,Cote d'Ivoire,1971,Sub-Saharan Africa,Lower middle income,73054.00431588985
 CMR,Cameroon,1971,Sub-Saharan Africa,Lower middle income,46504.22880940346
 COD,"Congo, Dem. Rep.",1971,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1971,Sub-Saharan Africa,Lower middle income,60246.88822553621
@@ -2432,7 +2432,7 @@ COM,Comoros,1971,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1971,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1971,Latin America & Caribbean,Upper middle income,3686.211916539927
 CUB,Cuba,1971,Latin America & Caribbean,Upper middle income,751.4374992590609
-CUW,Curaçao,1971,Latin America & Caribbean,High income,
+CUW,Curacao,1971,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1971,Latin America & Caribbean,High income,
 CYP,Cyprus,1971,Europe & Central Asia,High income,
 CZE,Czechia,1971,Europe & Central Asia,High income,
@@ -2564,7 +2564,7 @@ SMR,San Marino,1971,Europe & Central Asia,High income,
 SOM,Somalia,1971,Sub-Saharan Africa,Low income,617.3808022178987
 SRB,Serbia,1971,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1971,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1971,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1971,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1971,Latin America & Caribbean,Upper middle income,1.146607622963783
 SVK,Slovak Republic,1971,Europe & Central Asia,High income,
 SVN,Slovenia,1971,Europe & Central Asia,High income,
@@ -2583,7 +2583,7 @@ TLS,Timor-Leste,1971,East Asia & Pacific,Lower middle income,
 TON,Tonga,1971,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1971,Latin America & Caribbean,High income,1638.58698369212
 TUN,Tunisia,1971,Middle East & North Africa,Lower middle income,164.33682487977708
-TUR,Türkiye,1971,Europe & Central Asia,Upper middle income,0.0066336712114373
+TUR,Turkiye,1971,Europe & Central Asia,Upper middle income,0.0066336712114373
 TUV,Tuvalu,1971,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1971,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1971,Sub-Saharan Africa,Low income,9.38413980413962
@@ -2640,7 +2640,7 @@ CHE,Switzerland,1972,Europe & Central Asia,High income,
 CHI,Channel Islands,1972,Europe & Central Asia,High income,1353.8929208418458
 CHL,Chile,1972,Latin America & Caribbean,High income,24.17993123239105
 CHN,China,1972,East Asia & Pacific,Upper middle income,296.0917833486073
-CIV,Côte d'Ivoire,1972,Sub-Saharan Africa,Lower middle income,75418.83332798215
+CIV,Cote d'Ivoire,1972,Sub-Saharan Africa,Lower middle income,75418.83332798215
 CMR,Cameroon,1972,Sub-Saharan Africa,Lower middle income,50958.58720534409
 COD,"Congo, Dem. Rep.",1972,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1972,Sub-Saharan Africa,Lower middle income,68613.6561334811
@@ -2649,7 +2649,7 @@ COM,Comoros,1972,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1972,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1972,Latin America & Caribbean,Upper middle income,4073.8228229748506
 CUB,Cuba,1972,Latin America & Caribbean,Upper middle income,829.3218809004711
-CUW,Curaçao,1972,Latin America & Caribbean,High income,
+CUW,Curacao,1972,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1972,Latin America & Caribbean,High income,
 CYP,Cyprus,1972,Europe & Central Asia,High income,
 CZE,Czechia,1972,Europe & Central Asia,High income,
@@ -2781,7 +2781,7 @@ SMR,San Marino,1972,Europe & Central Asia,High income,
 SOM,Somalia,1972,Sub-Saharan Africa,Low income,743.4245958624069
 SRB,Serbia,1972,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1972,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1972,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1972,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1972,Latin America & Caribbean,Upper middle income,1.2371424474692412
 SVK,Slovak Republic,1972,Europe & Central Asia,High income,
 SVN,Slovenia,1972,Europe & Central Asia,High income,
@@ -2800,7 +2800,7 @@ TLS,Timor-Leste,1972,East Asia & Pacific,Lower middle income,
 TON,Tonga,1972,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1972,Latin America & Caribbean,High income,1920.4742994044605
 TUN,Tunisia,1972,Middle East & North Africa,Lower middle income,193.8855836341395
-TUR,Türkiye,1972,Europe & Central Asia,Upper middle income,0.0077282921778469
+TUR,Turkiye,1972,Europe & Central Asia,Upper middle income,0.0077282921778469
 TUV,Tuvalu,1972,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1972,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1972,Sub-Saharan Africa,Low income,9.673169867282011
@@ -2857,7 +2857,7 @@ CHE,Switzerland,1973,Europe & Central Asia,High income,
 CHI,Channel Islands,1973,Europe & Central Asia,High income,1777.2068292291003
 CHL,Chile,1973,Latin America & Caribbean,High income,116.18575449643096
 CHN,China,1973,East Asia & Pacific,Upper middle income,312.51559062974803
-CIV,Côte d'Ivoire,1973,Sub-Saharan Africa,Lower middle income,85671.0106301798
+CIV,Cote d'Ivoire,1973,Sub-Saharan Africa,Lower middle income,85671.0106301798
 CMR,Cameroon,1973,Sub-Saharan Africa,Lower middle income,52024.03851979114
 COD,"Congo, Dem. Rep.",1973,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1973,Sub-Saharan Africa,Lower middle income,75899.258714849
@@ -2866,7 +2866,7 @@ COM,Comoros,1973,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1973,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1973,Latin America & Caribbean,Upper middle income,4930.302549985122
 CUB,Cuba,1973,Latin America & Caribbean,Upper middle income,873.4437278687157
-CUW,Curaçao,1973,Latin America & Caribbean,High income,
+CUW,Curacao,1973,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1973,Latin America & Caribbean,High income,
 CYP,Cyprus,1973,Europe & Central Asia,High income,
 CZE,Czechia,1973,Europe & Central Asia,High income,
@@ -2998,7 +2998,7 @@ SMR,San Marino,1973,Europe & Central Asia,High income,
 SOM,Somalia,1973,Sub-Saharan Africa,Low income,794.3143088991073
 SRB,Serbia,1973,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1973,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1973,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1973,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1973,Latin America & Caribbean,Upper middle income,1.3614882509821336
 SVK,Slovak Republic,1973,Europe & Central Asia,High income,
 SVN,Slovenia,1973,Europe & Central Asia,High income,
@@ -3017,7 +3017,7 @@ TLS,Timor-Leste,1973,East Asia & Pacific,Lower middle income,
 TON,Tonga,1973,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1973,Latin America & Caribbean,High income,2322.3124153120657
 TUN,Tunisia,1973,Middle East & North Africa,Lower middle income,201.44042901723208
-TUR,Türkiye,1973,Europe & Central Asia,Upper middle income,0.0095218721162874
+TUR,Turkiye,1973,Europe & Central Asia,Upper middle income,0.0095218721162874
 TUV,Tuvalu,1973,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1973,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1973,Sub-Saharan Africa,Low income,10.81438447657786
@@ -3074,7 +3074,7 @@ CHE,Switzerland,1974,Europe & Central Asia,High income,
 CHI,Channel Islands,1974,Europe & Central Asia,High income,2135.6962848445246
 CHL,Chile,1974,Latin America & Caribbean,High income,907.131130783979
 CHN,China,1974,East Asia & Pacific,Upper middle income,314.06675181873715
-CIV,Côte d'Ivoire,1974,Sub-Saharan Africa,Lower middle income,109288.85438109442
+CIV,Cote d'Ivoire,1974,Sub-Saharan Africa,Lower middle income,109288.85438109442
 CMR,Cameroon,1974,Sub-Saharan Africa,Lower middle income,62768.45165265472
 COD,"Congo, Dem. Rep.",1974,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1974,Sub-Saharan Africa,Lower middle income,86743.40452324906
@@ -3083,7 +3083,7 @@ COM,Comoros,1974,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1974,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1974,Latin America & Caribbean,Upper middle income,6260.105381552641
 CUB,Cuba,1974,Latin America & Caribbean,Upper middle income,974.5911789999157
-CUW,Curaçao,1974,Latin America & Caribbean,High income,
+CUW,Curacao,1974,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1974,Latin America & Caribbean,High income,
 CYP,Cyprus,1974,Europe & Central Asia,High income,
 CZE,Czechia,1974,Europe & Central Asia,High income,
@@ -3215,7 +3215,7 @@ SMR,San Marino,1974,Europe & Central Asia,High income,
 SOM,Somalia,1974,Sub-Saharan Africa,Low income,716.5840473524919
 SRB,Serbia,1974,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1974,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1974,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1974,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1974,Latin America & Caribbean,Upper middle income,1.7606249635632252
 SVK,Slovak Republic,1974,Europe & Central Asia,High income,
 SVN,Slovenia,1974,Europe & Central Asia,High income,
@@ -3234,7 +3234,7 @@ TLS,Timor-Leste,1974,East Asia & Pacific,Lower middle income,
 TON,Tonga,1974,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1974,Latin America & Caribbean,High income,3467.202926873346
 TUN,Tunisia,1974,Middle East & North Africa,Lower middle income,265.9485391002074
-TUR,Türkiye,1974,Europe & Central Asia,Upper middle income,0.0126940682587893
+TUR,Turkiye,1974,Europe & Central Asia,Upper middle income,0.0126940682587893
 TUV,Tuvalu,1974,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1974,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1974,Sub-Saharan Africa,Low income,12.783466781278952
@@ -3291,7 +3291,7 @@ CHE,Switzerland,1975,Europe & Central Asia,High income,
 CHI,Channel Islands,1975,Europe & Central Asia,High income,2435.2619527980187
 CHL,Chile,1975,Latin America & Caribbean,High income,3386.384869784204
 CHN,China,1975,East Asia & Pacific,Upper middle income,331.6801161071372
-CIV,Côte d'Ivoire,1975,Sub-Saharan Africa,Lower middle income,117348.40419020712
+CIV,Cote d'Ivoire,1975,Sub-Saharan Africa,Lower middle income,117348.40419020712
 CMR,Cameroon,1975,Sub-Saharan Africa,Lower middle income,73606.76922769123
 COD,"Congo, Dem. Rep.",1975,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1975,Sub-Saharan Africa,Lower middle income,97314.05397754372
@@ -3300,7 +3300,7 @@ COM,Comoros,1975,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1975,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1975,Latin America & Caribbean,Upper middle income,7689.747614650661
 CUB,Cuba,1975,Latin America & Caribbean,Upper middle income,1101.2935259065166
-CUW,Curaçao,1975,Latin America & Caribbean,High income,
+CUW,Curacao,1975,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1975,Latin America & Caribbean,High income,
 CYP,Cyprus,1975,Europe & Central Asia,High income,
 CZE,Czechia,1975,Europe & Central Asia,High income,
@@ -3432,7 +3432,7 @@ SMR,San Marino,1975,Europe & Central Asia,High income,
 SOM,Somalia,1975,Sub-Saharan Africa,Low income,1058.7495641854186
 SRB,Serbia,1975,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1975,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1975,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1975,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1975,Latin America & Caribbean,Upper middle income,2.309906996789388
 SVK,Slovak Republic,1975,Europe & Central Asia,High income,
 SVN,Slovenia,1975,Europe & Central Asia,High income,
@@ -3451,7 +3451,7 @@ TLS,Timor-Leste,1975,East Asia & Pacific,Lower middle income,
 TON,Tonga,1975,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1975,Latin America & Caribbean,High income,4856.752784822256
 TUN,Tunisia,1975,Middle East & North Africa,Lower middle income,292.38661178553093
-TUR,Türkiye,1975,Europe & Central Asia,Upper middle income,0.0161878846439155
+TUR,Turkiye,1975,Europe & Central Asia,Upper middle income,0.0161878846439155
 TUV,Tuvalu,1975,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1975,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1975,Sub-Saharan Africa,Low income,18.072716817099096
@@ -3508,7 +3508,7 @@ CHE,Switzerland,1976,Europe & Central Asia,High income,
 CHI,Channel Islands,1976,Europe & Central Asia,High income,2875.2004533576805
 CHL,Chile,1976,Latin America & Caribbean,High income,12097.117651310718
 CHN,China,1976,East Asia & Pacific,Upper middle income,321.11831607901706
-CIV,Côte d'Ivoire,1976,Sub-Saharan Africa,Lower middle income,150671.26156952072
+CIV,Cote d'Ivoire,1976,Sub-Saharan Africa,Lower middle income,150671.26156952072
 CMR,Cameroon,1976,Sub-Saharan Africa,Lower middle income,80547.22079202656
 COD,"Congo, Dem. Rep.",1976,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1976,Sub-Saharan Africa,Lower middle income,102927.25880229467
@@ -3517,7 +3517,7 @@ COM,Comoros,1976,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1976,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1976,Latin America & Caribbean,Upper middle income,9239.732988119273
 CUB,Cuba,1976,Latin America & Caribbean,Upper middle income,1156.598636664083
-CUW,Curaçao,1976,Latin America & Caribbean,High income,
+CUW,Curacao,1976,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1976,Latin America & Caribbean,High income,
 CYP,Cyprus,1976,Europe & Central Asia,High income,1150.60473632813
 CZE,Czechia,1976,Europe & Central Asia,High income,
@@ -3649,7 +3649,7 @@ SMR,San Marino,1976,Europe & Central Asia,High income,
 SOM,Somalia,1976,Sub-Saharan Africa,Low income,1174.3794928167772
 SRB,Serbia,1976,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1976,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1976,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1976,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1976,Latin America & Caribbean,Upper middle income,2.4160459983917004
 SVK,Slovak Republic,1976,Europe & Central Asia,High income,
 SVN,Slovenia,1976,Europe & Central Asia,High income,
@@ -3668,7 +3668,7 @@ TLS,Timor-Leste,1976,East Asia & Pacific,Lower middle income,
 TON,Tonga,1976,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1976,Latin America & Caribbean,High income,5456.609371956062
 TUN,Tunisia,1976,Middle East & North Africa,Lower middle income,312.1080310651032
-TUR,Türkiye,1976,Europe & Central Asia,Upper middle income,0.0202065167679699
+TUR,Turkiye,1976,Europe & Central Asia,Upper middle income,0.0202065167679699
 TUV,Tuvalu,1976,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1976,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1976,Sub-Saharan Africa,Low income,20.26008310179625
@@ -3725,7 +3725,7 @@ CHE,Switzerland,1977,Europe & Central Asia,High income,
 CHI,Channel Islands,1977,Europe & Central Asia,High income,3263.0964410437514
 CHL,Chile,1977,Latin America & Caribbean,High income,26700.246393277
 CHN,China,1977,East Asia & Pacific,Upper middle income,344.4785389870211
-CIV,Côte d'Ivoire,1977,Sub-Saharan Africa,Lower middle income,201120.43007591795
+CIV,Cote d'Ivoire,1977,Sub-Saharan Africa,Lower middle income,201120.43007591795
 CMR,Cameroon,1977,Sub-Saharan Africa,Lower middle income,82802.93606692468
 COD,"Congo, Dem. Rep.",1977,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1977,Sub-Saharan Africa,Lower middle income,104757.4856946596
@@ -3734,7 +3734,7 @@ COM,Comoros,1977,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1977,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1977,Latin America & Caribbean,Upper middle income,11523.780008357184
 CUB,Cuba,1977,Latin America & Caribbean,Upper middle income,1195.6341070903152
-CUW,Curaçao,1977,Latin America & Caribbean,High income,
+CUW,Curacao,1977,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1977,Latin America & Caribbean,High income,
 CYP,Cyprus,1977,Europe & Central Asia,High income,1469.28344726563
 CZE,Czechia,1977,Europe & Central Asia,High income,
@@ -3866,7 +3866,7 @@ SMR,San Marino,1977,Europe & Central Asia,High income,
 SOM,Somalia,1977,Sub-Saharan Africa,Low income,1543.0934272464017
 SRB,Serbia,1977,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1977,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1977,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1977,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1977,Latin America & Caribbean,Upper middle income,3.1139680153443403
 SVK,Slovak Republic,1977,Europe & Central Asia,High income,
 SVN,Slovenia,1977,Europe & Central Asia,High income,
@@ -3885,7 +3885,7 @@ TLS,Timor-Leste,1977,East Asia & Pacific,Lower middle income,
 TON,Tonga,1977,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1977,Latin America & Caribbean,High income,6534.848612314215
 TUN,Tunisia,1977,Middle East & North Africa,Lower middle income,345.7377097342768
-TUR,Türkiye,1977,Europe & Central Asia,Upper middle income,0.0253750051177151
+TUR,Turkiye,1977,Europe & Central Asia,Upper middle income,0.0253750051177151
 TUV,Tuvalu,1977,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1977,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1977,Sub-Saharan Africa,Low income,40.20890348026676
@@ -3942,7 +3942,7 @@ CHE,Switzerland,1978,Europe & Central Asia,High income,
 CHI,Channel Islands,1978,Europe & Central Asia,High income,3887.457463557536
 CHL,Chile,1978,Latin America & Caribbean,High income,44062.91098523687
 CHN,China,1978,East Asia & Pacific,Upper middle income,384.7351157593093
-CIV,Côte d'Ivoire,1978,Sub-Saharan Africa,Lower middle income,222459.0592607329
+CIV,Cote d'Ivoire,1978,Sub-Saharan Africa,Lower middle income,222459.0592607329
 CMR,Cameroon,1978,Sub-Saharan Africa,Lower middle income,120075.69071287796
 COD,"Congo, Dem. Rep.",1978,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1978,Sub-Saharan Africa,Lower middle income,106442.45633173402
@@ -3951,7 +3951,7 @@ COM,Comoros,1978,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1978,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1978,Latin America & Caribbean,Upper middle income,12782.254692263616
 CUB,Cuba,1978,Latin America & Caribbean,Upper middle income,1385.126432864343
-CUW,Curaçao,1978,Latin America & Caribbean,High income,
+CUW,Curacao,1978,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1978,Latin America & Caribbean,High income,
 CYP,Cyprus,1978,Europe & Central Asia,High income,1751.23901367188
 CZE,Czechia,1978,Europe & Central Asia,High income,
@@ -4083,7 +4083,7 @@ SMR,San Marino,1978,Europe & Central Asia,High income,
 SOM,Somalia,1978,Sub-Saharan Africa,Low income,1709.1893539636096
 SRB,Serbia,1978,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1978,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1978,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1978,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1978,Latin America & Caribbean,Upper middle income,3.656074472681567
 SVK,Slovak Republic,1978,Europe & Central Asia,High income,
 SVN,Slovenia,1978,Europe & Central Asia,High income,
@@ -4102,7 +4102,7 @@ TLS,Timor-Leste,1978,East Asia & Pacific,Lower middle income,
 TON,Tonga,1978,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1978,Latin America & Caribbean,High income,7626.241485943886
 TUN,Tunisia,1978,Middle East & North Africa,Lower middle income,382.7573879961809
-TUR,Türkiye,1978,Europe & Central Asia,Upper middle income,0.0371514280125278
+TUR,Turkiye,1978,Europe & Central Asia,Upper middle income,0.0371514280125278
 TUV,Tuvalu,1978,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1978,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1978,Sub-Saharan Africa,Low income,43.69542935722165
@@ -4159,7 +4159,7 @@ CHE,Switzerland,1979,Europe & Central Asia,High income,
 CHI,Channel Islands,1979,Europe & Central Asia,High income,4305.827892061009
 CHL,Chile,1979,Latin America & Caribbean,High income,69622.15427874502
 CHN,China,1979,East Asia & Pacific,Upper middle income,423.1612500967488
-CIV,Côte d'Ivoire,1979,Sub-Saharan Africa,Lower middle income,230977.98476758448
+CIV,Cote d'Ivoire,1979,Sub-Saharan Africa,Lower middle income,230977.98476758448
 CMR,Cameroon,1979,Sub-Saharan Africa,Lower middle income,143902.13543551386
 COD,"Congo, Dem. Rep.",1979,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1979,Sub-Saharan Africa,Lower middle income,131537.06483214014
@@ -4168,7 +4168,7 @@ COM,Comoros,1979,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,1979,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,1979,Latin America & Caribbean,Upper middle income,14175.314758957931
 CUB,Cuba,1979,Latin America & Caribbean,Upper middle income,1434.7837189252962
-CUW,Curaçao,1979,Latin America & Caribbean,High income,
+CUW,Curacao,1979,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1979,Latin America & Caribbean,High income,
 CYP,Cyprus,1979,Europe & Central Asia,High income,2153.86206054688
 CZE,Czechia,1979,Europe & Central Asia,High income,
@@ -4300,7 +4300,7 @@ SMR,San Marino,1979,Europe & Central Asia,High income,
 SOM,Somalia,1979,Sub-Saharan Africa,Low income,1669.6824356841323
 SRB,Serbia,1979,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1979,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1979,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1979,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1979,Latin America & Caribbean,Upper middle income,3.909773639105156
 SVK,Slovak Republic,1979,Europe & Central Asia,High income,
 SVN,Slovenia,1979,Europe & Central Asia,High income,
@@ -4319,7 +4319,7 @@ TLS,Timor-Leste,1979,East Asia & Pacific,Lower middle income,
 TON,Tonga,1979,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1979,Latin America & Caribbean,High income,9381.107784700307
 TUN,Tunisia,1979,Middle East & North Africa,Lower middle income,438.5312095603139
-TUR,Türkiye,1979,Europe & Central Asia,Upper middle income,0.0636241941992627
+TUR,Turkiye,1979,Europe & Central Asia,Upper middle income,0.0636241941992627
 TUV,Tuvalu,1979,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1979,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1979,Sub-Saharan Africa,Low income,65.41988090391654
@@ -4376,7 +4376,7 @@ CHE,Switzerland,1980,Europe & Central Asia,High income,
 CHI,Channel Islands,1980,Europe & Central Asia,High income,5174.866858357294
 CHL,Chile,1980,Latin America & Caribbean,High income,95569.48761568176
 CHN,China,1980,East Asia & Pacific,Upper middle income,467.3803930760725
-CIV,Côte d'Ivoire,1980,Sub-Saharan Africa,Lower middle income,246308.0597099404
+CIV,Cote d'Ivoire,1980,Sub-Saharan Africa,Lower middle income,246308.0597099404
 CMR,Cameroon,1980,Sub-Saharan Africa,Lower middle income,137947.77201961857
 COD,"Congo, Dem. Rep.",1980,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1980,Sub-Saharan Africa,Lower middle income,178353.9469598569
@@ -4385,7 +4385,7 @@ COM,Comoros,1980,Sub-Saharan Africa,Lower middle income,136968.48974196534
 CPV,Cabo Verde,1980,Sub-Saharan Africa,Lower middle income,17584.9817484885
 CRI,Costa Rica,1980,Latin America & Caribbean,Upper middle income,16382.99910988803
 CUB,Cuba,1980,Latin America & Caribbean,Upper middle income,1433.628667726838
-CUW,Curaçao,1980,Latin America & Caribbean,High income,
+CUW,Curacao,1980,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1980,Latin America & Caribbean,High income,
 CYP,Cyprus,1980,Europe & Central Asia,High income,2575.6796875
 CZE,Czechia,1980,Europe & Central Asia,High income,
@@ -4517,7 +4517,7 @@ SMR,San Marino,1980,Europe & Central Asia,High income,
 SOM,Somalia,1980,Sub-Saharan Africa,Low income,2944.049703473595
 SRB,Serbia,1980,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1980,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1980,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1980,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1980,Latin America & Caribbean,Upper middle income,4.156092047175243
 SVK,Slovak Republic,1980,Europe & Central Asia,High income,
 SVN,Slovenia,1980,Europe & Central Asia,High income,
@@ -4536,7 +4536,7 @@ TLS,Timor-Leste,1980,East Asia & Pacific,Lower middle income,
 TON,Tonga,1980,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,1980,Latin America & Caribbean,High income,12599.259477307309
 TUN,Tunisia,1980,Middle East & North Africa,Lower middle income,520.1609691226538
-TUR,Türkiye,1980,Europe & Central Asia,Upper middle income,0.1167089607358232
+TUR,Turkiye,1980,Europe & Central Asia,Upper middle income,0.1167089607358232
 TUV,Tuvalu,1980,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1980,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1980,Sub-Saharan Africa,Low income,93.13516850990808
@@ -4593,7 +4593,7 @@ CHE,Switzerland,1981,Europe & Central Asia,High income,
 CHI,Channel Islands,1981,Europe & Central Asia,High income,5576.22024745156
 CHL,Chile,1981,Latin America & Caribbean,High income,110745.1110206191
 CHN,China,1981,East Asia & Pacific,Upper middle income,496.408823686845
-CIV,Côte d'Ivoire,1981,Sub-Saharan Africa,Lower middle income,249312.21380526933
+CIV,Cote d'Ivoire,1981,Sub-Saharan Africa,Lower middle income,249312.21380526933
 CMR,Cameroon,1981,Sub-Saharan Africa,Lower middle income,183077.4912538702
 COD,"Congo, Dem. Rep.",1981,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1981,Sub-Saharan Africa,Lower middle income,273300.30846707366
@@ -4602,7 +4602,7 @@ COM,Comoros,1981,Sub-Saharan Africa,Lower middle income,158068.2723544762
 CPV,Cabo Verde,1981,Sub-Saharan Africa,Lower middle income,21194.4570536697
 CRI,Costa Rica,1981,Latin America & Caribbean,Upper middle income,20521.1185193126
 CUB,Cuba,1981,Latin America & Caribbean,Upper middle income,1665.4742216120933
-CUW,Curaçao,1981,Latin America & Caribbean,High income,
+CUW,Curacao,1981,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1981,Latin America & Caribbean,High income,
 CYP,Cyprus,1981,Europe & Central Asia,High income,2914.43896484375
 CZE,Czechia,1981,Europe & Central Asia,High income,
@@ -4734,7 +4734,7 @@ SMR,San Marino,1981,Europe & Central Asia,High income,
 SOM,Somalia,1981,Sub-Saharan Africa,Low income,3691.3613533957728
 SRB,Serbia,1981,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1981,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1981,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1981,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1981,Latin America & Caribbean,Upper middle income,4.791690500959136
 SVK,Slovak Republic,1981,Europe & Central Asia,High income,
 SVN,Slovenia,1981,Europe & Central Asia,High income,
@@ -4753,7 +4753,7 @@ TLS,Timor-Leste,1981,East Asia & Pacific,Lower middle income,
 TON,Tonga,1981,East Asia & Pacific,Upper middle income,593.9636123329823
 TTO,Trinidad and Tobago,1981,Latin America & Caribbean,High income,13964.181168203238
 TUN,Tunisia,1981,Middle East & North Africa,Lower middle income,594.9985542811812
-TUR,Türkiye,1981,Europe & Central Asia,Upper middle income,0.1721227039992128
+TUR,Turkiye,1981,Europe & Central Asia,Upper middle income,0.1721227039992128
 TUV,Tuvalu,1981,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1981,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1981,Sub-Saharan Africa,Low income,195.3617185107329
@@ -4810,7 +4810,7 @@ CHE,Switzerland,1982,Europe & Central Asia,High income,
 CHI,Channel Islands,1982,Europe & Central Asia,High income,6102.736309349299
 CHL,Chile,1982,Latin America & Caribbean,High income,100914.28475241984
 CHN,China,1982,East Asia & Pacific,Upper middle income,533.4429807065029
-CIV,Côte d'Ivoire,1982,Sub-Saharan Africa,Lower middle income,258041.5361150204
+CIV,Cote d'Ivoire,1982,Sub-Saharan Africa,Lower middle income,258041.5361150204
 CMR,Cameroon,1982,Sub-Saharan Africa,Lower middle income,225467.3604888965
 COD,"Congo, Dem. Rep.",1982,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1982,Sub-Saharan Africa,Lower middle income,347622.11971538485
@@ -4819,7 +4819,7 @@ COM,Comoros,1982,Sub-Saharan Africa,Lower middle income,174763.60584694555
 CPV,Cabo Verde,1982,Sub-Saharan Africa,Lower middle income,24323.226658576423
 CRI,Costa Rica,1982,Latin America & Caribbean,Upper middle income,32302.483750068608
 CUB,Cuba,1982,Latin America & Caribbean,Upper middle income,1762.641264789521
-CUW,Curaçao,1982,Latin America & Caribbean,High income,
+CUW,Curacao,1982,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1982,Latin America & Caribbean,High income,
 CYP,Cyprus,1982,Europe & Central Asia,High income,3367.0634765625
 CZE,Czechia,1982,Europe & Central Asia,High income,
@@ -4951,7 +4951,7 @@ SMR,San Marino,1982,Europe & Central Asia,High income,
 SOM,Somalia,1982,Sub-Saharan Africa,Low income,4812.995533287801
 SRB,Serbia,1982,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1982,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1982,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1982,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1982,Latin America & Caribbean,Upper middle income,4.884862492313564
 SVK,Slovak Republic,1982,Europe & Central Asia,High income,
 SVN,Slovenia,1982,Europe & Central Asia,High income,
@@ -4970,7 +4970,7 @@ TLS,Timor-Leste,1982,East Asia & Pacific,Lower middle income,
 TON,Tonga,1982,East Asia & Pacific,Upper middle income,662.3268097925328
 TTO,Trinidad and Tobago,1982,Latin America & Caribbean,High income,16438.546761843856
 TUN,Tunisia,1982,Middle East & North Africa,Lower middle income,669.6348194487808
-TUR,Türkiye,1982,Europe & Central Asia,Upper middle income,0.2230755717884689
+TUR,Turkiye,1982,Europe & Central Asia,Upper middle income,0.2230755717884689
 TUV,Tuvalu,1982,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1982,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1982,Sub-Saharan Africa,Low income,309.9700202852266
@@ -5027,7 +5027,7 @@ CHE,Switzerland,1983,Europe & Central Asia,High income,
 CHI,Channel Islands,1983,Europe & Central Asia,High income,6712.969735866933
 CHL,Chile,1983,Latin America & Caribbean,High income,122419.8909816238
 CHN,China,1983,East Asia & Pacific,Upper middle income,590.6130797803207
-CIV,Côte d'Ivoire,1983,Sub-Saharan Africa,Lower middle income,252487.3132443803
+CIV,Cote d'Ivoire,1983,Sub-Saharan Africa,Lower middle income,252487.3132443803
 CMR,Cameroon,1983,Sub-Saharan Africa,Lower middle income,266787.94466463046
 COD,"Congo, Dem. Rep.",1983,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1983,Sub-Saharan Africa,Lower middle income,375514.3336760849
@@ -5036,7 +5036,7 @@ COM,Comoros,1983,Sub-Saharan Africa,Lower middle income,204495.26783232292
 CPV,Cabo Verde,1983,Sub-Saharan Africa,Lower middle income,28503.94747576072
 CRI,Costa Rica,1983,Latin America & Caribbean,Upper middle income,44081.43687093237
 CUB,Cuba,1983,Latin America & Caribbean,Upper middle income,1874.1308882857595
-CUW,Curaçao,1983,Latin America & Caribbean,High income,
+CUW,Curacao,1983,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1983,Latin America & Caribbean,High income,
 CYP,Cyprus,1983,Europe & Central Asia,High income,3677.47387695313
 CZE,Czechia,1983,Europe & Central Asia,High income,
@@ -5168,7 +5168,7 @@ SMR,San Marino,1983,Europe & Central Asia,High income,
 SOM,Somalia,1983,Sub-Saharan Africa,Low income,5659.897168471601
 SRB,Serbia,1983,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1983,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1983,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1983,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1983,Latin America & Caribbean,Upper middle income,4.604529676417797
 SVK,Slovak Republic,1983,Europe & Central Asia,High income,
 SVN,Slovenia,1983,Europe & Central Asia,High income,
@@ -5187,7 +5187,7 @@ TLS,Timor-Leste,1983,East Asia & Pacific,Lower middle income,
 TON,Tonga,1983,East Asia & Pacific,Upper middle income,714.5832688877202
 TTO,Trinidad and Tobago,1983,Latin America & Caribbean,High income,15693.096314864257
 TUN,Tunisia,1983,Middle East & North Africa,Lower middle income,773.7119020993418
-TUR,Türkiye,1983,Europe & Central Asia,Upper middle income,0.2886734408579857
+TUR,Turkiye,1983,Europe & Central Asia,Upper middle income,0.2886734408579857
 TUV,Tuvalu,1983,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1983,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1983,Sub-Saharan Africa,Low income,462.71216982413017
@@ -5244,7 +5244,7 @@ CHE,Switzerland,1984,Europe & Central Asia,High income,
 CHI,Channel Islands,1984,Europe & Central Asia,High income,7026.651209952026
 CHL,Chile,1984,Latin America & Caribbean,High income,142662.47847545202
 CHN,China,1984,East Asia & Pacific,Upper middle income,705.4419489113399
-CIV,Côte d'Ivoire,1984,Sub-Saharan Africa,Lower middle income,288367.4592640056
+CIV,Cote d'Ivoire,1984,Sub-Saharan Africa,Lower middle income,288367.4592640056
 CMR,Cameroon,1984,Sub-Saharan Africa,Lower middle income,324265.3796732842
 COD,"Congo, Dem. Rep.",1984,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1984,Sub-Saharan Africa,Lower middle income,451126.20746261126
@@ -5253,7 +5253,7 @@ COM,Comoros,1984,Sub-Saharan Africa,Lower middle income,219954.95154021177
 CPV,Cabo Verde,1984,Sub-Saharan Africa,Lower middle income,32264.596852801864
 CRI,Costa Rica,1984,Latin America & Caribbean,Upper middle income,55473.06186484682
 CUB,Cuba,1984,Latin America & Caribbean,Upper middle income,2059.48186182578
-CUW,Curaçao,1984,Latin America & Caribbean,High income,
+CUW,Curacao,1984,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1984,Latin America & Caribbean,High income,
 CYP,Cyprus,1984,Europe & Central Asia,High income,4276.3798828125
 CZE,Czechia,1984,Europe & Central Asia,High income,
@@ -5385,7 +5385,7 @@ SMR,San Marino,1984,Europe & Central Asia,High income,
 SOM,Somalia,1984,Sub-Saharan Africa,Low income,9239.254968582294
 SRB,Serbia,1984,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1984,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1984,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1984,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1984,Latin America & Caribbean,Upper middle income,4.524106351782592
 SVK,Slovak Republic,1984,Europe & Central Asia,High income,
 SVN,Slovenia,1984,Europe & Central Asia,High income,
@@ -5404,7 +5404,7 @@ TLS,Timor-Leste,1984,East Asia & Pacific,Lower middle income,
 TON,Tonga,1984,East Asia & Pacific,Upper middle income,778.5656861330419
 TTO,Trinidad and Tobago,1984,Latin America & Caribbean,High income,15246.715121456313
 TUN,Tunisia,1984,Middle East & North Africa,Lower middle income,853.7939214664556
-TUR,Türkiye,1984,Europe & Central Asia,Upper middle income,0.445799746933716
+TUR,Turkiye,1984,Europe & Central Asia,Upper middle income,0.445799746933716
 TUV,Tuvalu,1984,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1984,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1984,Sub-Saharan Africa,Low income,566.5475391067308
@@ -5461,7 +5461,7 @@ CHE,Switzerland,1985,Europe & Central Asia,High income,
 CHI,Channel Islands,1985,Europe & Central Asia,High income,7525.665282877482
 CHL,Chile,1985,Latin America & Caribbean,High income,203837.6135571176
 CHN,China,1985,East Asia & Pacific,Upper middle income,868.0588440116456
-CIV,Côte d'Ivoire,1985,Sub-Saharan Africa,Lower middle income,283859.7728941221
+CIV,Cote d'Ivoire,1985,Sub-Saharan Africa,Lower middle income,283859.7728941221
 CMR,Cameroon,1985,Sub-Saharan Africa,Lower middle income,379331.9599941005
 COD,"Congo, Dem. Rep.",1985,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1985,Sub-Saharan Africa,Lower middle income,440880.8953943047
@@ -5470,7 +5470,7 @@ COM,Comoros,1985,Sub-Saharan Africa,Lower middle income,233872.56967922268
 CPV,Cabo Verde,1985,Sub-Saharan Africa,Lower middle income,36033.25026333288
 CRI,Costa Rica,1985,Latin America & Caribbean,Upper middle income,66271.38980386894
 CUB,Cuba,1985,Latin America & Caribbean,Upper middle income,2027.5030830490043
-CUW,Curaçao,1985,Latin America & Caribbean,High income,
+CUW,Curacao,1985,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1985,Latin America & Caribbean,High income,
 CYP,Cyprus,1985,Europe & Central Asia,High income,4686.21337890625
 CZE,Czechia,1985,Europe & Central Asia,High income,
@@ -5602,7 +5602,7 @@ SMR,San Marino,1985,Europe & Central Asia,High income,
 SOM,Somalia,1985,Sub-Saharan Africa,Low income,12438.59538925144
 SRB,Serbia,1985,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1985,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1985,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1985,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1985,Latin America & Caribbean,Upper middle income,4.509635277435552
 SVK,Slovak Republic,1985,Europe & Central Asia,High income,
 SVN,Slovenia,1985,Europe & Central Asia,High income,
@@ -5621,7 +5621,7 @@ TLS,Timor-Leste,1985,East Asia & Pacific,Lower middle income,
 TON,Tonga,1985,East Asia & Pacific,Upper middle income,925.0940188552884
 TTO,Trinidad and Tobago,1985,Latin America & Caribbean,High income,14351.07123359602
 TUN,Tunisia,1985,Middle East & North Africa,Lower middle income,899.5073896896935
-TUR,Türkiye,1985,Europe & Central Asia,Upper middle income,0.6971914806737877
+TUR,Turkiye,1985,Europe & Central Asia,Upper middle income,0.6971914806737877
 TUV,Tuvalu,1985,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1985,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1985,Sub-Saharan Africa,Low income,1170.7990370315945
@@ -5678,7 +5678,7 @@ CHE,Switzerland,1986,Europe & Central Asia,High income,
 CHI,Channel Islands,1986,Europe & Central Asia,High income,
 CHL,Chile,1986,Latin America & Caribbean,High income,261361.50272699623
 CHN,China,1986,East Asia & Pacific,Upper middle income,972.5775747522944
-CIV,Côte d'Ivoire,1986,Sub-Saharan Africa,Lower middle income,284455.2172571934
+CIV,Cote d'Ivoire,1986,Sub-Saharan Africa,Lower middle income,284455.2172571934
 CMR,Cameroon,1986,Sub-Saharan Africa,Lower middle income,400779.5897678091
 COD,"Congo, Dem. Rep.",1986,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1986,Sub-Saharan Africa,Lower middle income,306556.4078719428
@@ -5687,7 +5687,7 @@ COM,Comoros,1986,Sub-Saharan Africa,Lower middle income,249076.42332438845
 CPV,Cabo Verde,1986,Sub-Saharan Africa,Lower middle income,43756.29082902713
 CRI,Costa Rica,1986,Latin America & Caribbean,Upper middle income,81217.67316314875
 CUB,Cuba,1986,Latin America & Caribbean,Upper middle income,1933.5374598944063
-CUW,Curaçao,1986,Latin America & Caribbean,High income,
+CUW,Curacao,1986,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1986,Latin America & Caribbean,High income,
 CYP,Cyprus,1986,Europe & Central Asia,High income,4937.13330078125
 CZE,Czechia,1986,Europe & Central Asia,High income,
@@ -5819,7 +5819,7 @@ SMR,San Marino,1986,Europe & Central Asia,High income,
 SOM,Somalia,1986,Sub-Saharan Africa,Low income,16378.621337325663
 SRB,Serbia,1986,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1986,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1986,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1986,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1986,Latin America & Caribbean,Upper middle income,4.528865464406227
 SVK,Slovak Republic,1986,Europe & Central Asia,High income,
 SVN,Slovenia,1986,Europe & Central Asia,High income,
@@ -5838,7 +5838,7 @@ TLS,Timor-Leste,1986,East Asia & Pacific,Lower middle income,
 TON,Tonga,1986,East Asia & Pacific,Upper middle income,1108.6342940728075
 TTO,Trinidad and Tobago,1986,Latin America & Caribbean,High income,13426.177889951248
 TUN,Tunisia,1986,Middle East & North Africa,Lower middle income,889.2711731185165
-TUR,Türkiye,1986,Europe & Central Asia,Upper middle income,0.9918237397405636
+TUR,Turkiye,1986,Europe & Central Asia,Upper middle income,0.9918237397405636
 TUV,Tuvalu,1986,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1986,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1986,Sub-Saharan Africa,Low income,2718.8278900873497
@@ -5895,7 +5895,7 @@ CHE,Switzerland,1987,Europe & Central Asia,High income,
 CHI,Channel Islands,1987,Europe & Central Asia,High income,
 CHL,Chile,1987,Latin America & Caribbean,High income,353868.98732016527
 CHN,China,1987,East Asia & Pacific,Upper middle income,1122.3431124917554
-CIV,Côte d'Ivoire,1987,Sub-Saharan Africa,Lower middle income,259193.46282992687
+CIV,Cote d'Ivoire,1987,Sub-Saharan Africa,Lower middle income,259193.46282992687
 CMR,Cameroon,1987,Sub-Saharan Africa,Lower middle income,371021.3210298541
 COD,"Congo, Dem. Rep.",1987,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1987,Sub-Saharan Africa,Lower middle income,320790.5667592959
@@ -5904,7 +5904,7 @@ COM,Comoros,1987,Sub-Saharan Africa,Lower middle income,254844.0740059513
 CPV,Cabo Verde,1987,Sub-Saharan Africa,Lower middle income,48840.75183959532
 CRI,Costa Rica,1987,Latin America & Caribbean,Upper middle income,90913.25776731478
 CUB,Cuba,1987,Latin America & Caribbean,Upper middle income,1881.799938219661
-CUW,Curaçao,1987,Latin America & Caribbean,High income,
+CUW,Curacao,1987,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1987,Latin America & Caribbean,High income,
 CYP,Cyprus,1987,Europe & Central Asia,High income,5438.06494140625
 CZE,Czechia,1987,Europe & Central Asia,High income,
@@ -6036,7 +6036,7 @@ SMR,San Marino,1987,Europe & Central Asia,High income,
 SOM,Somalia,1987,Sub-Saharan Africa,Low income,22273.248169461767
 SRB,Serbia,1987,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1987,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1987,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1987,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1987,Latin America & Caribbean,Upper middle income,4.918524341907994
 SVK,Slovak Republic,1987,Europe & Central Asia,High income,
 SVN,Slovenia,1987,Europe & Central Asia,High income,
@@ -6055,7 +6055,7 @@ TLS,Timor-Leste,1987,East Asia & Pacific,Lower middle income,
 TON,Tonga,1987,East Asia & Pacific,Upper middle income,1247.0326104813537
 TTO,Trinidad and Tobago,1987,Latin America & Caribbean,High income,12613.829965195277
 TUN,Tunisia,1987,Middle East & North Africa,Lower middle income,969.2922623490946
-TUR,Türkiye,1987,Europe & Central Asia,Upper middle income,1.4231100907369016
+TUR,Turkiye,1987,Europe & Central Asia,Upper middle income,1.4231100907369016
 TUV,Tuvalu,1987,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1987,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,1987,Sub-Saharan Africa,Low income,7728.875163576103
@@ -6112,7 +6112,7 @@ CHE,Switzerland,1988,Europe & Central Asia,High income,
 CHI,Channel Islands,1988,Europe & Central Asia,High income,
 CHL,Chile,1988,Latin America & Caribbean,High income,456369.2656723683
 CHN,China,1988,East Asia & Pacific,Upper middle income,1377.449224848633
-CIV,Côte d'Ivoire,1988,Sub-Saharan Africa,Lower middle income,250898.6628414445
+CIV,Cote d'Ivoire,1988,Sub-Saharan Africa,Lower middle income,250898.6628414445
 CMR,Cameroon,1988,Sub-Saharan Africa,Lower middle income,337537.2263285913
 COD,"Congo, Dem. Rep.",1988,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1988,Sub-Saharan Africa,Lower middle income,252047.7242630482
@@ -6121,7 +6121,7 @@ COM,Comoros,1988,Sub-Saharan Africa,Lower middle income,258572.083221016
 CPV,Cabo Verde,1988,Sub-Saharan Africa,Lower middle income,54077.52644854813
 CRI,Costa Rica,1988,Latin America & Caribbean,Upper middle income,108019.63710339733
 CUB,Cuba,1988,Latin America & Caribbean,Upper middle income,1962.5496610068856
-CUW,Curaçao,1988,Latin America & Caribbean,High income,
+CUW,Curacao,1988,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1988,Latin America & Caribbean,High income,
 CYP,Cyprus,1988,Europe & Central Asia,High income,6032.8134765625
 CZE,Czechia,1988,Europe & Central Asia,High income,
@@ -6253,7 +6253,7 @@ SMR,San Marino,1988,Europe & Central Asia,High income,
 SOM,Somalia,1988,Sub-Saharan Africa,Low income,37335.725283609536
 SRB,Serbia,1988,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1988,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1988,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1988,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1988,Latin America & Caribbean,Upper middle income,5.734335640164222
 SVK,Slovak Republic,1988,Europe & Central Asia,High income,
 SVN,Slovenia,1988,Europe & Central Asia,High income,
@@ -6272,7 +6272,7 @@ TLS,Timor-Leste,1988,East Asia & Pacific,Lower middle income,
 TON,Tonga,1988,East Asia & Pacific,Upper middle income,1361.9702059445162
 TTO,Trinidad and Tobago,1988,Latin America & Caribbean,High income,12955.051730911842
 TUN,Tunisia,1988,Middle East & North Africa,Lower middle income,1020.4258681725186
-TUR,Türkiye,1988,Europe & Central Asia,Upper middle income,2.403596474780248
+TUR,Turkiye,1988,Europe & Central Asia,Upper middle income,2.403596474780248
 TUV,Tuvalu,1988,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1988,Sub-Saharan Africa,Lower middle income,20220.572265625
 UGA,Uganda,1988,Sub-Saharan Africa,Low income,23476.76124119832
@@ -6329,7 +6329,7 @@ CHE,Switzerland,1989,Europe & Central Asia,High income,
 CHI,Channel Islands,1989,Europe & Central Asia,High income,
 CHL,Chile,1989,Latin America & Caribbean,High income,567183.4675756834
 CHN,China,1989,East Asia & Pacific,Upper middle income,1536.5274048004292
-CIV,Côte d'Ivoire,1989,Sub-Saharan Africa,Lower middle income,233002.5577637436
+CIV,Cote d'Ivoire,1989,Sub-Saharan Africa,Lower middle income,233002.5577637436
 CMR,Cameroon,1989,Sub-Saharan Africa,Lower middle income,310616.4278702329
 COD,"Congo, Dem. Rep.",1989,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1989,Sub-Saharan Africa,Lower middle income,278845.474924941
@@ -6338,7 +6338,7 @@ COM,Comoros,1989,Sub-Saharan Africa,Lower middle income,260587.057657108
 CPV,Cabo Verde,1989,Sub-Saharan Africa,Lower middle income,58931.24947647634
 CRI,Costa Rica,1989,Latin America & Caribbean,Upper middle income,127740.32583945247
 CUB,Cuba,1989,Latin America & Caribbean,Upper middle income,1971.654032553996
-CUW,Curaçao,1989,Latin America & Caribbean,High income,
+CUW,Curacao,1989,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1989,Latin America & Caribbean,High income,
 CYP,Cyprus,1989,Europe & Central Asia,High income,6746.55322265625
 CZE,Czechia,1989,Europe & Central Asia,High income,
@@ -6470,7 +6470,7 @@ SMR,San Marino,1989,Europe & Central Asia,High income,
 SOM,Somalia,1989,Sub-Saharan Africa,Low income,73877.62317817181
 SRB,Serbia,1989,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1989,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1989,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1989,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1989,Latin America & Caribbean,Upper middle income,6.614261925751788
 SVK,Slovak Republic,1989,Europe & Central Asia,High income,
 SVN,Slovenia,1989,Europe & Central Asia,High income,
@@ -6489,7 +6489,7 @@ TLS,Timor-Leste,1989,East Asia & Pacific,Lower middle income,
 TON,Tonga,1989,East Asia & Pacific,Upper middle income,1415.525671129001
 TTO,Trinidad and Tobago,1989,Latin America & Caribbean,High income,13348.086705248326
 TUN,Tunisia,1989,Middle East & North Africa,Lower middle income,1106.4997366889863
-TUR,Türkiye,1989,Europe & Central Asia,Upper middle income,4.17194965469995
+TUR,Turkiye,1989,Europe & Central Asia,Upper middle income,4.17194965469995
 TUV,Tuvalu,1989,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1989,Sub-Saharan Africa,Lower middle income,24502.34765625
 UGA,Uganda,1989,Sub-Saharan Africa,Low income,51897.09796663167
@@ -6546,7 +6546,7 @@ CHE,Switzerland,1990,Europe & Central Asia,High income,
 CHI,Channel Islands,1990,Europe & Central Asia,High income,
 CHL,Chile,1990,Latin America & Caribbean,High income,716487.369559528
 CHN,China,1990,East Asia & Pacific,Upper middle income,1666.9821735840414
-CIV,Côte d'Ivoire,1990,Sub-Saharan Africa,Lower middle income,210513.54745460744
+CIV,Cote d'Ivoire,1990,Sub-Saharan Africa,Lower middle income,210513.54745460744
 CMR,Cameroon,1990,Sub-Saharan Africa,Lower middle income,280750.13241742284
 COD,"Congo, Dem. Rep.",1990,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1990,Sub-Saharan Africa,Lower middle income,265234.64273811696
@@ -6555,7 +6555,7 @@ COM,Comoros,1990,Sub-Saharan Africa,Lower middle income,270871.8474481524
 CPV,Cabo Verde,1990,Sub-Saharan Africa,Lower middle income,59391.71857813328
 CRI,Costa Rica,1990,Latin America & Caribbean,Upper middle income,158231.16450771992
 CUB,Cuba,1990,Latin America & Caribbean,Upper middle income,1983.9003432868967
-CUW,Curaçao,1990,Latin America & Caribbean,High income,
+CUW,Curacao,1990,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1990,Latin America & Caribbean,High income,
 CYP,Cyprus,1990,Europe & Central Asia,High income,7484.37255859375
 CZE,Czechia,1990,Europe & Central Asia,High income,
@@ -6687,7 +6687,7 @@ SMR,San Marino,1990,Europe & Central Asia,High income,
 SOM,Somalia,1990,Sub-Saharan Africa,Low income,226189.20940647196
 SRB,Serbia,1990,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1990,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1990,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1990,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1990,Latin America & Caribbean,Upper middle income,9.373576640921028
 SVK,Slovak Republic,1990,Europe & Central Asia,High income,
 SVN,Slovenia,1990,Europe & Central Asia,High income,
@@ -6706,7 +6706,7 @@ TLS,Timor-Leste,1990,East Asia & Pacific,Lower middle income,
 TON,Tonga,1990,East Asia & Pacific,Upper middle income,1529.1359000070902
 TTO,Trinidad and Tobago,1990,Latin America & Caribbean,High income,15675.023963338856
 TUN,Tunisia,1990,Middle East & North Africa,Lower middle income,1238.9184247483686
-TUR,Türkiye,1990,Europe & Central Asia,Upper middle income,7.115026808890972
+TUR,Turkiye,1990,Europe & Central Asia,Upper middle income,7.115026808890972
 TUV,Tuvalu,1990,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1990,Sub-Saharan Africa,Lower middle income,31175.17578125
 UGA,Uganda,1990,Sub-Saharan Africa,Low income,76827.49397127249
@@ -6763,7 +6763,7 @@ CHE,Switzerland,1991,Europe & Central Asia,High income,
 CHI,Channel Islands,1991,Europe & Central Asia,High income,
 CHL,Chile,1991,Latin America & Caribbean,High income,923780.52462239
 CHN,China,1991,East Asia & Pacific,Upper middle income,1916.1216025652168
-CIV,Côte d'Ivoire,1991,Sub-Saharan Africa,Lower middle income,208035.1709223884
+CIV,Cote d'Ivoire,1991,Sub-Saharan Africa,Lower middle income,208035.1709223884
 CMR,Cameroon,1991,Sub-Saharan Africa,Lower middle income,265934.3511591676
 COD,"Congo, Dem. Rep.",1991,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1991,Sub-Saharan Africa,Lower middle income,262121.9688707228
@@ -6772,7 +6772,7 @@ COM,Comoros,1991,Sub-Saharan Africa,Lower middle income,270190.40103826334
 CPV,Cabo Verde,1991,Sub-Saharan Africa,Lower middle income,61503.64642722036
 CRI,Costa Rica,1991,Latin America & Caribbean,Upper middle income,265018.29531514033
 CUB,Cuba,1991,Latin America & Caribbean,Upper middle income,1631.9259382188152
-CUW,Curaçao,1991,Latin America & Caribbean,High income,
+CUW,Curacao,1991,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1991,Latin America & Caribbean,High income,
 CYP,Cyprus,1991,Europe & Central Asia,High income,7635.95703125
 CZE,Czechia,1991,Europe & Central Asia,High income,
@@ -6904,7 +6904,7 @@ SMR,San Marino,1991,Europe & Central Asia,High income,
 SOM,Somalia,1991,Sub-Saharan Africa,Low income,
 SRB,Serbia,1991,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1991,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1991,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1991,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1991,Latin America & Caribbean,Upper middle income,10.724047492553746
 SVK,Slovak Republic,1991,Europe & Central Asia,High income,
 SVN,Slovenia,1991,Europe & Central Asia,High income,
@@ -6923,7 +6923,7 @@ TLS,Timor-Leste,1991,East Asia & Pacific,Lower middle income,
 TON,Tonga,1991,East Asia & Pacific,Upper middle income,1761.5796384203616
 TTO,Trinidad and Tobago,1991,Latin America & Caribbean,High income,16203.895240960834
 TUN,Tunisia,1991,Middle East & North Africa,Lower middle income,1335.5904362512035
-TUR,Türkiye,1991,Europe & Central Asia,Upper middle income,11.189339951076958
+TUR,Turkiye,1991,Europe & Central Asia,Upper middle income,11.189339951076958
 TUV,Tuvalu,1991,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1991,Sub-Saharan Africa,Lower middle income,39995.671875
 UGA,Uganda,1991,Sub-Saharan Africa,Low income,98940.2392810672
@@ -6980,7 +6980,7 @@ CHE,Switzerland,1992,Europe & Central Asia,High income,
 CHI,Channel Islands,1992,Europe & Central Asia,High income,
 CHL,Chile,1992,Latin America & Caribbean,High income,1158688.5615656085
 CHN,China,1992,East Asia & Pacific,Upper middle income,2335.528563654
-CIV,Côte d'Ivoire,1992,Sub-Saharan Africa,Lower middle income,202199.455201049
+CIV,Cote d'Ivoire,1992,Sub-Saharan Africa,Lower middle income,202199.455201049
 CMR,Cameroon,1992,Sub-Saharan Africa,Lower middle income,248525.32568463773
 COD,"Congo, Dem. Rep.",1992,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1992,Sub-Saharan Africa,Lower middle income,268310.6977585505
@@ -6989,7 +6989,7 @@ COM,Comoros,1992,Sub-Saharan Africa,Lower middle income,269520.29846133466
 CPV,Cabo Verde,1992,Sub-Saharan Africa,Lower middle income,63832.22253349287
 CRI,Costa Rica,1992,Latin America & Caribbean,Upper middle income,338765.45571727835
 CUB,Cuba,1992,Latin America & Caribbean,Upper middle income,1493.2773187949124
-CUW,Curaçao,1992,Latin America & Caribbean,High income,
+CUW,Curacao,1992,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1992,Latin America & Caribbean,High income,
 CYP,Cyprus,1992,Europe & Central Asia,High income,8617.392578125
 CZE,Czechia,1992,Europe & Central Asia,High income,94762.14005783244
@@ -7121,7 +7121,7 @@ SMR,San Marino,1992,Europe & Central Asia,High income,
 SOM,Somalia,1992,Sub-Saharan Africa,Low income,
 SRB,Serbia,1992,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1992,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1992,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1992,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1992,Latin America & Caribbean,Upper middle income,14.4331273047118
 SVK,Slovak Republic,1992,Europe & Central Asia,High income,
 SVN,Slovenia,1992,Europe & Central Asia,High income,
@@ -7140,7 +7140,7 @@ TLS,Timor-Leste,1992,East Asia & Pacific,Lower middle income,
 TON,Tonga,1992,East Asia & Pacific,Upper middle income,1880.6770098730608
 TTO,Trinidad and Tobago,1992,Latin America & Caribbean,High income,16502.269152440058
 TUN,Tunisia,1992,Middle East & North Africa,Lower middle income,1483.9580393840868
-TUR,Türkiye,1992,Europe & Central Asia,Upper middle income,19.09798574428133
+TUR,Turkiye,1992,Europe & Central Asia,Upper middle income,19.09798574428133
 TUV,Tuvalu,1992,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1992,Sub-Saharan Africa,Lower middle income,49013.6484375
 UGA,Uganda,1992,Sub-Saharan Africa,Low income,141575.67714993207
@@ -7197,7 +7197,7 @@ CHE,Switzerland,1993,Europe & Central Asia,High income,
 CHI,Channel Islands,1993,Europe & Central Asia,High income,
 CHL,Chile,1993,Latin America & Caribbean,High income,1374086.4815415149
 CHN,China,1993,East Asia & Pacific,Upper middle income,3020.878982213774
-CIV,Côte d'Ivoire,1993,Sub-Saharan Africa,Lower middle income,205816.6104654935
+CIV,Cote d'Ivoire,1993,Sub-Saharan Africa,Lower middle income,205816.6104654935
 CMR,Cameroon,1993,Sub-Saharan Africa,Lower middle income,351439.52665752795
 COD,"Congo, Dem. Rep.",1993,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",1993,Sub-Saharan Africa,Lower middle income,236007.4933851624
@@ -7206,7 +7206,7 @@ COM,Comoros,1993,Sub-Saharan Africa,Lower middle income,277895.5274778877
 CPV,Cabo Verde,1993,Sub-Saharan Africa,Lower middle income,100881.58336077436
 CRI,Costa Rica,1993,Latin America & Caribbean,Upper middle income,391487.10778147
 CUB,Cuba,1993,Latin America & Caribbean,Upper middle income,1502.4506744529576
-CUW,Curaçao,1993,Latin America & Caribbean,High income,
+CUW,Curacao,1993,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1993,Latin America & Caribbean,High income,
 CYP,Cyprus,1993,Europe & Central Asia,High income,8883.826171875
 CZE,Czechia,1993,Europe & Central Asia,High income,115433.17103676673
@@ -7338,7 +7338,7 @@ SMR,San Marino,1993,Europe & Central Asia,High income,
 SOM,Somalia,1993,Sub-Saharan Africa,Low income,
 SRB,Serbia,1993,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1993,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1993,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1993,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1993,Latin America & Caribbean,Upper middle income,33.91299200947026
 SVK,Slovak Republic,1993,Europe & Central Asia,High income,
 SVN,Slovenia,1993,Europe & Central Asia,High income,
@@ -7357,7 +7357,7 @@ TLS,Timor-Leste,1993,East Asia & Pacific,Lower middle income,
 TON,Tonga,1993,East Asia & Pacific,Upper middle income,1941.372170626784
 TTO,Trinidad and Tobago,1993,Latin America & Caribbean,High income,17962.802111943518
 TUN,Tunisia,1993,Middle East & North Africa,Lower middle income,1530.080794922856
-TUR,Türkiye,1993,Europe & Central Asia,Upper middle income,34.06316021178997
+TUR,Turkiye,1993,Europe & Central Asia,Upper middle income,34.06316021178997
 TUV,Tuvalu,1993,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1993,Sub-Saharan Africa,Lower middle income,59948.65625
 UGA,Uganda,1993,Sub-Saharan Africa,Low income,195839.62634045657
@@ -7414,7 +7414,7 @@ CHE,Switzerland,1994,Europe & Central Asia,High income,
 CHI,Channel Islands,1994,Europe & Central Asia,High income,
 CHL,Chile,1994,Latin America & Caribbean,High income,1610164.5946561014
 CHN,China,1994,East Asia & Pacific,Upper middle income,4073.3961162409223
-CIV,Côte d'Ivoire,1994,Sub-Saharan Africa,Lower middle income,303277.7645078333
+CIV,Cote d'Ivoire,1994,Sub-Saharan Africa,Lower middle income,303277.7645078333
 CMR,Cameroon,1994,Sub-Saharan Africa,Lower middle income,366183.3608221491
 COD,"Congo, Dem. Rep.",1994,Sub-Saharan Africa,Low income,1.4758460719235662
 COG,"Congo, Rep.",1994,Sub-Saharan Africa,Lower middle income,315020.8675193502
@@ -7423,7 +7423,7 @@ COM,Comoros,1994,Sub-Saharan Africa,Lower middle income,281107.0419322545
 CPV,Cabo Verde,1994,Sub-Saharan Africa,Lower middle income,82825.61925035166
 CRI,Costa Rica,1994,Latin America & Caribbean,Upper middle income,467925.5468090814
 CUB,Cuba,1994,Latin America & Caribbean,Upper middle income,1894.7891594235325
-CUW,Curaçao,1994,Latin America & Caribbean,High income,
+CUW,Curacao,1994,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1994,Latin America & Caribbean,High income,
 CYP,Cyprus,1994,Europe & Central Asia,High income,9689.8662109375
 CZE,Czechia,1994,Europe & Central Asia,High income,133406.64756584523
@@ -7555,7 +7555,7 @@ SMR,San Marino,1994,Europe & Central Asia,High income,
 SOM,Somalia,1994,Sub-Saharan Africa,Low income,
 SRB,Serbia,1994,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1994,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1994,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1994,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1994,Latin America & Caribbean,Upper middle income,188.48757935800896
 SVK,Slovak Republic,1994,Europe & Central Asia,High income,
 SVN,Slovenia,1994,Europe & Central Asia,High income,
@@ -7574,7 +7574,7 @@ TLS,Timor-Leste,1994,East Asia & Pacific,Lower middle income,
 TON,Tonga,1994,East Asia & Pacific,Upper middle income,2711.346522144569
 TTO,Trinidad and Tobago,1994,Latin America & Caribbean,High income,20647.34634349501
 TUN,Tunisia,1994,Middle East & North Africa,Lower middle income,1631.3102904133273
-TUR,Türkiye,1994,Europe & Central Asia,Upper middle income,64.68528300644252
+TUR,Turkiye,1994,Europe & Central Asia,Upper middle income,64.68528300644252
 TUV,Tuvalu,1994,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1994,Sub-Saharan Africa,Lower middle income,77180.421875
 UGA,Uganda,1994,Sub-Saharan Africa,Low income,215299.4382664247
@@ -7631,7 +7631,7 @@ CHE,Switzerland,1995,Europe & Central Asia,High income,60560.74854627113
 CHI,Channel Islands,1995,Europe & Central Asia,High income,
 CHL,Chile,1995,Latin America & Caribbean,High income,1944620.518525753
 CHN,China,1995,East Asia & Pacific,Upper middle income,5009.452971270402
-CIV,Côte d'Ivoire,1995,Sub-Saharan Africa,Lower middle income,349503.5792431562
+CIV,Cote d'Ivoire,1995,Sub-Saharan Africa,Lower middle income,349503.5792431562
 CMR,Cameroon,1995,Sub-Saharan Africa,Lower middle income,389757.1658628178
 COD,"Congo, Dem. Rep.",1995,Sub-Saharan Africa,Low income,7.915493562310089
 COG,"Congo, Rep.",1995,Sub-Saharan Africa,Lower middle income,223570.7208779171
@@ -7640,7 +7640,7 @@ COM,Comoros,1995,Sub-Saharan Africa,Lower middle income,309136.76203075907
 CPV,Cabo Verde,1995,Sub-Saharan Africa,Lower middle income,90526.95596793247
 CRI,Costa Rica,1995,Latin America & Caribbean,Upper middle income,574619.062257197
 CUB,Cuba,1995,Latin America & Caribbean,Upper middle income,2133.385084228976
-CUW,Curaçao,1995,Latin America & Caribbean,High income,
+CUW,Curacao,1995,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1995,Latin America & Caribbean,High income,
 CYP,Cyprus,1995,Europe & Central Asia,High income,11201.0029296875
 CZE,Czechia,1995,Europe & Central Asia,High income,153367.11514669002
@@ -7772,7 +7772,7 @@ SMR,San Marino,1995,Europe & Central Asia,High income,
 SOM,Somalia,1995,Sub-Saharan Africa,Low income,
 SRB,Serbia,1995,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1995,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1995,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1995,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1995,Latin America & Caribbean,Upper middle income,700.6375290570554
 SVK,Slovak Republic,1995,Europe & Central Asia,High income,3707.097110611173
 SVN,Slovenia,1995,Europe & Central Asia,High income,5333.6933229876095
@@ -7791,7 +7791,7 @@ TLS,Timor-Leste,1995,East Asia & Pacific,Lower middle income,
 TON,Tonga,1995,East Asia & Pacific,Upper middle income,2701.9414465327027
 TTO,Trinidad and Tobago,1995,Latin America & Caribbean,High income,22462.612190343945
 TUN,Tunisia,1995,Middle East & North Africa,Lower middle income,1747.4630685137736
-TUR,Türkiye,1995,Europe & Central Asia,Upper middle income,128.41420077635308
+TUR,Turkiye,1995,Europe & Central Asia,Upper middle income,128.41420077635308
 TUV,Tuvalu,1995,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1995,Sub-Saharan Africa,Lower middle income,99185.0234375
 UGA,Uganda,1995,Sub-Saharan Africa,Low income,256919.27763927865
@@ -7848,7 +7848,7 @@ CHE,Switzerland,1996,Europe & Central Asia,High income,60897.6955110756
 CHI,Channel Islands,1996,Europe & Central Asia,High income,
 CHL,Chile,1996,Latin America & Caribbean,High income,2145726.8187442045
 CHN,China,1996,East Asia & Pacific,Upper middle income,5813.280155476161
-CIV,Côte d'Ivoire,1996,Sub-Saharan Africa,Lower middle income,387638.8134086776
+CIV,Cote d'Ivoire,1996,Sub-Saharan Africa,Lower middle income,387638.8134086776
 CMR,Cameroon,1996,Sub-Saharan Africa,Lower middle income,396198.7757934912
 COD,"Congo, Dem. Rep.",1996,Sub-Saharan Africa,Low income,61.40728415239893
 COG,"Congo, Rep.",1996,Sub-Saharan Africa,Lower middle income,264274.06141103
@@ -7857,7 +7857,7 @@ COM,Comoros,1996,Sub-Saharan Africa,Lower middle income,307697.10533130483
 CPV,Cabo Verde,1996,Sub-Saharan Africa,Lower middle income,97612.92377561418
 CRI,Costa Rica,1996,Latin America & Caribbean,Upper middle income,657753.6063337303
 CUB,Cuba,1996,Latin America & Caribbean,Upper middle income,2237.024477993358
-CUW,Curaçao,1996,Latin America & Caribbean,High income,
+CUW,Curacao,1996,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1996,Latin America & Caribbean,High income,
 CYP,Cyprus,1996,Europe & Central Asia,High income,11482.556640625
 CZE,Czechia,1996,Europe & Central Asia,High income,174693.73716038238
@@ -7989,7 +7989,7 @@ SMR,San Marino,1996,Europe & Central Asia,High income,
 SOM,Somalia,1996,Sub-Saharan Africa,Low income,
 SRB,Serbia,1996,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,1996,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1996,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1996,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1996,Latin America & Caribbean,Upper middle income,771.6826561281921
 SVK,Slovak Republic,1996,Europe & Central Asia,High income,4135.792663102293
 SVN,Slovenia,1996,Europe & Central Asia,High income,6124.4375519202185
@@ -8008,7 +8008,7 @@ TLS,Timor-Leste,1996,East Asia & Pacific,Lower middle income,
 TON,Tonga,1996,East Asia & Pacific,Upper middle income,2792.3618943061037
 TTO,Trinidad and Tobago,1996,Latin America & Caribbean,High income,23982.84375157031
 TUN,Tunisia,1996,Middle East & North Africa,Lower middle income,1914.6497288069093
-TUR,Türkiye,1996,Europe & Central Asia,Upper middle income,241.05058521287748
+TUR,Turkiye,1996,Europe & Central Asia,Upper middle income,241.05058521287748
 TUV,Tuvalu,1996,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1996,Sub-Saharan Africa,Lower middle income,123108.0390625
 UGA,Uganda,1996,Sub-Saharan Africa,Low income,285920.65874079725
@@ -8065,7 +8065,7 @@ CHE,Switzerland,1997,Europe & Central Asia,High income,62859.34867806119
 CHI,Channel Islands,1997,Europe & Central Asia,High income,
 CHL,Chile,1997,Latin America & Caribbean,High income,2353379.7879155446
 CHN,China,1997,East Asia & Pacific,Upper middle income,6406.34613791842
-CIV,Côte d'Ivoire,1997,Sub-Saharan Africa,Lower middle income,418768.0011800108
+CIV,Cote d'Ivoire,1997,Sub-Saharan Africa,Lower middle income,418768.0011800108
 CMR,Cameroon,1997,Sub-Saharan Africa,Lower middle income,428072.742115607
 COD,"Congo, Dem. Rep.",1997,Sub-Saharan Africa,Low income,166.5857640448601
 COG,"Congo, Rep.",1997,Sub-Saharan Africa,Lower middle income,337233.22517240647
@@ -8074,7 +8074,7 @@ COM,Comoros,1997,Sub-Saharan Africa,Lower middle income,316092.192787402
 CPV,Cabo Verde,1997,Sub-Saharan Africa,Lower middle income,105305.04860050064
 CRI,Costa Rica,1997,Latin America & Caribbean,Upper middle income,777398.330115812
 CUB,Cuba,1997,Latin America & Caribbean,Upper middle income,2262.421917400678
-CUW,Curaçao,1997,Latin America & Caribbean,High income,
+CUW,Curacao,1997,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1997,Latin America & Caribbean,High income,
 CYP,Cyprus,1997,Europe & Central Asia,High income,11799.376953125
 CZE,Czechia,1997,Europe & Central Asia,High income,188411.5215538312
@@ -8206,7 +8206,7 @@ SMR,San Marino,1997,Europe & Central Asia,High income,
 SOM,Somalia,1997,Sub-Saharan Africa,Low income,
 SRB,Serbia,1997,Europe & Central Asia,Upper middle income,20005.36464090507
 SSD,South Sudan,1997,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1997,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1997,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1997,Latin America & Caribbean,Upper middle income,794.7324608566817
 SVK,Slovak Republic,1997,Europe & Central Asia,High income,4553.246517789954
 SVN,Slovenia,1997,Europe & Central Asia,High income,6964.012294330791
@@ -8225,7 +8225,7 @@ TLS,Timor-Leste,1997,East Asia & Pacific,Lower middle income,
 TON,Tonga,1997,East Asia & Pacific,Upper middle income,2762.1222356891653
 TTO,Trinidad and Tobago,1997,Latin America & Caribbean,High income,25404.588403173788
 TUN,Tunisia,1997,Middle East & North Africa,Lower middle income,2296.570351711476
-TUR,Türkiye,1997,Europe & Central Asia,Upper middle income,463.11032222534936
+TUR,Turkiye,1997,Europe & Central Asia,Upper middle income,463.11032222534936
 TUV,Tuvalu,1997,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1997,Sub-Saharan Africa,Lower middle income,149855.328125
 UGA,Uganda,1997,Sub-Saharan Africa,Low income,302418.2723951047
@@ -8282,7 +8282,7 @@ CHE,Switzerland,1998,Europe & Central Asia,High income,64698.70454307953
 CHI,Channel Islands,1998,Europe & Central Asia,High income,25268.530139864502
 CHL,Chile,1998,Latin America & Caribbean,High income,2460315.1759895585
 CHN,China,1998,East Asia & Pacific,Upper middle income,6748.94886012553
-CIV,Côte d'Ivoire,1998,Sub-Saharan Africa,Lower middle income,447172.23480183794
+CIV,Cote d'Ivoire,1998,Sub-Saharan Africa,Lower middle income,447172.23480183794
 CMR,Cameroon,1998,Sub-Saharan Africa,Lower middle income,445894.6735566955
 COD,"Congo, Dem. Rep.",1998,Sub-Saharan Africa,Low income,203.9784075675876
 COG,"Congo, Rep.",1998,Sub-Saharan Africa,Lower middle income,296989.6832524958
@@ -8291,7 +8291,7 @@ COM,Comoros,1998,Sub-Saharan Africa,Lower middle income,317067.8575235629
 CPV,Cabo Verde,1998,Sub-Saharan Africa,Lower middle income,115141.03140745182
 CRI,Costa Rica,1998,Latin America & Caribbean,Upper middle income,903136.2967859338
 CUB,Cuba,1998,Latin America & Caribbean,Upper middle income,2291.851171649768
-CUW,Curaçao,1998,Latin America & Caribbean,High income,
+CUW,Curacao,1998,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1998,Latin America & Caribbean,High income,
 CYP,Cyprus,1998,Europe & Central Asia,High income,13744.6865234375
 CZE,Czechia,1998,Europe & Central Asia,High income,206405.674245532
@@ -8423,7 +8423,7 @@ SMR,San Marino,1998,Europe & Central Asia,High income,
 SOM,Somalia,1998,Sub-Saharan Africa,Low income,
 SRB,Serbia,1998,Europe & Central Asia,Upper middle income,25805.87880537729
 SSD,South Sudan,1998,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1998,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1998,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1998,Latin America & Caribbean,Upper middle income,937.3685703704826
 SVK,Slovak Republic,1998,Europe & Central Asia,High income,4960.349064913266
 SVN,Slovenia,1998,Europe & Central Asia,High income,7735.270830210902
@@ -8442,7 +8442,7 @@ TLS,Timor-Leste,1998,East Asia & Pacific,Lower middle income,
 TON,Tonga,1998,East Asia & Pacific,Upper middle income,2935.3808353808354
 TTO,Trinidad and Tobago,1998,Latin America & Caribbean,High income,27155.801423287357
 TUN,Tunisia,1998,Middle East & North Africa,Lower middle income,2465.3957963647968
-TUR,Türkiye,1998,Europe & Central Asia,Upper middle income,1143.3803034995356
+TUR,Turkiye,1998,Europe & Central Asia,Upper middle income,1143.3803034995356
 TUV,Tuvalu,1998,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1998,Sub-Saharan Africa,Lower middle income,255038.953125
 UGA,Uganda,1998,Sub-Saharan Africa,Low income,335459.7870728183
@@ -8499,7 +8499,7 @@ CHE,Switzerland,1999,Europe & Central Asia,High income,65961.17618289273
 CHI,Channel Islands,1999,Europe & Central Asia,High income,26489.70036806596
 CHL,Chile,1999,Latin America & Caribbean,High income,2462342.2406880152
 CHN,China,1999,East Asia & Pacific,Upper middle income,7133.710036200792
-CIV,Côte d'Ivoire,1999,Sub-Saharan Africa,Lower middle income,442306.7958228531
+CIV,Cote d'Ivoire,1999,Sub-Saharan Africa,Lower middle income,442306.7958228531
 CMR,Cameroon,1999,Sub-Saharan Africa,Lower middle income,465559.4889248385
 COD,"Congo, Dem. Rep.",1999,Sub-Saharan Africa,Low income,997.2252156689748
 COG,"Congo, Rep.",1999,Sub-Saharan Africa,Lower middle income,335733.6709253515
@@ -8508,7 +8508,7 @@ COM,Comoros,1999,Sub-Saharan Africa,Lower middle income,335650.7747277483
 CPV,Cabo Verde,1999,Sub-Saharan Africa,Lower middle income,134328.7320378892
 CRI,Costa Rica,1999,Latin America & Caribbean,Upper middle income,1005801.0214716144
 CUB,Cuba,1999,Latin America & Caribbean,Upper middle income,2515.7614018453683
-CUW,Curaçao,1999,Latin America & Caribbean,High income,
+CUW,Curacao,1999,Latin America & Caribbean,High income,
 CYM,Cayman Islands,1999,Latin America & Caribbean,High income,
 CYP,Cyprus,1999,Europe & Central Asia,High income,13358.392578125
 CZE,Czechia,1999,Europe & Central Asia,High income,215015.0818855955
@@ -8640,7 +8640,7 @@ SMR,San Marino,1999,Europe & Central Asia,High income,
 SOM,Somalia,1999,Sub-Saharan Africa,Low income,
 SRB,Serbia,1999,Europe & Central Asia,Upper middle income,30008.64098606957
 SSD,South Sudan,1999,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,1999,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,1999,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,1999,Latin America & Caribbean,Upper middle income,1552.8059890574716
 SVK,Slovak Republic,1999,Europe & Central Asia,High income,5274.545868992332
 SVN,Slovenia,1999,Europe & Central Asia,High income,8679.558456817671
@@ -8659,7 +8659,7 @@ TLS,Timor-Leste,1999,East Asia & Pacific,Lower middle income,
 TON,Tonga,1999,East Asia & Pacific,Upper middle income,3191.896609205546
 TTO,Trinidad and Tobago,1999,Latin America & Caribbean,High income,30420.68831698269
 TUN,Tunisia,1999,Middle East & North Africa,Lower middle income,2673.663758125072
-TUR,Türkiye,1999,Europe & Central Asia,Upper middle income,1675.9030089364485
+TUR,Turkiye,1999,Europe & Central Asia,Upper middle income,1675.9030089364485
 TUV,Tuvalu,1999,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,1999,Sub-Saharan Africa,Lower middle income,287127.0625
 UGA,Uganda,1999,Sub-Saharan Africa,Low income,350167.27418202144
@@ -8716,7 +8716,7 @@ CHE,Switzerland,2000,Europe & Central Asia,High income,69790.96064307338
 CHI,Channel Islands,2000,Europe & Central Asia,High income,28395.248647681445
 CHL,Chile,2000,Latin America & Caribbean,High income,2653683.3486420712
 CHN,China,2000,East Asia & Pacific,Upper middle income,7845.91608021257
-CIV,Côte d'Ivoire,2000,Sub-Saharan Africa,Lower middle income,411728.32561591984
+CIV,Cote d'Ivoire,2000,Sub-Saharan Africa,Lower middle income,411728.32561591984
 CMR,Cameroon,2000,Sub-Saharan Africa,Lower middle income,469264.3387901901
 COD,"Congo, Dem. Rep.",2000,Sub-Saharan Africa,Low income,26540.171675283425
 COG,"Congo, Rep.",2000,Sub-Saharan Africa,Lower middle income,516875.5626142698
@@ -8725,7 +8725,7 @@ COM,Comoros,2000,Sub-Saharan Africa,Lower middle income,348792.50108987663
 CPV,Cabo Verde,2000,Sub-Saharan Africa,Lower middle income,137166.29663655945
 CRI,Costa Rica,2000,Latin America & Caribbean,Upper middle income,1109447.974627016
 CUB,Cuba,2000,Latin America & Caribbean,Upper middle income,2696.205970380678
-CUW,Curaçao,2000,Latin America & Caribbean,High income,
+CUW,Curacao,2000,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2000,Latin America & Caribbean,High income,
 CYP,Cyprus,2000,Europe & Central Asia,High income,13955.4609375
 CZE,Czechia,2000,Europe & Central Asia,High income,228168.07658812043
@@ -8857,7 +8857,7 @@ SMR,San Marino,2000,Europe & Central Asia,High income,
 SOM,Somalia,2000,Sub-Saharan Africa,Low income,
 SRB,Serbia,2000,Europe & Central Asia,Upper middle income,57781.33243200885
 SSD,South Sudan,2000,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2000,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,2000,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,2000,Latin America & Caribbean,Upper middle income,2479.233733752542
 SVK,Slovak Republic,2000,Europe & Central Asia,High income,5852.046311554506
 SVN,Slovenia,2000,Europe & Central Asia,High income,9456.043339995224
@@ -8876,7 +8876,7 @@ TLS,Timor-Leste,2000,East Asia & Pacific,Lower middle income,586.6201785145043
 TON,Tonga,2000,East Asia & Pacific,Upper middle income,3313.9966667641297
 TTO,Trinidad and Tobago,2000,Latin America & Caribbean,High income,35588.62688344044
 TUN,Tunisia,2000,Middle East & North Africa,Lower middle income,2844.4456843388
-TUR,Türkiye,2000,Europe & Central Asia,Upper middle income,2635.826085242172
+TUR,Turkiye,2000,Europe & Central Asia,Upper middle income,2635.826085242172
 TUV,Tuvalu,2000,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,2000,Sub-Saharan Africa,Lower middle income,316975.46875
 UGA,Uganda,2000,Sub-Saharan Africa,Low income,383067.1373898934
@@ -8933,7 +8933,7 @@ CHE,Switzerland,2001,Europe & Central Asia,High income,69358.09602794192
 CHI,Channel Islands,2001,Europe & Central Asia,High income,28922.79039193668
 CHL,Chile,2001,Latin America & Caribbean,High income,2829050.066548664
 CHN,China,2001,East Asia & Pacific,Upper middle income,8591.905684632622
-CIV,Côte d'Ivoire,2001,Sub-Saharan Africa,Lower middle income,421310.6886980394
+CIV,Cote d'Ivoire,2001,Sub-Saharan Africa,Lower middle income,421310.6886980394
 CMR,Cameroon,2001,Sub-Saharan Africa,Lower middle income,484871.1428516658
 COD,"Congo, Dem. Rep.",2001,Sub-Saharan Africa,Low income,42280.71469425709
 COG,"Congo, Rep.",2001,Sub-Saharan Africa,Lower middle income,443257.6720882357
@@ -8942,7 +8942,7 @@ COM,Comoros,2001,Sub-Saharan Africa,Lower middle income,380303.7046706381
 CPV,Cabo Verde,2001,Sub-Saharan Africa,Lower middle income,147295.33176809928
 CRI,Costa Rica,2001,Latin America & Caribbean,Upper middle income,1236718.313035901
 CUB,Cuba,2001,Latin America & Caribbean,Upper middle income,2799.034430615613
-CUW,Curaçao,2001,Latin America & Caribbean,High income,
+CUW,Curacao,2001,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2001,Latin America & Caribbean,High income,
 CYP,Cyprus,2001,Europe & Central Asia,High income,15112.4814453125
 CZE,Czechia,2001,Europe & Central Asia,High income,245335.02078234404
@@ -9074,7 +9074,7 @@ SMR,San Marino,2001,Europe & Central Asia,High income,
 SOM,Somalia,2001,Sub-Saharan Africa,Low income,
 SRB,Serbia,2001,Europe & Central Asia,Upper middle income,115632.58813665692
 SSD,South Sudan,2001,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2001,Sub-Saharan Africa,Lower middle income,4401.292237005839
+STP,Sao Tome and Principe,2001,Sub-Saharan Africa,Lower middle income,4401.292237005839
 SUR,Suriname,2001,Latin America & Caribbean,Upper middle income,3255.1200876498274
 SVK,Slovak Republic,2001,Europe & Central Asia,High income,6393.232255045533
 SVN,Slovenia,2001,Europe & Central Asia,High income,10607.32708854151
@@ -9093,7 +9093,7 @@ TLS,Timor-Leste,2001,East Asia & Pacific,Lower middle income,708.7428793472795
 TON,Tonga,2001,East Asia & Pacific,Upper middle income,3447.37137874237
 TTO,Trinidad and Tobago,2001,Latin America & Caribbean,High income,38582.77927066781
 TUN,Tunisia,2001,Middle East & North Africa,Lower middle income,3040.802999622916
-TUR,Türkiye,2001,Europe & Central Asia,Upper middle income,3705.712761205592
+TUR,Turkiye,2001,Europe & Central Asia,Upper middle income,3705.712761205592
 TUV,Tuvalu,2001,East Asia & Pacific,Upper middle income,5170.377299657001
 TZA,Tanzania,2001,Sub-Saharan Africa,Lower middle income,337943.625
 UGA,Uganda,2001,Sub-Saharan Africa,Low income,402925.5995024901
@@ -9150,7 +9150,7 @@ CHE,Switzerland,2002,Europe & Central Asia,High income,67767.86886254071
 CHI,Channel Islands,2002,Europe & Central Asia,High income,29388.381906269748
 CHL,Chile,2002,Latin America & Caribbean,High income,2967174.903257913
 CHN,China,2002,East Asia & Pacific,Upper middle income,9409.591911902531
-CIV,Côte d'Ivoire,2002,Sub-Saharan Africa,Lower middle income,425931.2012391839
+CIV,Cote d'Ivoire,2002,Sub-Saharan Africa,Lower middle income,425931.2012391839
 CMR,Cameroon,2002,Sub-Saharan Africa,Lower middle income,511816.082585728
 COD,"Congo, Dem. Rep.",2002,Sub-Saharan Africa,Low income,56573.34223206034
 COG,"Congo, Rep.",2002,Sub-Saharan Africa,Lower middle income,454716.7734463511
@@ -9159,7 +9159,7 @@ COM,Comoros,2002,Sub-Saharan Africa,Lower middle income,395725.60428729607
 CPV,Cabo Verde,2002,Sub-Saharan Africa,Lower middle income,150100.8799085436
 CRI,Costa Rica,2002,Latin America & Caribbean,Upper middle income,1380395.1027537566
 CUB,Cuba,2002,Latin America & Caribbean,Upper middle income,2952.522437005883
-CUW,Curaçao,2002,Latin America & Caribbean,High income,
+CUW,Curacao,2002,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2002,Latin America & Caribbean,High income,
 CYP,Cyprus,2002,Europe & Central Asia,High income,15873.6904296875
 CZE,Czechia,2002,Europe & Central Asia,High income,254410.54922880605
@@ -9291,7 +9291,7 @@ SMR,San Marino,2002,Europe & Central Asia,High income,
 SOM,Somalia,2002,Sub-Saharan Africa,Low income,
 SRB,Serbia,2002,Europe & Central Asia,Upper middle income,146479.65212401166
 SSD,South Sudan,2002,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2002,Sub-Saharan Africa,Lower middle income,4963.192984563638
+STP,Sao Tome and Principe,2002,Sub-Saharan Africa,Lower middle income,4963.192984563638
 SUR,Suriname,2002,Latin America & Caribbean,Upper middle income,4979.240052777475
 SVK,Slovak Republic,2002,Europe & Central Asia,High income,6925.533466048914
 SVN,Slovenia,2002,Europe & Central Asia,High income,11703.474502765062
@@ -9310,7 +9310,7 @@ TLS,Timor-Leste,2002,East Asia & Pacific,Lower middle income,834.9283616907367
 TON,Tonga,2002,East Asia & Pacific,Upper middle income,3909.283842626488
 TTO,Trinidad and Tobago,2002,Latin America & Caribbean,High income,39593.83289597642
 TUN,Tunisia,2002,Middle East & North Africa,Lower middle income,3121.512664097032
-TUR,Türkiye,2002,Europe & Central Asia,Upper middle income,5383.437739903899
+TUR,Turkiye,2002,Europe & Central Asia,Upper middle income,5383.437739903899
 TUV,Tuvalu,2002,East Asia & Pacific,Upper middle income,6647.580393381205
 TZA,Tanzania,2002,Sub-Saharan Africa,Lower middle income,384813.875
 UGA,Uganda,2002,Sub-Saharan Africa,Low income,415169.7659315352
@@ -9367,7 +9367,7 @@ CHE,Switzerland,2003,Europe & Central Asia,High income,70615.61021724892
 CHI,Channel Islands,2003,Europe & Central Asia,High income,29620.940940131182
 CHL,Chile,2003,Latin America & Caribbean,High income,3166421.816681792
 CHN,China,2003,East Asia & Pacific,Upper middle income,10600.454100434648
-CIV,Côte d'Ivoire,2003,Sub-Saharan Africa,Lower middle income,417627.55021389126
+CIV,Cote d'Ivoire,2003,Sub-Saharan Africa,Lower middle income,417627.55021389126
 CMR,Cameroon,2003,Sub-Saharan Africa,Lower middle income,547602.6909027006
 COD,"Congo, Dem. Rep.",2003,Sub-Saharan Africa,Low income,66372.43267955113
 COG,"Congo, Rep.",2003,Sub-Saharan Africa,Lower middle income,437548.4977602111
@@ -9376,7 +9376,7 @@ COM,Comoros,2003,Sub-Saharan Africa,Lower middle income,416158.9523442022
 CPV,Cabo Verde,2003,Sub-Saharan Africa,Lower middle income,162693.54661323212
 CRI,Costa Rica,2003,Latin America & Caribbean,Upper middle income,1568020.9004180385
 CUB,Cuba,2003,Latin America & Caribbean,Upper middle income,3155.642354282447
-CUW,Curaçao,2003,Latin America & Caribbean,High income,
+CUW,Curacao,2003,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2003,Latin America & Caribbean,High income,
 CYP,Cyprus,2003,Europe & Central Asia,High income,17153.818359375
 CZE,Czechia,2003,Europe & Central Asia,High income,267660.14668631484
@@ -9508,7 +9508,7 @@ SMR,San Marino,2003,Europe & Central Asia,High income,
 SOM,Somalia,2003,Sub-Saharan Africa,Low income,
 SRB,Serbia,2003,Europe & Central Asia,Upper middle income,172027.68992449928
 SSD,South Sudan,2003,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2003,Sub-Saharan Africa,Lower middle income,6052.985132867679
+STP,Sao Tome and Principe,2003,Sub-Saharan Africa,Lower middle income,6052.985132867679
 SUR,Suriname,2003,Latin America & Caribbean,Upper middle income,6324.524594068839
 SVK,Slovak Republic,2003,Europe & Central Asia,High income,7347.546439164666
 SVN,Slovenia,2003,Europe & Central Asia,High income,12697.385872759533
@@ -9527,7 +9527,7 @@ TLS,Timor-Leste,2003,East Asia & Pacific,Lower middle income,714.385775222532
 TON,Tonga,2003,East Asia & Pacific,Upper middle income,4271.10238482904
 TTO,Trinidad and Tobago,2003,Latin America & Caribbean,High income,49412.8515575362
 TUN,Tunisia,2003,Middle East & North Africa,Lower middle income,3335.1455463410207
-TUR,Türkiye,2003,Europe & Central Asia,Upper middle income,6936.590631176269
+TUR,Turkiye,2003,Europe & Central Asia,Upper middle income,6936.590631176269
 TUV,Tuvalu,2003,East Asia & Pacific,Upper middle income,4678.609846917667
 TZA,Tanzania,2003,Sub-Saharan Africa,Lower middle income,430977.5
 UGA,Uganda,2003,Sub-Saharan Africa,Low income,462356.974928529
@@ -9584,7 +9584,7 @@ CHE,Switzerland,2004,Europe & Central Asia,High income,72004.44663971447
 CHI,Channel Islands,2004,Europe & Central Asia,High income,30273.24158407896
 CHL,Chile,2004,Latin America & Caribbean,High income,3492415.5935279173
 CHN,China,2004,East Asia & Pacific,Upper middle income,12454.173390428794
-CIV,Côte d'Ivoire,2004,Sub-Saharan Africa,Lower middle income,420553.6178970577
+CIV,Cote d'Ivoire,2004,Sub-Saharan Africa,Lower middle income,420553.6178970577
 CMR,Cameroon,2004,Sub-Saharan Africa,Lower middle income,577952.855421967
 COD,"Congo, Dem. Rep.",2004,Sub-Saharan Africa,Low income,72798.56652321665
 COG,"Congo, Rep.",2004,Sub-Saharan Africa,Lower middle income,471426.1377889773
@@ -9593,7 +9593,7 @@ COM,Comoros,2004,Sub-Saharan Africa,Lower middle income,429794.126341727
 CPV,Cabo Verde,2004,Sub-Saharan Africa,Lower middle income,165379.42488742928
 CRI,Costa Rica,2004,Latin America & Caribbean,Upper middle income,1835272.9874435663
 CUB,Cuba,2004,Latin America & Caribbean,Upper middle income,3345.3707760349084
-CUW,Curaçao,2004,Latin America & Caribbean,High income,
+CUW,Curacao,2004,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2004,Latin America & Caribbean,High income,
 CYP,Cyprus,2004,Europe & Central Asia,High income,17963.009765625
 CZE,Czechia,2004,Europe & Central Asia,High income,287665.97486873966
@@ -9725,7 +9725,7 @@ SMR,San Marino,2004,Europe & Central Asia,High income,
 SOM,Somalia,2004,Sub-Saharan Africa,Low income,
 SRB,Serbia,2004,Europe & Central Asia,Upper middle income,202807.35101780653
 SSD,South Sudan,2004,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2004,Sub-Saharan Africa,Lower middle income,7000.589104421771
+STP,Sao Tome and Principe,2004,Sub-Saharan Africa,Lower middle income,7000.589104421771
 SUR,Suriname,2004,Latin America & Caribbean,Upper middle income,7607.154328870365
 SVK,Slovak Republic,2004,Europe & Central Asia,High income,8266.012382079862
 SVN,Slovenia,2004,Europe & Central Asia,High income,13641.48537915646
@@ -9744,7 +9744,7 @@ TLS,Timor-Leste,2004,East Asia & Pacific,Lower middle income,720.0807831803542
 TON,Tonga,2004,East Asia & Pacific,Upper middle income,4537.461441791385
 TTO,Trinidad and Tobago,2004,Latin America & Caribbean,High income,59617.63854972039
 TUN,Tunisia,2004,Middle East & North Africa,Lower middle income,3619.470036848204
-TUR,Türkiye,2004,Europe & Central Asia,Upper middle income,8480.586165907465
+TUR,Turkiye,2004,Europe & Central Asia,Upper middle income,8480.586165907465
 TUV,Tuvalu,2004,East Asia & Pacific,Upper middle income,5256.960473904606
 TZA,Tanzania,2004,Sub-Saharan Africa,Lower middle income,481747.1875
 UGA,Uganda,2004,Sub-Saharan Africa,Low income,550605.5854686076
@@ -9801,7 +9801,7 @@ CHE,Switzerland,2005,Europe & Central Asia,High income,75656.80697420976
 CHI,Channel Islands,2005,Europe & Central Asia,High income,31055.36504314719
 CHL,Chile,2005,Latin America & Caribbean,High income,3898604.1907942295
 CHN,China,2005,East Asia & Pacific,Upper middle income,14266.783412849383
-CIV,Côte d'Ivoire,2005,Sub-Saharan Africa,Lower middle income,456916.6069335535
+CIV,Cote d'Ivoire,2005,Sub-Saharan Africa,Lower middle income,456916.6069335535
 CMR,Cameroon,2005,Sub-Saharan Africa,Lower middle income,580540.8157175406
 COD,"Congo, Dem. Rep.",2005,Sub-Saharan Africa,Low income,96013.27872007347
 COG,"Congo, Rep.",2005,Sub-Saharan Africa,Lower middle income,724067.1153840395
@@ -9810,7 +9810,7 @@ COM,Comoros,2005,Sub-Saharan Africa,Lower middle income,435135.9667815679
 CPV,Cabo Verde,2005,Sub-Saharan Africa,Lower middle income,168824.1857690427
 CRI,Costa Rica,2005,Latin America & Caribbean,Upper middle income,2135639.461111933
 CUB,Cuba,2005,Latin America & Caribbean,Upper middle income,3735.5691130287314
-CUW,Curaçao,2005,Latin America & Caribbean,High income,30994.203024887767
+CUW,Curacao,2005,Latin America & Caribbean,High income,30994.203024887767
 CYM,Cayman Islands,2005,Latin America & Caribbean,High income,
 CYP,Cyprus,2005,Europe & Central Asia,High income,19026.26171875
 CZE,Czechia,2005,Europe & Central Asia,High income,306897.5330656016
@@ -9942,7 +9942,7 @@ SMR,San Marino,2005,Europe & Central Asia,High income,
 SOM,Somalia,2005,Sub-Saharan Africa,Low income,
 SRB,Serbia,2005,Europe & Central Asia,Upper middle income,242523.991807836
 SSD,South Sudan,2005,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2005,Sub-Saharan Africa,Lower middle income,8719.280677882236
+STP,Sao Tome and Principe,2005,Sub-Saharan Africa,Lower middle income,8719.280677882236
 SUR,Suriname,2005,Latin America & Caribbean,Upper middle income,9276.35368641277
 SVK,Slovak Republic,2005,Europe & Central Asia,High income,9157.30957765652
 SVN,Slovenia,2005,Europe & Central Asia,High income,14416.57477177909
@@ -9961,7 +9961,7 @@ TLS,Timor-Leste,2005,East Asia & Pacific,Lower middle income,871.7436988877689
 TON,Tonga,2005,East Asia & Pacific,Upper middle income,4792.1407136027565
 TTO,Trinidad and Tobago,2005,Latin America & Caribbean,High income,69891.27973266621
 TUN,Tunisia,2005,Middle East & North Africa,Lower middle income,3822.909599451077
-TUR,Türkiye,2005,Europe & Central Asia,Upper middle income,9796.42685804024
+TUR,Turkiye,2005,Europe & Central Asia,Upper middle income,9796.42685804024
 TUV,Tuvalu,2005,East Asia & Pacific,Upper middle income,5082.536319612591
 TZA,Tanzania,2005,Sub-Saharan Africa,Lower middle income,532780.625
 UGA,Uganda,2005,Sub-Saharan Africa,Low income,557415.3821568487
@@ -10018,7 +10018,7 @@ CHE,Switzerland,2006,Europe & Central Asia,High income,79243.94963932071
 CHI,Channel Islands,2006,Europe & Central Asia,High income,32917.72214363259
 CHL,Chile,2006,Latin America & Caribbean,High income,4460581.835462508
 CHN,China,2006,East Asia & Pacific,Upper middle income,16706.72106146359
-CIV,Côte d'Ivoire,2006,Sub-Saharan Africa,Lower middle income,460803.9754807362
+CIV,Cote d'Ivoire,2006,Sub-Saharan Africa,Lower middle income,460803.9754807362
 CMR,Cameroon,2006,Sub-Saharan Africa,Lower middle income,607975.8808535675
 COD,"Congo, Dem. Rep.",2006,Sub-Saharan Africa,Low income,112151.31822629824
 COG,"Congo, Rep.",2006,Sub-Saharan Africa,Lower middle income,936832.2588986036
@@ -10027,7 +10027,7 @@ COM,Comoros,2006,Sub-Saharan Africa,Lower middle income,451652.18040611385
 CPV,Cabo Verde,2006,Sub-Saharan Africa,Lower middle income,187282.53141010736
 CRI,Costa Rica,2006,Latin America & Caribbean,Upper middle income,2575363.3573555355
 CUB,Cuba,2006,Latin America & Caribbean,Upper middle income,4628.9417199570535
-CUW,Curaçao,2006,Latin America & Caribbean,High income,31736.27680739739
+CUW,Curacao,2006,Latin America & Caribbean,High income,31736.27680739739
 CYM,Cayman Islands,2006,Latin America & Caribbean,High income,
 CYP,Cyprus,2006,Europe & Central Asia,High income,20125.1171875
 CZE,Czechia,2006,Europe & Central Asia,High income,323387.5106761905
@@ -10159,7 +10159,7 @@ SMR,San Marino,2006,Europe & Central Asia,High income,
 SOM,Somalia,2006,Sub-Saharan Africa,Low income,
 SRB,Serbia,2006,Europe & Central Asia,Upper middle income,285622.8013258731
 SSD,South Sudan,2006,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2006,Sub-Saharan Africa,Lower middle income,10952.503846734047
+STP,Sao Tome and Principe,2006,Sub-Saharan Africa,Lower middle income,10952.503846734047
 SUR,Suriname,2006,Latin America & Caribbean,Upper middle income,13517.543096760104
 SVK,Slovak Republic,2006,Europe & Central Asia,High income,10198.637497408365
 SVN,Slovenia,2006,Europe & Central Asia,High income,15484.583938754318
@@ -10178,7 +10178,7 @@ TLS,Timor-Leste,2006,East Asia & Pacific,Lower middle income,1308.146685381735
 TON,Tonga,2006,East Asia & Pacific,Upper middle income,5626.381956869762
 TTO,Trinidad and Tobago,2006,Latin America & Caribbean,High income,79827.03085657182
 TUN,Tunisia,2006,Middle East & North Africa,Lower middle income,4163.805837674576
-TUR,Türkiye,2006,Europe & Central Asia,Upper middle income,11310.23649072928
+TUR,Turkiye,2006,Europe & Central Asia,Upper middle income,11310.23649072928
 TUV,Tuvalu,2006,East Asia & Pacific,Upper middle income,5166.929212362911
 TZA,Tanzania,2006,Sub-Saharan Africa,Lower middle income,592692.4375
 UGA,Uganda,2006,Sub-Saharan Africa,Low income,617083.8993832704
@@ -10235,7 +10235,7 @@ CHE,Switzerland,2007,Europe & Central Asia,High income,78327.3268047628
 CHI,Channel Islands,2007,Europe & Central Asia,High income,35516.39745472345
 CHL,Chile,2007,Latin America & Caribbean,High income,4929202.971615718
 CHN,China,2007,East Asia & Pacific,Upper middle income,20540.79202813599
-CIV,Côte d'Ivoire,2007,Sub-Saharan Africa,Lower middle income,472439.1306761128
+CIV,Cote d'Ivoire,2007,Sub-Saharan Africa,Lower middle income,472439.1306761128
 CMR,Cameroon,2007,Sub-Saharan Africa,Lower middle income,614351.7417890313
 COD,"Congo, Dem. Rep.",2007,Sub-Saharan Africa,Low income,138020.26446529874
 COG,"Congo, Rep.",2007,Sub-Saharan Africa,Lower middle income,891599.7633159426
@@ -10244,7 +10244,7 @@ COM,Comoros,2007,Sub-Saharan Africa,Lower middle income,463907.642904268
 CPV,Cabo Verde,2007,Sub-Saharan Africa,Lower middle income,258462.54594013072
 CRI,Costa Rica,2007,Latin America & Caribbean,Upper middle income,3048216.2491872218
 CUB,Cuba,2007,Latin America & Caribbean,Upper middle income,5114.887132408692
-CUW,Curaçao,2007,Latin America & Caribbean,High income,32847.642583439774
+CUW,Curacao,2007,Latin America & Caribbean,High income,32847.642583439774
 CYM,Cayman Islands,2007,Latin America & Caribbean,High income,
 CYP,Cyprus,2007,Europe & Central Asia,High income,21365.03125
 CZE,Czechia,2007,Europe & Central Asia,High income,350620.57546742214
@@ -10376,7 +10376,7 @@ SMR,San Marino,2007,Europe & Central Asia,High income,
 SOM,Somalia,2007,Sub-Saharan Africa,Low income,
 SRB,Serbia,2007,Europe & Central Asia,Upper middle income,331253.63827983144
 SSD,South Sudan,2007,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2007,Sub-Saharan Africa,Lower middle income,12243.7263387206
+STP,Sao Tome and Principe,2007,Sub-Saharan Africa,Lower middle income,12243.7263387206
 SUR,Suriname,2007,Latin America & Caribbean,Upper middle income,15255.088588605651
 SVK,Slovak Republic,2007,Europe & Central Asia,High income,11426.99319133513
 SVN,Slovenia,2007,Europe & Central Asia,High income,16979.798049870125
@@ -10395,7 +10395,7 @@ TLS,Timor-Leste,2007,East Asia & Pacific,Lower middle income,1931.97588295424
 TON,Tonga,2007,East Asia & Pacific,Upper middle income,5693.909300624543
 TTO,Trinidad and Tobago,2007,Latin America & Caribbean,High income,94465.61048365144
 TUN,Tunisia,2007,Middle East & North Africa,Lower middle income,4467.309585322665
-TUR,Türkiye,2007,Europe & Central Asia,Upper middle income,12536.466311978293
+TUR,Turkiye,2007,Europe & Central Asia,Upper middle income,12536.466311978293
 TUV,Tuvalu,2007,East Asia & Pacific,Upper middle income,5839.826583899891
 TZA,Tanzania,2007,Sub-Saharan Africa,Lower middle income,663301.25
 UGA,Uganda,2007,Sub-Saharan Africa,Low income,701310.9570350179
@@ -10452,7 +10452,7 @@ CHE,Switzerland,2008,Europe & Central Asia,High income,75035.45443549837
 CHI,Channel Islands,2008,Europe & Central Asia,High income,
 CHL,Chile,2008,Latin America & Caribbean,High income,5190513.900040705
 CHN,China,2008,East Asia & Pacific,Upper middle income,24250.05186105061
-CIV,Côte d'Ivoire,2008,Sub-Saharan Africa,Lower middle income,515992.5733715944
+CIV,Cote d'Ivoire,2008,Sub-Saharan Africa,Lower middle income,515992.5733715944
 CMR,Cameroon,2008,Sub-Saharan Africa,Lower middle income,648460.3488689216
 COD,"Congo, Dem. Rep.",2008,Sub-Saharan Africa,Low income,165844.56764820355
 COG,"Congo, Rep.",2008,Sub-Saharan Africa,Lower middle income,1113996.1786012428
@@ -10461,7 +10461,7 @@ COM,Comoros,2008,Sub-Saharan Africa,Lower middle income,485631.0175226778
 CPV,Cabo Verde,2008,Sub-Saharan Africa,Lower middle income,282332.87167669926
 CRI,Costa Rica,2008,Latin America & Caribbean,Upper middle income,3531608.380200363
 CUB,Cuba,2008,Latin America & Caribbean,Upper middle income,5298.6762243862495
-CUW,Curaçao,2008,Latin America & Caribbean,High income,34681.24485878804
+CUW,Curacao,2008,Latin America & Caribbean,High income,34681.24485878804
 CYM,Cayman Islands,2008,Latin America & Caribbean,High income,
 CYP,Cyprus,2008,Europe & Central Asia,High income,23769.56640625
 CZE,Czechia,2008,Europe & Central Asia,High income,365595.48785832257
@@ -10593,7 +10593,7 @@ SMR,San Marino,2008,Europe & Central Asia,High income,
 SOM,Somalia,2008,Sub-Saharan Africa,Low income,
 SRB,Serbia,2008,Europe & Central Asia,Upper middle income,384828.743948142
 SSD,South Sudan,2008,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2008,Sub-Saharan Africa,Lower middle income,16021.90811705478
+STP,Sao Tome and Principe,2008,Sub-Saharan Africa,Lower middle income,16021.90811705478
 SUR,Suriname,2008,Latin America & Caribbean,Upper middle income,18268.034865471272
 SVK,Slovak Republic,2008,Europe & Central Asia,High income,12533.335514561277
 SVN,Slovenia,2008,Europe & Central Asia,High income,18271.755628511328
@@ -10612,7 +10612,7 @@ TLS,Timor-Leste,2008,East Asia & Pacific,Lower middle income,3128.7834251770723
 TON,Tonga,2008,East Asia & Pacific,Upper middle income,6225.489095874013
 TTO,Trinidad and Tobago,2008,Latin America & Caribbean,High income,120307.16849403684
 TUN,Tunisia,2008,Middle East & North Africa,Lower middle income,4887.092032305966
-TUR,Türkiye,2008,Europe & Central Asia,Upper middle income,13973.80781492592
+TUR,Turkiye,2008,Europe & Central Asia,Upper middle income,13973.80781492592
 TUV,Tuvalu,2008,East Asia & Pacific,Upper middle income,5898.977803738318
 TZA,Tanzania,2008,Sub-Saharan Africa,Lower middle income,795058.0
 UGA,Uganda,2008,Sub-Saharan Africa,Low income,788361.032311454
@@ -10669,7 +10669,7 @@ CHE,Switzerland,2009,Europe & Central Asia,High income,78997.86798033169
 CHI,Channel Islands,2009,Europe & Central Asia,High income,
 CHL,Chile,2009,Latin America & Caribbean,High income,5319978.921488867
 CHN,China,2009,East Asia & Pacific,Upper middle income,26135.757339663174
-CIV,Côte d'Ivoire,2009,Sub-Saharan Africa,Lower middle income,533043.4972121258
+CIV,Cote d'Ivoire,2009,Sub-Saharan Africa,Lower middle income,533043.4972121258
 CMR,Cameroon,2009,Sub-Saharan Africa,Lower middle income,677199.8648085844
 COD,"Congo, Dem. Rep.",2009,Sub-Saharan Africa,Low income,225063.1574816783
 COG,"Congo, Rep.",2009,Sub-Saharan Africa,Lower middle income,989959.6686108104
@@ -10678,7 +10678,7 @@ COM,Comoros,2009,Sub-Saharan Africa,Lower middle income,496336.3029636121
 CPV,Cabo Verde,2009,Sub-Saharan Africa,Lower middle income,280837.11518545955
 CRI,Costa Rica,2009,Latin America & Caribbean,Upper middle income,3736973.899705838
 CUB,Cuba,2009,Latin America & Caribbean,Upper middle income,5356.377654004609
-CUW,Curaçao,2009,Latin America & Caribbean,High income,34388.04628387352
+CUW,Curacao,2009,Latin America & Caribbean,High income,34388.04628387352
 CYM,Cayman Islands,2009,Latin America & Caribbean,High income,
 CYP,Cyprus,2009,Europe & Central Asia,High income,23047.89453125
 CZE,Czechia,2009,Europe & Central Asia,High income,352485.3082209619
@@ -10810,7 +10810,7 @@ SMR,San Marino,2009,Europe & Central Asia,High income,
 SOM,Somalia,2009,Sub-Saharan Africa,Low income,
 SRB,Serbia,2009,Europe & Central Asia,Upper middle income,410788.8378972428
 SSD,South Sudan,2009,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2009,Sub-Saharan Africa,Lower middle income,18387.26309170933
+STP,Sao Tome and Principe,2009,Sub-Saharan Africa,Lower middle income,18387.26309170933
 SUR,Suriname,2009,Latin America & Caribbean,Upper middle income,19724.87485809844
 SVK,Slovak Republic,2009,Europe & Central Asia,High income,11836.48930288582
 SVN,Slovenia,2009,Europe & Central Asia,High income,17480.130844759617
@@ -10829,7 +10829,7 @@ TLS,Timor-Leste,2009,East Asia & Pacific,Lower middle income,2368.382134879967
 TON,Tonga,2009,East Asia & Pacific,Upper middle income,6271.399238408124
 TTO,Trinidad and Tobago,2009,Latin America & Caribbean,High income,81963.93432444257
 TUN,Tunisia,2009,Middle East & North Africa,Lower middle income,5175.1939634868695
-TUR,Türkiye,2009,Europe & Central Asia,Upper middle income,13805.040155495328
+TUR,Turkiye,2009,Europe & Central Asia,Upper middle income,13805.040155495328
 TUV,Tuvalu,2009,East Asia & Pacific,Upper middle income,5957.83051498847
 TZA,Tanzania,2009,Sub-Saharan Africa,Lower middle income,891359.0625
 UGA,Uganda,2009,Sub-Saharan Africa,Low income,1518973.3840201297
@@ -10886,7 +10886,7 @@ CHE,Switzerland,2010,Europe & Central Asia,High income,83962.85733163159
 CHI,Channel Islands,2010,Europe & Central Asia,High income,
 CHL,Chile,2010,Latin America & Caribbean,High income,6092874.075182299
 CHN,China,2010,East Asia & Pacific,Upper middle income,30675.979393064987
-CIV,Côte d'Ivoire,2010,Sub-Saharan Africa,Lower middle income,562161.8042710332
+CIV,Cote d'Ivoire,2010,Sub-Saharan Africa,Lower middle income,562161.8042710332
 CMR,Cameroon,2010,Sub-Saharan Africa,Lower middle income,678125.5225616856
 COD,"Congo, Dem. Rep.",2010,Sub-Saharan Africa,Low income,281838.1419559506
 COG,"Congo, Rep.",2010,Sub-Saharan Africa,Lower middle income,1362619.2122191568
@@ -10895,7 +10895,7 @@ COM,Comoros,2010,Sub-Saharan Africa,Lower middle income,513138.3339633916
 CPV,Cabo Verde,2010,Sub-Saharan Africa,Lower middle income,279869.5972080459
 CRI,Costa Rica,2010,Latin America & Caribbean,Upper middle income,4149141.3289452847
 CUB,Cuba,2010,Latin America & Caribbean,Upper middle income,5570.741984109179
-CUW,Curaçao,2010,Latin America & Caribbean,High income,35398.07535826446
+CUW,Curacao,2010,Latin America & Caribbean,High income,35398.07535826446
 CYM,Cayman Islands,2010,Latin America & Caribbean,High income,60628.59045012391
 CYP,Cyprus,2010,Europe & Central Asia,High income,23127.552734375
 CZE,Czechia,2010,Europe & Central Asia,High income,352664.0641334452
@@ -11027,7 +11027,7 @@ SMR,San Marino,2010,Europe & Central Asia,High income,
 SOM,Somalia,2010,Sub-Saharan Africa,Low income,
 SRB,Serbia,2010,Europe & Central Asia,Upper middle income,436330.6487226933
 SSD,South Sudan,2010,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2010,Sub-Saharan Africa,Lower middle income,19339.18786853924
+STP,Sao Tome and Principe,2010,Sub-Saharan Africa,Lower middle income,19339.18786853924
 SUR,Suriname,2010,Latin America & Caribbean,Upper middle income,21437.618663932026
 SVK,Slovak Republic,2010,Europe & Central Asia,High income,12489.16224050474
 SVN,Slovenia,2010,Europe & Central Asia,High income,17515.62079739996
@@ -11046,7 +11046,7 @@ TLS,Timor-Leste,2010,East Asia & Pacific,Lower middle income,3053.9115986295
 TON,Tonga,2010,East Asia & Pacific,Upper middle income,6803.882364992596
 TTO,Trinidad and Tobago,2010,Latin America & Caribbean,High income,95288.9660752069
 TUN,Tunisia,2010,Middle East & North Africa,Lower middle income,5799.024989575553
-TUR,Türkiye,2010,Europe & Central Asia,Upper middle income,15830.458049154968
+TUR,Turkiye,2010,Europe & Central Asia,Upper middle income,15830.458049154968
 TUV,Tuvalu,2010,East Asia & Pacific,Upper middle income,5290.767772511848
 TZA,Tanzania,2010,Sub-Saharan Africa,Lower middle income,1001555.0625
 UGA,Uganda,2010,Sub-Saharan Africa,Low income,1645541.345224349
@@ -11103,7 +11103,7 @@ CHE,Switzerland,2011,Europe & Central Asia,High income,80813.00043299136
 CHI,Channel Islands,2011,Europe & Central Asia,High income,
 CHL,Chile,2011,Latin America & Caribbean,High income,6459199.900917532
 CHN,China,2011,East Asia & Pacific,Upper middle income,35939.04952287487
-CIV,Côte d'Ivoire,2011,Sub-Saharan Africa,Lower middle income,533804.3471768241
+CIV,Cote d'Ivoire,2011,Sub-Saharan Africa,Lower middle income,533804.3471768241
 CMR,Cameroon,2011,Sub-Saharan Africa,Lower middle income,698900.0943474978
 COD,"Congo, Dem. Rep.",2011,Sub-Saharan Africa,Low income,328710.15030398185
 COG,"Congo, Rep.",2011,Sub-Saharan Africa,Lower middle income,1448390.084585892
@@ -11112,7 +11112,7 @@ COM,Comoros,2011,Sub-Saharan Africa,Lower middle income,539224.3583142682
 CPV,Cabo Verde,2011,Sub-Saharan Africa,Lower middle income,296608.7530164676
 CRI,Costa Rica,2011,Latin America & Caribbean,Upper middle income,4467269.923644092
 CUB,Cuba,2011,Latin America & Caribbean,Upper middle income,6011.836749505032
-CUW,Curaçao,2011,Latin America & Caribbean,High income,34354.11224957854
+CUW,Curacao,2011,Latin America & Caribbean,High income,34354.11224957854
 CYM,Cayman Islands,2011,Latin America & Caribbean,High income,60732.45332660564
 CYP,Cyprus,2011,Europe & Central Asia,High income,23950.544921875
 CZE,Czechia,2011,Europe & Central Asia,High income,355797.22654764325
@@ -11244,7 +11244,7 @@ SMR,San Marino,2011,Europe & Central Asia,High income,
 SOM,Somalia,2011,Sub-Saharan Africa,Low income,
 SRB,Serbia,2011,Europe & Central Asia,Upper middle income,480150.0642996453
 SSD,South Sudan,2011,Sub-Saharan Africa,Low income,2494.9985892873706
-STP,São Tomé and Principe,2011,Sub-Saharan Africa,Lower middle income,21567.460923222465
+STP,Sao Tome and Principe,2011,Sub-Saharan Africa,Lower middle income,21567.460923222465
 SUR,Suriname,2011,Latin America & Caribbean,Upper middle income,24622.840697931344
 SVK,Slovak Republic,2011,Europe & Central Asia,High income,12839.124078613157
 SVN,Slovenia,2011,Europe & Central Asia,High income,17807.248776452947
@@ -11263,7 +11263,7 @@ TLS,Timor-Leste,2011,East Asia & Pacific,Lower middle income,4116.056770316701
 TON,Tonga,2011,East Asia & Pacific,Upper middle income,7261.910957058293
 TTO,Trinidad and Tobago,2011,Latin America & Caribbean,High income,102065.11767439896
 TUN,Tunisia,2011,Middle East & North Africa,Lower middle income,5865.014029422812
-TUR,Türkiye,2011,Europe & Central Asia,Upper middle income,18764.718980528425
+TUR,Turkiye,2011,Europe & Central Asia,Upper middle income,18764.718980528425
 TUV,Tuvalu,2011,East Asia & Pacific,Upper middle income,5275.70093457944
 TZA,Tanzania,2011,Sub-Saharan Africa,Lower middle income,1175319.375
 UGA,Uganda,2011,Sub-Saharan Africa,Low income,1914888.9886447329
@@ -11320,7 +11320,7 @@ CHE,Switzerland,2012,Europe & Central Asia,High income,81844.24175936033
 CHI,Channel Islands,2012,Europe & Central Asia,High income,
 CHL,Chile,2012,Latin America & Caribbean,High income,7084354.212727178
 CHN,China,2012,East Asia & Pacific,Upper middle income,39678.99687636152
-CIV,Côte d'Ivoire,2012,Sub-Saharan Africa,Lower middle income,601389.9253690657
+CIV,Cote d'Ivoire,2012,Sub-Saharan Africa,Lower middle income,601389.9253690657
 CMR,Cameroon,2012,Sub-Saharan Africa,Lower middle income,721185.3709208012
 COD,"Congo, Dem. Rep.",2012,Sub-Saharan Africa,Low income,358974.9779817338
 COG,"Congo, Rep.",2012,Sub-Saharan Africa,Lower middle income,1812952.6991632325
@@ -11329,7 +11329,7 @@ COM,Comoros,2012,Sub-Saharan Africa,Lower middle income,567283.8310547174
 CPV,Cabo Verde,2012,Sub-Saharan Africa,Lower middle income,297262.05737790896
 CRI,Costa Rica,2012,Latin America & Caribbean,Upper middle income,4860169.332752043
 CUB,Cuba,2012,Latin America & Caribbean,Upper middle income,6379.357147973038
-CUW,Curaçao,2012,Latin America & Caribbean,High income,34739.604039989084
+CUW,Curacao,2012,Latin America & Caribbean,High income,34739.604039989084
 CYM,Cayman Islands,2012,Latin America & Caribbean,High income,42575.02286317271
 CYP,Cyprus,2012,Europe & Central Asia,High income,22408.16015625
 CZE,Czechia,2012,Europe & Central Asia,High income,364006.3040010808
@@ -11461,7 +11461,7 @@ SMR,San Marino,2012,Europe & Central Asia,High income,
 SOM,Somalia,2012,Sub-Saharan Africa,Low income,
 SRB,Serbia,2012,Europe & Central Asia,Upper middle income,511753.0761235086
 SSD,South Sudan,2012,Sub-Saharan Africa,Low income,3166.269177966219
-STP,São Tomé and Principe,2012,Sub-Saharan Africa,Lower middle income,22784.027821654978
+STP,Sao Tome and Principe,2012,Sub-Saharan Africa,Lower middle income,22784.027821654978
 SUR,Suriname,2012,Latin America & Caribbean,Upper middle income,28307.60583468163
 SVK,Slovak Republic,2012,Europe & Central Asia,High income,13392.559775825745
 SVN,Slovenia,2012,Europe & Central Asia,High income,17348.20205924773
@@ -11480,7 +11480,7 @@ TLS,Timor-Leste,2012,East Asia & Pacific,Lower middle income,3795.704488799975
 TON,Tonga,2012,East Asia & Pacific,Upper middle income,7639.885769567078
 TTO,Trinidad and Tobago,2012,Latin America & Caribbean,High income,112548.25930506432
 TUN,Tunisia,2012,Middle East & North Africa,Lower middle income,6346.723358238213
-TUR,Türkiye,2012,Europe & Central Asia,Upper middle income,20879.679885663245
+TUR,Turkiye,2012,Europe & Central Asia,Upper middle income,20879.679885663245
 TUV,Tuvalu,2012,East Asia & Pacific,Upper middle income,4544.739266629814
 TZA,Tanzania,2012,Sub-Saharan Africa,Lower middle income,1323767.125
 UGA,Uganda,2012,Sub-Saharan Africa,Low income,1994268.8208997704
@@ -11537,7 +11537,7 @@ CHE,Switzerland,2013,Europe & Central Asia,High income,82234.64987157182
 CHI,Channel Islands,2013,Europe & Central Asia,High income,
 CHL,Chile,2013,Latin America & Caribbean,High income,7492633.794833502
 CHN,China,2013,East Asia & Pacific,Upper middle income,43142.89568894692
-CIV,Côte d'Ivoire,2013,Sub-Saharan Africa,Lower middle income,656395.3621898141
+CIV,Cote d'Ivoire,2013,Sub-Saharan Africa,Lower middle income,656395.3621898141
 CMR,Cameroon,2013,Sub-Saharan Africa,Lower middle income,755913.0359152863
 COD,"Congo, Dem. Rep.",2013,Sub-Saharan Africa,Low income,373892.7729274676
 COG,"Congo, Rep.",2013,Sub-Saharan Africa,Lower middle income,1795053.4232133531
@@ -11546,7 +11546,7 @@ COM,Comoros,2013,Sub-Saharan Africa,Lower middle income,591309.2005496195
 CPV,Cabo Verde,2013,Sub-Saharan Africa,Lower middle income,302218.67485276144
 CRI,Costa Rica,2013,Latin America & Caribbean,Upper middle income,5123489.835360902
 CUB,Cuba,2013,Latin America & Caribbean,Upper middle income,6732.80643980844
-CUW,Curaçao,2013,Latin America & Caribbean,High income,34341.56235803754
+CUW,Curacao,2013,Latin America & Caribbean,High income,34341.56235803754
 CYM,Cayman Islands,2013,Latin America & Caribbean,High income,37879.56435099292
 CYP,Cyprus,2013,Europe & Central Asia,High income,20655.30078125
 CZE,Czechia,2013,Europe & Central Asia,High income,368990.2639003442
@@ -11678,7 +11678,7 @@ SMR,San Marino,2013,Europe & Central Asia,High income,
 SOM,Somalia,2013,Sub-Saharan Africa,Low income,8708322.495966267
 SRB,Serbia,2013,Europe & Central Asia,Upper middle income,552697.2283592764
 SSD,South Sudan,2013,Sub-Saharan Africa,Low income,4625.364921095574
-STP,São Tomé and Principe,2013,Sub-Saharan Africa,Lower middle income,25859.59939511863
+STP,Sao Tome and Principe,2013,Sub-Saharan Africa,Lower middle income,25859.59939511863
 SUR,Suriname,2013,Latin America & Caribbean,Upper middle income,29342.961838612493
 SVK,Slovak Republic,2013,Europe & Central Asia,High income,13659.704551286042
 SVN,Slovenia,2013,Europe & Central Asia,High income,17459.86049196268
@@ -11697,7 +11697,7 @@ TLS,Timor-Leste,2013,East Asia & Pacific,Lower middle income,3574.4849791873826
 TON,Tonga,2013,East Asia & Pacific,Upper middle income,7479.006247140229
 TTO,Trinidad and Tobago,2013,Latin America & Caribbean,High income,121377.65297984562
 TUN,Tunisia,2013,Middle East & North Africa,Lower middle income,6703.170362797961
-TUR,Türkiye,2013,Europe & Central Asia,Upper middle income,23730.48917061417
+TUR,Turkiye,2013,Europe & Central Asia,Upper middle income,23730.48917061417
 TUV,Tuvalu,2013,East Asia & Pacific,Upper middle income,5609.305733650852
 TZA,Tanzania,2013,Sub-Saharan Africa,Lower middle income,1502671.375
 UGA,Uganda,2013,Sub-Saharan Africa,Low income,2076927.629071852
@@ -11754,7 +11754,7 @@ CHE,Switzerland,2014,Europe & Central Asia,High income,81195.34406713488
 CHI,Channel Islands,2014,Europe & Central Asia,High income,
 CHL,Chile,2014,Latin America & Caribbean,High income,7993766.309902105
 CHN,China,2014,East Asia & Pacific,Upper middle income,46971.27636274839
-CIV,Côte d'Ivoire,2014,Sub-Saharan Africa,Lower middle income,1029224.6497638348
+CIV,Cote d'Ivoire,2014,Sub-Saharan Africa,Lower middle income,1029224.6497638348
 CMR,Cameroon,2014,Sub-Saharan Africa,Lower middle income,799252.4135763064
 COD,"Congo, Dem. Rep.",2014,Sub-Saharan Africa,Low income,399961.7557899336
 COG,"Congo, Rep.",2014,Sub-Saharan Africa,Lower middle income,1763043.5174820889
@@ -11763,7 +11763,7 @@ COM,Comoros,2014,Sub-Saharan Africa,Lower middle income,598062.0484962469
 CPV,Cabo Verde,2014,Sub-Saharan Africa,Lower middle income,296403.1863696628
 CRI,Costa Rica,2014,Latin America & Caribbean,Upper middle income,5545360.858024957
 CUB,Cuba,2014,Latin America & Caribbean,Upper middle income,7024.525005502105
-CUW,Curaçao,2014,Latin America & Caribbean,High income,34370.29627385225
+CUW,Curacao,2014,Latin America & Caribbean,High income,34370.29627385225
 CYM,Cayman Islands,2014,Latin America & Caribbean,High income,36831.43269698954
 CYP,Cyprus,2014,Europe & Central Asia,High income,19947.923828125
 CZE,Czechia,2014,Europe & Central Asia,High income,384543.1414280213
@@ -11895,7 +11895,7 @@ SMR,San Marino,2014,Europe & Central Asia,High income,
 SOM,Somalia,2014,Sub-Saharan Africa,Low income,9890648.318972578
 SRB,Serbia,2014,Europe & Central Asia,Upper middle income,561221.9966521639
 SSD,South Sudan,2014,Sub-Saharan Africa,Low income,3144.9241720801865
-STP,São Tomé and Principe,2014,Sub-Saharan Africa,Lower middle income,28065.681504022847
+STP,Sao Tome and Principe,2014,Sub-Saharan Africa,Lower middle income,28065.681504022847
 SUR,Suriname,2014,Latin America & Caribbean,Upper middle income,29949.931716290845
 SVK,Slovak Republic,2014,Europe & Central Asia,High income,13932.29954551402
 SVN,Slovenia,2014,Europe & Central Asia,High income,18084.028458083976
@@ -11914,7 +11914,7 @@ TLS,Timor-Leste,2014,East Asia & Pacific,Lower middle income,2817.0580589620454
 TON,Tonga,2014,East Asia & Pacific,Upper middle income,7530.849886519235
 TTO,Trinidad and Tobago,2014,Latin America & Caribbean,High income,123592.91157617114
 TUN,Tunisia,2014,Middle East & North Africa,Lower middle income,7214.395191928426
-TUR,Türkiye,2014,Europe & Central Asia,Upper middle income,26391.356548124688
+TUR,Turkiye,2014,Europe & Central Asia,Upper middle income,26391.356548124688
 TUV,Tuvalu,2014,East Asia & Pacific,Upper middle income,5208.340214698596
 TZA,Tanzania,2014,Sub-Saharan Africa,Lower middle income,1656837.875
 UGA,Uganda,2014,Sub-Saharan Africa,Low income,2225741.362654269
@@ -11971,7 +11971,7 @@ CHE,Switzerland,2015,Europe & Central Asia,High income,81468.93652513114
 CHI,Channel Islands,2015,Europe & Central Asia,High income,
 CHL,Chile,2015,Latin America & Caribbean,High income,8658548.67263372
 CHN,China,2015,East Asia & Pacific,Upper middle income,49684.114221007934
-CIV,Côte d'Ivoire,2015,Sub-Saharan Africa,Lower middle income,1122649.3946770022
+CIV,Cote d'Ivoire,2015,Sub-Saharan Africa,Lower middle income,1122649.3946770022
 CMR,Cameroon,2015,Sub-Saharan Africa,Lower middle income,816280.1686081644
 COD,"Congo, Dem. Rep.",2015,Sub-Saharan Africa,Low income,413528.4555440931
 COG,"Congo, Rep.",2015,Sub-Saharan Africa,Lower middle income,1459312.2634412148
@@ -11980,7 +11980,7 @@ COM,Comoros,2015,Sub-Saharan Africa,Lower middle income,589644.9817588221
 CPV,Cabo Verde,2015,Sub-Saharan Africa,Lower middle income,304331.0667444211
 CRI,Costa Rica,2015,Latin America & Caribbean,Upper middle income,5903620.767144914
 CUB,Cuba,2015,Latin America & Caribbean,Upper middle income,7585.079719440058
-CUW,Curaçao,2015,Latin America & Caribbean,High income,34156.948913140775
+CUW,Curacao,2015,Latin America & Caribbean,High income,34156.948913140775
 CYM,Cayman Islands,2015,Latin America & Caribbean,High income,38211.41665708985
 CYP,Cyprus,2015,Europe & Central Asia,High income,21026.06640625
 CZE,Czechia,2015,Europe & Central Asia,High income,408507.955436244
@@ -12112,7 +12112,7 @@ SMR,San Marino,2015,Europe & Central Asia,High income,
 SOM,Somalia,2015,Sub-Saharan Africa,Low income,11246377.286626196
 SRB,Serbia,2015,Europe & Central Asia,Upper middle income,579833.1252872467
 SSD,South Sudan,2015,Sub-Saharan Africa,Low income,3387.999998928026
-STP,São Tomé and Principe,2015,Sub-Saharan Africa,Lower middle income,28669.092699031444
+STP,Sao Tome and Principe,2015,Sub-Saharan Africa,Lower middle income,28669.092699031444
 SUR,Suriname,2015,Latin America & Caribbean,Upper middle income,30356.31904079239
 SVK,Slovak Republic,2015,Europe & Central Asia,High income,14412.840736597822
 SVN,Slovenia,2015,Europe & Central Asia,High income,18247.52426786901
@@ -12131,7 +12131,7 @@ TLS,Timor-Leste,2015,East Asia & Pacific,Lower middle income,2316.5964374243767
 TON,Tonga,2015,East Asia & Pacific,Upper middle income,8084.283183505776
 TTO,Trinidad and Tobago,2015,Latin America & Caribbean,High income,116994.87418306136
 TUN,Tunisia,2015,Middle East & North Africa,Lower middle income,7569.551208757322
-TUR,Türkiye,2015,Europe & Central Asia,Upper middle income,29719.33094352295
+TUR,Turkiye,2015,Europe & Central Asia,Upper middle income,29719.33094352295
 TUV,Tuvalu,2015,East Asia & Pacific,Upper middle income,6973.23710581962
 TZA,Tanzania,2015,Sub-Saharan Africa,Lower middle income,1821740.75
 UGA,Uganda,2015,Sub-Saharan Africa,Low income,2396283.3509386308
@@ -12188,7 +12188,7 @@ CHE,Switzerland,2016,Europe & Central Asia,High income,80482.43340947182
 CHI,Channel Islands,2016,Europe & Central Asia,High income,
 CHL,Chile,2016,Latin America & Caribbean,High income,9072700.1093073
 CHN,China,2016,East Asia & Pacific,Upper middle income,53516.31397113396
-CIV,Côte d'Ivoire,2016,Sub-Saharan Africa,Lower middle income,1158394.660410574
+CIV,Cote d'Ivoire,2016,Sub-Saharan Africa,Lower middle income,1158394.660410574
 CMR,Cameroon,2016,Sub-Saharan Africa,Lower middle income,831135.0168672503
 COD,"Congo, Dem. Rep.",2016,Sub-Saharan Africa,Low income,450931.8903542076
 COG,"Congo, Rep.",2016,Sub-Saharan Africa,Lower middle income,1293577.8120869342
@@ -12197,7 +12197,7 @@ COM,Comoros,2016,Sub-Saharan Africa,Lower middle income,606529.9272880284
 CPV,Cabo Verde,2016,Sub-Saharan Africa,Lower middle income,319624.5914175296
 CRI,Costa Rica,2016,Latin America & Caribbean,Upper middle income,6212196.922901275
 CUB,Cuba,2016,Latin America & Caribbean,Upper middle income,7942.682479969162
-CUW,Curaçao,2016,Latin America & Caribbean,High income,33270.46445379122
+CUW,Curacao,2016,Latin America & Caribbean,High income,33270.46445379122
 CYM,Cayman Islands,2016,Latin America & Caribbean,High income,41535.75295157015
 CYP,Cyprus,2016,Europe & Central Asia,High income,21442.86328125
 CZE,Czechia,2016,Europe & Central Asia,High income,423350.5061169761
@@ -12329,7 +12329,7 @@ SMR,San Marino,2016,Europe & Central Asia,High income,
 SOM,Somalia,2016,Sub-Saharan Africa,Low income,11876271.70001295
 SRB,Serbia,2016,Europe & Central Asia,Upper middle income,606128.8787901714
 SSD,South Sudan,2016,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2016,Sub-Saharan Africa,Lower middle income,31917.64826615583
+STP,Sao Tome and Principe,2016,Sub-Saharan Africa,Lower middle income,31917.64826615583
 SUR,Suriname,2016,Latin America & Caribbean,Upper middle income,33754.752318760075
 SVK,Slovak Republic,2016,Europe & Central Asia,High income,14569.63378126014
 SVN,Slovenia,2016,Europe & Central Asia,High income,19088.293603713628
@@ -12348,7 +12348,7 @@ TLS,Timor-Leste,2016,East Asia & Pacific,Lower middle income,1823.179961488271
 TON,Tonga,2016,East Asia & Pacific,Upper middle income,8869.365321123483
 TTO,Trinidad and Tobago,2016,Latin America & Caribbean,High income,105742.420763205
 TUN,Tunisia,2016,Middle East & North Africa,Lower middle income,7978.337907455347
-TUR,Türkiye,2016,Europe & Central Asia,Upper middle income,32781.26866455018
+TUR,Turkiye,2016,Europe & Central Asia,Upper middle income,32781.26866455018
 TUV,Tuvalu,2016,East Asia & Pacific,Upper middle income,7504.229635090306
 TZA,Tanzania,2016,Sub-Saharan Africa,Lower middle income,2013258.125
 UGA,Uganda,2016,Sub-Saharan Africa,Low income,2549414.008134912
@@ -12405,7 +12405,7 @@ CHE,Switzerland,2017,Europe & Central Asia,High income,79875.21569267756
 CHI,Channel Islands,2017,Europe & Central Asia,High income,
 CHL,Chile,2017,Latin America & Caribbean,High income,9382556.071164358
 CHN,China,2017,East Asia & Pacific,Upper middle income,59514.16506340356
-CIV,Côte d'Ivoire,2017,Sub-Saharan Africa,Lower middle income,1191158.923915696
+CIV,Cote d'Ivoire,2017,Sub-Saharan Africa,Lower middle income,1191158.923915696
 CMR,Cameroon,2017,Sub-Saharan Africa,Lower middle income,843549.8838794334
 COD,"Congo, Dem. Rep.",2017,Sub-Saharan Africa,Low income,641929.0858934727
 COG,"Congo, Rep.",2017,Sub-Saharan Africa,Lower middle income,1463903.6004849088
@@ -12414,7 +12414,7 @@ COM,Comoros,2017,Sub-Saharan Africa,Lower middle income,618920.036000126
 CPV,Cabo Verde,2017,Sub-Saharan Africa,Lower middle income,335113.2109870892
 CRI,Costa Rica,2017,Latin America & Caribbean,Upper middle income,6517975.262435216
 CUB,Cuba,2017,Latin America & Caribbean,Upper middle income,8423.922751524844
-CUW,Curaçao,2017,Latin America & Caribbean,High income,33506.13712630679
+CUW,Curacao,2017,Latin America & Caribbean,High income,33506.13712630679
 CYM,Cayman Islands,2017,Latin America & Caribbean,High income,45354.80725373933
 CYP,Cyprus,2017,Europe & Central Asia,High income,22913.49609375
 CZE,Czechia,2017,Europe & Central Asia,High income,455086.0555321576
@@ -12546,7 +12546,7 @@ SMR,San Marino,2017,Europe & Central Asia,High income,36805.59666431759
 SOM,Somalia,2017,Sub-Saharan Africa,Low income,12773433.24276146
 SRB,Serbia,2017,Europe & Central Asia,Upper middle income,634198.2276240311
 SSD,South Sudan,2017,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2017,Sub-Saharan Africa,Lower middle income,33817.03695514238
+STP,Sao Tome and Principe,2017,Sub-Saharan Africa,Lower middle income,33817.03695514238
 SUR,Suriname,2017,Latin America & Caribbean,Upper middle income,40749.83059714582
 SVK,Slovak Republic,2017,Europe & Central Asia,High income,15285.976770249918
 SVN,Slovenia,2017,Europe & Central Asia,High income,20439.58975758667
@@ -12565,7 +12565,7 @@ TLS,Timor-Leste,2017,East Asia & Pacific,Lower middle income,1826.665111583892
 TON,Tonga,2017,East Asia & Pacific,Upper middle income,10036.877104776358
 TTO,Trinidad and Tobago,2017,Latin America & Caribbean,High income,110450.85705667564
 TUN,Tunisia,2017,Middle East & North Africa,Lower middle income,8433.37262009392
-TUR,Türkiye,2017,Europe & Central Asia,Upper middle income,38531.48415708809
+TUR,Turkiye,2017,Europe & Central Asia,Upper middle income,38531.48415708809
 TUV,Tuvalu,2017,East Asia & Pacific,Upper middle income,7561.664203915774
 TZA,Tanzania,2017,Sub-Saharan Africa,Lower middle income,2136959.25
 UGA,Uganda,2017,Sub-Saharan Africa,Low income,2640724.408962176
@@ -12622,7 +12622,7 @@ CHE,Switzerland,2018,Europe & Central Asia,High income,80321.76029373542
 CHI,Channel Islands,2018,Europe & Central Asia,High income,
 CHL,Chile,2018,Latin America & Caribbean,High income,9714242.778501133
 CHN,China,2018,East Asia & Pacific,Upper middle income,65245.9047820012
-CIV,Côte d'Ivoire,2018,Sub-Saharan Africa,Lower middle income,1239556.668733036
+CIV,Cote d'Ivoire,2018,Sub-Saharan Africa,Lower middle income,1239556.668733036
 CMR,Cameroon,2018,Sub-Saharan Africa,Lower middle income,869025.3564387758
 COD,"Congo, Dem. Rep.",2018,Sub-Saharan Africa,Low income,854498.72038254
 COG,"Congo, Rep.",2018,Sub-Saharan Africa,Lower middle income,1592230.9994078365
@@ -12631,7 +12631,7 @@ COM,Comoros,2018,Sub-Saharan Africa,Lower middle income,641302.1017295859
 CPV,Cabo Verde,2018,Sub-Saharan Africa,Lower middle income,352971.5478937399
 CRI,Costa Rica,2018,Latin America & Caribbean,Upper middle income,6761976.066314152
 CUB,Cuba,2018,Latin America & Caribbean,Upper middle income,8701.701693572279
-CUW,Curaçao,2018,Latin America & Caribbean,High income,34020.51656224726
+CUW,Curacao,2018,Latin America & Caribbean,High income,34020.51656224726
 CYM,Cayman Islands,2018,Latin America & Caribbean,High income,49582.65365883731
 CYP,Cyprus,2018,Europe & Central Asia,High income,24000.62109375
 CZE,Czechia,2018,Europe & Central Asia,High income,481068.0749672058
@@ -12763,7 +12763,7 @@ SMR,San Marino,2018,Europe & Central Asia,High income,37371.53062419487
 SOM,Somalia,2018,Sub-Saharan Africa,Low income,12814223.142984722
 SRB,Serbia,2018,Europe & Central Asia,Upper middle income,689428.342205859
 SSD,South Sudan,2018,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2018,Sub-Saharan Africa,Lower middle income,37967.25859262624
+STP,Sao Tome and Principe,2018,Sub-Saharan Africa,Lower middle income,37967.25859262624
 SUR,Suriname,2018,Latin America & Caribbean,Upper middle income,45358.61229663795
 SVK,Slovak Republic,2018,Europe & Central Asia,High income,16240.716747592289
 SVN,Slovenia,2018,Europe & Central Asia,High income,21791.88473470679
@@ -12782,7 +12782,7 @@ TLS,Timor-Leste,2018,East Asia & Pacific,Lower middle income,1779.8836624149558
 TON,Tonga,2018,East Asia & Pacific,Upper middle income,10826.473609129816
 TTO,Trinidad and Tobago,2018,Latin America & Caribbean,High income,107404.68608880522
 TUN,Tunisia,2018,Middle East & North Africa,Lower middle income,9238.441399807476
-TUR,Türkiye,2018,Europe & Central Asia,Upper middle income,45545.00854985758
+TUR,Turkiye,2018,Europe & Central Asia,Upper middle income,45545.00854985758
 TUV,Tuvalu,2018,East Asia & Pacific,Upper middle income,8565.687988955362
 TZA,Tanzania,2018,Sub-Saharan Africa,Lower middle income,2264382.75
 UGA,Uganda,2018,Sub-Saharan Africa,Low income,2820523.731015928
@@ -12839,7 +12839,7 @@ CHE,Switzerland,2019,Europe & Central Asia,High income,80695.14569786642
 CHI,Channel Islands,2019,Europe & Central Asia,High income,
 CHL,Chile,2019,Latin America & Caribbean,High income,9896228.00301584
 CHN,China,2019,East Asia & Pacific,Upper middle income,69881.34943189286
-CIV,Côte d'Ivoire,2019,Sub-Saharan Africa,Lower middle income,1304497.7328851945
+CIV,Cote d'Ivoire,2019,Sub-Saharan Africa,Lower middle income,1304497.7328851945
 CMR,Cameroon,2019,Sub-Saharan Africa,Lower middle income,882373.7922014141
 COD,"Congo, Dem. Rep.",2019,Sub-Saharan Africa,Low income,897341.3733029804
 COG,"Congo, Rep.",2019,Sub-Saharan Africa,Lower middle income,1618132.252649696
@@ -12848,7 +12848,7 @@ COM,Comoros,2019,Sub-Saharan Africa,Lower middle income,667075.7238434056
 CPV,Cabo Verde,2019,Sub-Saharan Africa,Lower middle income,377192.7970816076
 CRI,Costa Rica,2019,Latin America & Caribbean,Upper middle income,6998247.130968986
 CUB,Cuba,2019,Latin America & Caribbean,Upper middle income,9002.078963499685
-CUW,Curaçao,2019,Latin America & Caribbean,High income,34547.4690626051
+CUW,Curacao,2019,Latin America & Caribbean,High income,34547.4690626051
 CYM,Cayman Islands,2019,Latin America & Caribbean,High income,55491.28587413433
 CYP,Cyprus,2019,Europe & Central Asia,High income,24858.953125
 CZE,Czechia,2019,Europe & Central Asia,High income,509888.4263020445
@@ -12980,7 +12980,7 @@ SMR,San Marino,2019,Europe & Central Asia,High income,38672.32722804143
 SOM,Somalia,2019,Sub-Saharan Africa,Low income,14718250.233179403
 SRB,Serbia,2019,Europe & Central Asia,Upper middle income,738451.7298550733
 SSD,South Sudan,2019,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2019,Sub-Saharan Africa,Lower middle income,42261.36608278697
+STP,Sao Tome and Principe,2019,Sub-Saharan Africa,Lower middle income,42261.36608278697
 SUR,Suriname,2019,Latin America & Caribbean,Upper middle income,47437.37140710094
 SVK,Slovak Republic,2019,Europe & Central Asia,High income,16897.714528046276
 SVN,Slovenia,2019,Europe & Central Asia,High income,22907.70332098727
@@ -12999,7 +12999,7 @@ TLS,Timor-Leste,2019,East Asia & Pacific,Lower middle income,2445.395559956827
 TON,Tonga,2019,East Asia & Pacific,Upper middle income,11978.923497632228
 TTO,Trinidad and Tobago,2019,Latin America & Caribbean,High income,102956.1408068002
 TUN,Tunisia,2019,Middle East & North Africa,Lower middle income,9939.48701145974
-TUR,Türkiye,2019,Europe & Central Asia,Upper middle income,51472.83561259316
+TUR,Turkiye,2019,Europe & Central Asia,Upper middle income,51472.83561259316
 TUV,Tuvalu,2019,East Asia & Pacific,Upper middle income,9476.88024826579
 TZA,Tanzania,2019,Sub-Saharan Africa,Lower middle income,2364804.25
 UGA,Uganda,2019,Sub-Saharan Africa,Low income,2995808.3821585933
@@ -13056,7 +13056,7 @@ CHE,Switzerland,2020,Europe & Central Asia,High income,77893.02475860908
 CHI,Channel Islands,2020,Europe & Central Asia,High income,
 CHL,Chile,2020,Latin America & Caribbean,High income,9785750.122731157
 CHN,China,2020,East Asia & Pacific,Upper middle income,71253.01631351428
-CIV,Côte d'Ivoire,2020,Sub-Saharan Africa,Lower middle income,1312453.726177924
+CIV,Cote d'Ivoire,2020,Sub-Saharan Africa,Lower middle income,1312453.726177924
 CMR,Cameroon,2020,Sub-Saharan Africa,Lower middle income,866687.9920782413
 COD,"Congo, Dem. Rep.",2020,Sub-Saharan Africa,Low income,945944.2508345756
 COG,"Congo, Rep.",2020,Sub-Saharan Africa,Lower middle income,1164001.551671345
@@ -13065,7 +13065,7 @@ COM,Comoros,2020,Sub-Saharan Africa,Lower middle income,657053.4729819912
 CPV,Cabo Verde,2020,Sub-Saharan Africa,Lower middle income,296239.3368117534
 CRI,Costa Rica,2020,Latin America & Caribbean,Upper middle income,6708766.72934285
 CUB,Cuba,2020,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,2020,Latin America & Caribbean,High income,29480.754673032006
+CUW,Curacao,2020,Latin America & Caribbean,High income,29480.754673032006
 CYM,Cayman Islands,2020,Latin America & Caribbean,High income,47708.42804296475
 CYP,Cyprus,2020,Europe & Central Asia,High income,23035.064453125
 CZE,Czechia,2020,Europe & Central Asia,High income,507060.7592660138
@@ -13197,7 +13197,7 @@ SMR,San Marino,2020,Europe & Central Asia,High income,35905.6664804305
 SOM,Somalia,2020,Sub-Saharan Africa,Low income,14278760.73448662
 SRB,Serbia,2020,Europe & Central Asia,Upper middle income,773566.2491016978
 SSD,South Sudan,2020,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2020,Sub-Saharan Africa,Lower middle income,47168.096102743766
+STP,Sao Tome and Principe,2020,Sub-Saharan Africa,Lower middle income,47168.096102743766
 SUR,Suriname,2020,Latin America & Caribbean,Upper middle income,53579.54176260812
 SVK,Slovak Republic,2020,Europe & Central Asia,High income,16969.639448181817
 SVN,Slovenia,2020,Europe & Central Asia,High income,22260.816231207955
@@ -13216,7 +13216,7 @@ TLS,Timor-Leste,2020,East Asia & Pacific,Lower middle income,2239.394305362713
 TON,Tonga,2020,East Asia & Pacific,Upper middle income,11547.304615501547
 TTO,Trinidad and Tobago,2020,Latin America & Caribbean,High income,87833.97332405887
 TUN,Tunisia,2020,Middle East & North Africa,Lower middle income,9513.89864742027
-TUR,Türkiye,2020,Europe & Central Asia,Upper middle income,59825.35727666041
+TUR,Turkiye,2020,Europe & Central Asia,Upper middle income,59825.35727666041
 TUV,Tuvalu,2020,East Asia & Pacific,Upper middle income,9242.66871442768
 TZA,Tanzania,2020,Sub-Saharan Africa,Lower middle income,2484629.25
 UGA,Uganda,2020,Sub-Saharan Africa,Low income,3081443.613189562
@@ -13273,7 +13273,7 @@ CHE,Switzerland,2021,Europe & Central Asia,High income,84039.94567895902
 CHI,Channel Islands,2021,Europe & Central Asia,High income,
 CHL,Chile,2021,Latin America & Caribbean,High income,11611962.748620236
 CHN,China,2021,East Asia & Pacific,Upper middle income,80803.10850009913
-CIV,Côte d'Ivoire,2021,Sub-Saharan Africa,Lower middle income,1404046.6852163689
+CIV,Cote d'Ivoire,2021,Sub-Saharan Africa,Lower middle income,1404046.6852163689
 CMR,Cameroon,2021,Sub-Saharan Africa,Lower middle income,902445.8145462336
 COD,"Congo, Dem. Rep.",2021,Sub-Saharan Africa,Low income,1106994.3668056887
 COG,"Congo, Rep.",2021,Sub-Saharan Africa,Lower middle income,1353273.1547278988
@@ -13282,7 +13282,7 @@ COM,Comoros,2021,Sub-Saharan Africa,Lower middle income,659351.9555758405
 CPV,Cabo Verde,2021,Sub-Saharan Africa,Lower middle income,312274.2773312923
 CRI,Costa Rica,2021,Latin America & Caribbean,Upper middle income,7312375.732122833
 CUB,Cuba,2021,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,2021,Latin America & Caribbean,High income,32378.41018782521
+CUW,Curacao,2021,Latin America & Caribbean,High income,32378.41018782521
 CYM,Cayman Islands,2021,Latin America & Caribbean,High income,51018.910707995776
 CYP,Cyprus,2021,Europe & Central Asia,High income,25257.1640625
 CZE,Czechia,2021,Europe & Central Asia,High income,557732.1685640998
@@ -13414,7 +13414,7 @@ SMR,San Marino,2021,Europe & Central Asia,High income,41750.77153356053
 SOM,Somalia,2021,Sub-Saharan Africa,Low income,14948001.448637877
 SRB,Serbia,2021,Europe & Central Asia,Upper middle income,882317.0510434476
 SSD,South Sudan,2021,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2021,Sub-Saharan Africa,Lower middle income,49289.126293661786
+STP,Sao Tome and Principe,2021,Sub-Saharan Africa,Lower middle income,49289.126293661786
 SUR,Suriname,2021,Latin America & Caribbean,Upper middle income,86393.99336647063
 SVK,Slovak Republic,2021,Europe & Central Asia,High income,17886.85018322099
 SVN,Slovenia,2021,Europe & Central Asia,High income,24500.6287715024
@@ -13433,7 +13433,7 @@ TLS,Timor-Leste,2021,East Asia & Pacific,Lower middle income,2986.874896853912
 TON,Tonga,2021,East Asia & Pacific,Upper middle income,10644.51927521058
 TTO,Trinidad and Tobago,2021,Latin America & Caribbean,High income,108113.39673309244
 TUN,Tunisia,2021,Middle East & North Africa,Lower middle income,10358.734353066548
-TUR,Türkiye,2021,Europe & Central Asia,Upper middle income,85108.22047828072
+TUR,Turkiye,2021,Europe & Central Asia,Upper middle income,85108.22047828072
 TUV,Tuvalu,2021,East Asia & Pacific,Upper middle income,9645.055337379506
 TZA,Tanzania,2021,Sub-Saharan Africa,Lower middle income,2588903.0
 UGA,Uganda,2021,Sub-Saharan Africa,Low income,3151628.7915969323
@@ -13490,7 +13490,7 @@ CHE,Switzerland,2022,Europe & Central Asia,High income,87248.90402654585
 CHI,Channel Islands,2022,Europe & Central Asia,High income,
 CHL,Chile,2022,Latin America & Caribbean,High income,12657651.997708805
 CHN,China,2022,East Asia & Pacific,Upper middle income,84780.59693656948
-CIV,Côte d'Ivoire,2022,Sub-Saharan Africa,Lower middle income,1502545.9256075397
+CIV,Cote d'Ivoire,2022,Sub-Saharan Africa,Lower middle income,1502545.9256075397
 CMR,Cameroon,2022,Sub-Saharan Africa,Lower middle income,960804.4711902072
 COD,"Congo, Dem. Rep.",2022,Sub-Saharan Africa,Low income,1262544.7092911992
 COG,"Congo, Rep.",2022,Sub-Saharan Africa,Lower middle income,1543497.0962363812
@@ -13499,7 +13499,7 @@ COM,Comoros,2022,Sub-Saharan Africa,Lower middle income,697166.1539435977
 CPV,Cabo Verde,2022,Sub-Saharan Africa,Lower middle income,391109.4907013246
 CRI,Costa Rica,2022,Latin America & Caribbean,Upper middle income,8008538.973362603
 CUB,Cuba,2022,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,2022,Latin America & Caribbean,High income,
+CUW,Curacao,2022,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2022,Latin America & Caribbean,High income,
 CYP,Cyprus,2022,Europe & Central Asia,High income,28146.43359375
 CZE,Czechia,2022,Europe & Central Asia,High income,606040.0569034189
@@ -13631,7 +13631,7 @@ SMR,San Marino,2022,Europe & Central Asia,High income,
 SOM,Somalia,2022,Sub-Saharan Africa,Low income,15819003.101562772
 SRB,Serbia,2022,Europe & Central Asia,Upper middle income,1011887.5286489266
 SSD,South Sudan,2022,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2022,Sub-Saharan Africa,Lower middle income,56676.51640425719
+STP,Sao Tome and Principe,2022,Sub-Saharan Africa,Lower middle income,56676.51640425719
 SUR,Suriname,2022,Latin America & Caribbean,Upper middle income,132468.82667314817
 SVK,Slovak Republic,2022,Europe & Central Asia,High income,19854.713175417437
 SVN,Slovenia,2022,Europe & Central Asia,High income,26485.999907196358
@@ -13650,7 +13650,7 @@ TLS,Timor-Leste,2022,East Asia & Pacific,Lower middle income,2429.380986747146
 TON,Tonga,2022,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,2022,Latin America & Caribbean,High income,126526.85807853988
 TUN,Tunisia,2022,Middle East & North Africa,Lower middle income,11328.795793579004
-TUR,Türkiye,2022,Europe & Central Asia,Upper middle income,174981.4372003417
+TUR,Turkiye,2022,Europe & Central Asia,Upper middle income,174981.4372003417
 TUV,Tuvalu,2022,East Asia & Pacific,Upper middle income,10144.104334329208
 TZA,Tanzania,2022,Sub-Saharan Africa,Lower middle income,2699377.75
 UGA,Uganda,2022,Sub-Saharan Africa,Low income,3378534.9426980363
@@ -13707,7 +13707,7 @@ CHE,Switzerland,2023,Europe & Central Asia,High income,
 CHI,Channel Islands,2023,Europe & Central Asia,High income,
 CHL,Chile,2023,Latin America & Caribbean,High income,
 CHN,China,2023,East Asia & Pacific,Upper middle income,
-CIV,Côte d'Ivoire,2023,Sub-Saharan Africa,Lower middle income,
+CIV,Cote d'Ivoire,2023,Sub-Saharan Africa,Lower middle income,
 CMR,Cameroon,2023,Sub-Saharan Africa,Lower middle income,
 COD,"Congo, Dem. Rep.",2023,Sub-Saharan Africa,Low income,
 COG,"Congo, Rep.",2023,Sub-Saharan Africa,Lower middle income,
@@ -13716,7 +13716,7 @@ COM,Comoros,2023,Sub-Saharan Africa,Lower middle income,
 CPV,Cabo Verde,2023,Sub-Saharan Africa,Lower middle income,
 CRI,Costa Rica,2023,Latin America & Caribbean,Upper middle income,
 CUB,Cuba,2023,Latin America & Caribbean,Upper middle income,
-CUW,Curaçao,2023,Latin America & Caribbean,High income,
+CUW,Curacao,2023,Latin America & Caribbean,High income,
 CYM,Cayman Islands,2023,Latin America & Caribbean,High income,
 CYP,Cyprus,2023,Europe & Central Asia,High income,
 CZE,Czechia,2023,Europe & Central Asia,High income,
@@ -13848,7 +13848,7 @@ SMR,San Marino,2023,Europe & Central Asia,High income,
 SOM,Somalia,2023,Sub-Saharan Africa,Low income,
 SRB,Serbia,2023,Europe & Central Asia,Upper middle income,
 SSD,South Sudan,2023,Sub-Saharan Africa,Low income,
-STP,São Tomé and Principe,2023,Sub-Saharan Africa,Lower middle income,
+STP,Sao Tome and Principe,2023,Sub-Saharan Africa,Lower middle income,
 SUR,Suriname,2023,Latin America & Caribbean,Upper middle income,
 SVK,Slovak Republic,2023,Europe & Central Asia,High income,
 SVN,Slovenia,2023,Europe & Central Asia,High income,
@@ -13867,7 +13867,7 @@ TLS,Timor-Leste,2023,East Asia & Pacific,Lower middle income,
 TON,Tonga,2023,East Asia & Pacific,Upper middle income,
 TTO,Trinidad and Tobago,2023,Latin America & Caribbean,High income,
 TUN,Tunisia,2023,Middle East & North Africa,Lower middle income,
-TUR,Türkiye,2023,Europe & Central Asia,Upper middle income,
+TUR,Turkiye,2023,Europe & Central Asia,Upper middle income,
 TUV,Tuvalu,2023,East Asia & Pacific,Upper middle income,
 TZA,Tanzania,2023,Sub-Saharan Africa,Lower middle income,
 UGA,Uganda,2023,Sub-Saharan Africa,Low income,

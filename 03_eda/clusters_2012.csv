@@ -1,4 +1,4 @@
-Country Name,Country Code,Year,GNI,Population,Region,Income Group,special_notes,gni_index,log_gni_index,Cluster,Cluster Mapped
+country_name,country_code,Año,GNI,Population,Region,Income Group,special_notes,gni_index,log_gni_index,Cluster,Cluster Mapped
 Aruba,ABW,2012,2499117856.8350725,102112.0,Latin America & Caribbean,High income,,24474.281738043253,10.105418978590608,3,Low income
 Afghanistan,AFG,2012,19961261723.91998,30466479.0,South Asia,Low income,"The reporting period for national accounts data is designated as either calendar year basis (CY) or fiscal year basis (FY). For this country, it is fiscal year-based (fiscal year-end: March 20). Also, an estimate (PA.NUS.ATLS) of the exchange rate covers the same period and thus differs from the official exchange rate (CY).
 

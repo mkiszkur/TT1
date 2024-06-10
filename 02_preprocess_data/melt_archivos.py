@@ -8,7 +8,7 @@ def generar_csv_from_archivo(file_path):
     df = pd.read_excel(file_path, sheet_name='Data', skiprows=3)
 
     # Usamos la función melt para transformar el dataset
-    df_long = pd.melt(df, id_vars=['Country Name', 'Country Code', 'Indicator Name', 'Indicator Code'],
+    df_long = pd.melt(df, id_vars=['country_name', 'country_code', 'Indicator Name', 'Indicator Code'],
                     var_name='Año', value_name='Valor')
 
     indicator_code = df['Indicator Code'].iloc[0]
@@ -26,7 +26,7 @@ def generar_csv_from_archivo(file_path):
         csv_file_path = f"{csv_base_path} ({counter}).csv"
         counter += 1
    
-    df_long[['Country Name', 'Country Code', 'Año', indicator_code]].to_csv(csv_file_path, quotechar='"', quoting=csv.QUOTE_NONNUMERIC, index=False)
+    df_long[['country_name', 'country_code', 'Año', indicator_code]].to_csv(csv_file_path, quotechar='"', quoting=csv.QUOTE_NONNUMERIC, index=False)
 
     # Muestra las primeras filas del dataframe transformado para verificar
     #print(df_long.head())

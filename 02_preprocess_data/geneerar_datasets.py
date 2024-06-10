@@ -26,8 +26,8 @@ for titulo, grupo in df_principal.groupby('titulo_seccion'):
                 if df_combinado.empty:
                     df_combinado = df_indicador
                 else:
-                    df_combinado = pd.merge(df_combinado, df_indicador[['Country Name','Country Code','Año', nombre_columna_valor]],
-                                            on=['Country Name','Country Code','Año'], how='outer')
+                    df_combinado = pd.merge(df_combinado, df_indicador[['country_name','country_code','Año', nombre_columna_valor]],
+                                            on=['country_name','country_code','Año'], how='outer')
 
     # Guardar el DataFrame combinado en un nuevo CSV
     if not df_combinado.empty:

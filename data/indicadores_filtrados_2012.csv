@@ -1,7 +1,13 @@
 titulo_seccion,codigo_indicador,INDICATOR_NAME,estado
+Agriculture & Rural Development,AG.LND.CREL.HA,Land under cereal production (hectares),https://data.worldbank.org/indicator/AG.LND.CREL.HA?view=chart
+Agriculture & Rural Development,AG.PRD.CREL.MT,Cereal production (metric tons),https://data.worldbank.org/indicator/AG.PRD.CREL.MT?view=chart
 Agriculture & Rural Development,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),https://data.worldbank.org/indicator/AG.PRD.CROP.XD?view=chart
 Agriculture & Rural Development,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),https://data.worldbank.org/indicator/AG.PRD.FOOD.XD?view=chart
 Agriculture & Rural Development,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),https://data.worldbank.org/indicator/AG.PRD.LVSK.XD?view=chart
+Agriculture & Rural Development,AG.YLD.CREL.KG,Cereal yield (kg per hectare),https://data.worldbank.org/indicator/AG.YLD.CREL.KG?view=chart
+Agriculture & Rural Development,AG.YLD.CREL.KG,Cereal yield (kg per hectare),https://data.worldbank.org/indicator/AG.YLD.CREL.KG?view=chart
+Climate Change,AG.YLD.CREL.KG,Cereal yield (kg per hectare),https://data.worldbank.org/indicator/AG.YLD.CREL.KG?view=chart
+Climate Change,AG.YLD.CREL.KG,Cereal yield (kg per hectare),https://data.worldbank.org/indicator/AG.YLD.CREL.KG?view=chart
 Agriculture & Rural Development,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS?view=chart
 Agriculture & Rural Development,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS?view=chart
 Gender,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS?view=chart
@@ -29,6 +35,12 @@ Financial Sector,SM.POP.NETM,Net migration,https://data.worldbank.org/indicator/
 Financial Sector,SM.POP.NETM,Net migration,https://data.worldbank.org/indicator/SM.POP.NETM?view=chart
 Health,SM.POP.NETM,Net migration,https://data.worldbank.org/indicator/SM.POP.NETM?view=chart
 Health,SM.POP.NETM,Net migration,https://data.worldbank.org/indicator/SM.POP.NETM?view=chart
+Climate Change,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
+Climate Change,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
+Economy & Growth,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
+Economy & Growth,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
+Financial Sector,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
+Financial Sector,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart
 Climate Change,SP.POP.GROW,Population growth (annual %),https://data.worldbank.org/indicator/SP.POP.GROW?view=chart
 Health,SP.POP.GROW,Population growth (annual %),https://data.worldbank.org/indicator/SP.POP.GROW?view=chart
 Climate Change,SP.POP.TOTL,"Population, total",https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart
@@ -79,8 +91,12 @@ Economy & Growth,NY.GNP.MKTP.CD,GNI (current US$),https://data.worldbank.org/ind
 External Debt,NY.GNP.MKTP.CD,GNI (current US$),https://data.worldbank.org/indicator/NY.GNP.MKTP.CD?view=chart
 Economy & Growth,NY.GNP.MKTP.CN,GNI (current LCU),https://data.worldbank.org/indicator/NY.GNP.MKTP.CN?view=chart
 Economy & Growth,NY.GNP.MKTP.CN.AD,GNI: linked series (current LCU),https://data.worldbank.org/indicator/NY.GNP.MKTP.CN.AD?view=chart
+Economy & Growth,NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)",https://data.worldbank.org/indicator/NY.GNP.MKTP.PP.CD?view=chart
 Economy & Growth,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",https://data.worldbank.org/indicator/NY.GNP.PCAP.CD?view=chart
 Economy & Growth,NY.GNP.PCAP.CN,GNI per capita (current LCU),https://data.worldbank.org/indicator/NY.GNP.PCAP.CN?view=chart
+Economy & Growth,NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",https://data.worldbank.org/indicator/NY.GNP.PCAP.PP.CD?view=chart
+Economy & Growth,NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$),https://data.worldbank.org/indicator/NY.GSR.NFCY.CD?view=chart
+Economy & Growth,NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU),https://data.worldbank.org/indicator/NY.GSR.NFCY.CN?view=chart
 Economy & Growth,PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),https://data.worldbank.org/indicator/PA.NUS.ATLS?view=chart
 Financial Sector,PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),https://data.worldbank.org/indicator/PA.NUS.ATLS?view=chart
 Economy & Growth,PA.NUS.PPP,"PPP conversion factor, GDP (LCU per international $)",https://data.worldbank.org/indicator/PA.NUS.PPP?view=chart
@@ -136,8 +152,21 @@ Environment,SH.STA.BASS.ZS,People using at least basic sanitation services (% of
 Environment,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),https://data.worldbank.org/indicator/SH.STA.BASS.ZS?view=chart
 Health,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),https://data.worldbank.org/indicator/SH.STA.BASS.ZS?view=chart
 Health,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),https://data.worldbank.org/indicator/SH.STA.BASS.ZS?view=chart
+Environment,SH.STA.ODFC.ZS,People practicing open defecation (% of population),https://data.worldbank.org/indicator/SH.STA.ODFC.ZS?view=chart
+Environment,SH.STA.ODFC.ZS,People practicing open defecation (% of population),https://data.worldbank.org/indicator/SH.STA.ODFC.ZS?view=chart
+Health,SH.STA.ODFC.ZS,People practicing open defecation (% of population),https://data.worldbank.org/indicator/SH.STA.ODFC.ZS?view=chart
+Health,SH.STA.ODFC.ZS,People practicing open defecation (% of population),https://data.worldbank.org/indicator/SH.STA.ODFC.ZS?view=chart
 Financial Sector,NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series (annual %)",https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG.AD?view=chart
 Financial Sector,NY.GDP.DEFL.ZS.AD,GDP deflator: linked series (base year varies by country),https://data.worldbank.org/indicator/NY.GDP.DEFL.ZS.AD?view=chart
+Gender,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Gender,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Gender,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Public Sector,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Public Sector,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Public Sector,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Social Development,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Social Development,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
+Social Development,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart
 Gender,SG.LAW.INDX,Women Business and the Law Index Score (scale 1-100),https://data.worldbank.org/indicator/SG.LAW.INDX?view=chart
 Gender,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.EMP.1524.SP.FE.ZS?view=chart
 Gender,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.EMP.1524.SP.FE.ZS?view=chart
@@ -247,9 +276,12 @@ Gender,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 1
 Gender,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS?view=chart
 Social Protection & Labor,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS?view=chart
 Social Protection & Labor,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS?view=chart
+Health,SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",https://data.worldbank.org/indicator/SH.IMM.HEPB?view=chart
 Health,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",https://data.worldbank.org/indicator/SH.IMM.IDPT?view=chart
 Health,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",https://data.worldbank.org/indicator/SH.IMM.MEAS?view=chart
 Health,SH.TBS.DTEC.ZS,"Tuberculosis case detection rate (%, all forms)",https://data.worldbank.org/indicator/SH.TBS.DTEC.ZS?view=chart
+Health,SM.POP.REFG.OR,Refugee population by country or territory of origin,https://data.worldbank.org/indicator/SM.POP.REFG.OR?view=chart
+Social Development,SM.POP.REFG.OR,Refugee population by country or territory of origin,https://data.worldbank.org/indicator/SM.POP.REFG.OR?view=chart
 Health,SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)",https://data.worldbank.org/indicator/SP.POP.0004.FE.5Y?view=chart
 Health,SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)",https://data.worldbank.org/indicator/SP.POP.0004.MA.5Y?view=chart
 Health,SP.POP.0014.FE.IN,"Population ages 0-14, female",https://data.worldbank.org/indicator/SP.POP.0014.FE.IN?view=chart
