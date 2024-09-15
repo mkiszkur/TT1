@@ -1,0 +1,28 @@
+Introducción muy corta
+Marco teorico esta bien
+
+En la introducción contar lo que hoy esta en la introducción y el marco teórico
+Conceptos y tecnicas debe ir a la introducción
+Evaluacion de los clusters. Incluir la formula de silouethe y lo mismo para la inercia.
+
+
+Poner las cosas de evaluación en la metodología y sacarlo de la introducción
+
+
+La ultima sección de la introducción es los objetivaos del trabajo. Titulo objetivos: Poner objetivos o hipótesis. La hipótesis no necesariamente tiene que validarse en el trabajo.
+
+Podemos decir que no podemos ni confirmar ni refutar la tesis. 
+
+Metodologia y fuentes de datos
+Solo describir de donde saque el dataset algo corto
+Luego una sección de nivel 1 para  preparación de los datos (o análisis exploratorio y preparación de los datos)
+
+Lo de herramientas tiene que ir en las herramientas y librerías
+Análisis exploratorio tambien ponerlo como nivel 1
+}
+
+Agragar la bibliografía de los métodos que use
+Poner las urls de las herramientas y librerías que use
+
+
+
